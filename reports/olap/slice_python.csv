@@ -1,0 +1,49 @@
+category_name,band_name,submissions,acceptance_pct
+algorithms,Newbie,129,48.06
+algorithms,Pupil,202,40.1
+algorithms,Specialist,317,47.0
+algorithms,Expert,1332,46.55
+algorithms,Candidate Master,493,43.41
+algorithms,Master,721,51.46
+algorithms,Grandmaster,1975,41.87
+data structures,Newbie,8,37.5
+data structures,Pupil,18,33.33
+data structures,Specialist,37,35.14
+data structures,Expert,149,35.57
+data structures,Candidate Master,89,25.84
+data structures,Master,100,42.0
+data structures,Grandmaster,383,33.16
+graph theory,Newbie,7,42.86
+graph theory,Pupil,13,15.38
+graph theory,Specialist,24,25.0
+graph theory,Expert,144,26.39
+graph theory,Candidate Master,160,10.0
+graph theory,Master,120,34.17
+graph theory,Grandmaster,408,34.31
+implementation,Newbie,70,58.57
+implementation,Pupil,137,43.8
+implementation,Specialist,174,48.85
+implementation,Expert,891,43.55
+implementation,Candidate Master,328,30.79
+implementation,Master,515,43.69
+implementation,Grandmaster,1244,38.26
+math,Newbie,98,55.1
+math,Pupil,130,36.92
+math,Specialist,214,46.26
+math,Expert,895,48.27
+math,Candidate Master,289,47.75
+math,Master,438,54.11
+math,Grandmaster,1314,45.51
+other,Newbie,5,20.0
+other,Specialist,6,33.33
+other,Expert,148,12.84
+other,Candidate Master,51,25.49
+other,Master,277,17.69
+other,Grandmaster,493,24.14
+strings,Newbie,28,35.71
+strings,Pupil,41,43.9
+strings,Specialist,57,61.4
+strings,Expert,248,38.31
+strings,Candidate Master,91,40.66
+strings,Master,191,36.65
+strings,Grandmaster,303,38.61

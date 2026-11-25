@@ -1,0 +1,50 @@
+[project]
+name = "cfiq"
+version = "0.1.0"
+description = "CFIQ: Competitive Programming Analytics Warehouse and Mining Engine on Codeforces data"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "requests>=2.31",
+    "pandas>=2.2",
+    "numpy>=1.26",
+    "sqlalchemy>=2.0",
+    "psycopg[binary]>=3.1",
+    "mlxtend>=0.23",
+    "scikit-learn>=1.4",
+    "matplotlib>=3.8",
+    "pyyaml>=6.0",
+    "python-dotenv>=1.0",
+]
+
+[project.scripts]
+cfiq = "cfiq.cli:main"
+
+[dependency-groups]
+dev = [
+    "pytest>=8.0",
+    "ruff>=0.5",
+    "jupyter>=1.0",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["cfiq"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"
+extend-exclude = ["notebooks"]   # generated demo notebooks (scripts/build_notebooks.py)
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "B", "UP"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+
+[tool.uv]
+# fonttools 4.69.0 (matplotlib dependency) shipped cp311-only wheels; cap until fixed.
+constraint-dependencies = ["fonttools<4.69"]

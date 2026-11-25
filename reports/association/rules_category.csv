@@ -1,0 +1,19 @@
+rule_set,antecedents,consequents,support,confidence,lift
+category:graph theory,shortest paths,"dfs and similar, graphs",0.4017,0.972,1.3293
+category:graph theory,"dfs and similar, shortest paths",graphs,0.4017,0.9929,1.2818
+category:graph theory,"dfs and similar, graphs",trees,0.6792,0.9289,1.2703
+category:graph theory,trees,"dfs and similar, graphs",0.6792,0.9289,1.2703
+category:graph theory,shortest paths,graphs,0.4046,0.979,1.264
+category:graph theory,graph matchings,graphs,0.4017,0.9586,1.2376
+category:graph theory,"graphs, shortest paths",dfs and similar,0.4017,0.9929,1.2269
+category:graph theory,"graphs, trees",dfs and similar,0.6792,0.9916,1.2253
+category:graph theory,dfs and similar,"graphs, trees",0.6792,0.8393,1.2253
+category:graph theory,dfs and similar,trees,0.7225,0.8929,1.2211
+category:graph theory,trees,dfs and similar,0.7225,0.9881,1.2211
+category:graph theory,"dfs and similar, trees",graphs,0.6792,0.94,1.2136
+category:graph theory,graphs,"dfs and similar, trees",0.6792,0.8769,1.2136
+category:graph theory,shortest paths,dfs and similar,0.4046,0.979,1.2098
+category:graph theory,trees,graphs,0.685,0.9368,1.2094
+category:graph theory,graphs,trees,0.685,0.8843,1.2094
+category:graph theory,dfs and similar,graphs,0.7312,0.9036,1.1666
+category:graph theory,graphs,dfs and similar,0.7312,0.944,1.1666

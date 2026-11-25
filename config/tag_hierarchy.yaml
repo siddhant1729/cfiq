@@ -1,0 +1,58 @@
+# Concept hierarchy for problem tags: tag -> parent category.
+# Used to build dim_tag -> dim_tag_category (snowflaked dimension) and the
+# category-level features in the mining modules. Tags not listed map to "other".
+
+algorithms:
+  - dp
+  - greedy
+  - bitmasks
+  - binary search
+  - two pointers
+  - sortings
+  - divide and conquer
+  - ternary search
+  - meet-in-the-middle
+  - constructive algorithms
+
+graph theory:
+  - graphs
+  - trees
+  - dfs and similar
+  - shortest paths
+  - graph matchings
+  - flows
+  - 2-sat
+
+math:
+  - math
+  - number theory
+  - combinatorics
+  - probabilities
+  - matrices
+  - fft
+  - chinese remainder theorem
+  - geometry
+  - games
+
+strings:
+  - strings
+  - hashing
+  - string suffix structures
+  - expression parsing
+
+data structures:
+  - data structures
+  - dsu
+
+implementation:
+  - implementation
+  - brute force
+  - interactive
+  - communication
+  - schedules
+
+# Meta tags ("*special", "*broken") say nothing about the algorithm used; they
+# are listed here only for documentation and roll up to "other".
+other:
+  - "*special"
+  - "*broken"

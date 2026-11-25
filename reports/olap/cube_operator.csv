@@ -1,0 +1,55 @@
+band,language_family,submissions,acceptance_pct
+Newbie,C++,1937,41.66
+Newbie,Java,192,52.08
+Newbie,Python,181,50.83
+Newbie,** ALL **,2321,43.08
+Pupil,C++,9024,49.87
+Pupil,Python,287,41.81
+Pupil,Java,103,73.79
+Pupil,C,43,23.26
+Pupil,** ALL **,9471,49.71
+Specialist,C++,10283,49.48
+Specialist,Python,388,51.03
+Specialist,C,58,18.97
+Specialist,** ALL **,10739,49.36
+Expert,C++,20109,48.18
+Expert,Python,1886,45.49
+Expert,Java,730,44.38
+Expert,Kotlin,113,38.94
+Expert,C,35,0.0
+Expert,** ALL **,22904,47.69
+Candidate Master,C++,10290,51.22
+Candidate Master,Python,753,37.72
+Candidate Master,C,47,8.51
+Candidate Master,** ALL **,11117,50.06
+Master,C++,21825,46.45
+Master,Python,1109,44.91
+Master,C#,659,52.35
+Master,Other,430,30.0
+Master,C,69,30.43
+Master,Kotlin,66,69.7
+Master,Java,47,59.57
+Master,Pascal,24,25.0
+Master,** ALL **,24229,46.27
+Grandmaster,C++,58013,45.23
+Grandmaster,Kotlin,3205,48.64
+Grandmaster,Python,2710,41.18
+Grandmaster,Rust,1922,60.98
+Grandmaster,Other,847,25.62
+Grandmaster,Pascal,689,58.49
+Grandmaster,C,236,37.29
+Grandmaster,Java,170,58.82
+Grandmaster,Go,48,60.42
+Grandmaster,C#,22,45.45
+Grandmaster,** ALL **,67862,45.59
+** ALL **,C++,131481,46.95
+** ALL **,Python,7314,43.29
+** ALL **,Kotlin,3408,48.59
+** ALL **,Java,1252,50.4
+** ALL **,C,494,27.13
+** ALL **,** ALL **,148643,46.85
+** ALL **,Other,1303,27.09
+** ALL **,Pascal,736,56.11
+** ALL **,C#,683,52.12
+** ALL **,Rust,1922,60.98
+** ALL **,Go,48,60.42

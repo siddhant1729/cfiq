@@ -1,0 +1,1569 @@
+rule_set,antecedents,consequents,support,confidence,lift
+all,divide and conquer,"geometry, trees",0.4393,0.8352,1.505
+all,divide and conquer,"dsu, interactive",0.4364,0.8297,1.4951
+all,hashing,"combinatorics, geometry",0.4046,0.8696,1.4749
+all,divide and conquer,"dsu, trees",0.4798,0.9121,1.4747
+all,divide and conquer,"combinatorics, interactive",0.448,0.8516,1.4734
+all,hashing,"dfs and similar, geometry",0.4162,0.8944,1.4667
+all,divide and conquer,"interactive, trees",0.4538,0.8626,1.4631
+all,divide and conquer,"combinatorics, dsu",0.4798,0.9121,1.461
+all,hashing,"geometry, graphs",0.4017,0.8634,1.4572
+all,divide and conquer,"combinatorics, trees",0.4971,0.9451,1.4469
+all,divide and conquer,"dsu, geometry",0.4306,0.8187,1.4379
+all,divide and conquer,"dfs and similar, interactive",0.4509,0.8571,1.4327
+all,divide and conquer,"graphs, interactive",0.4538,0.8626,1.4281
+all,divide and conquer,"combinatorics, geometry",0.4393,0.8352,1.4165
+all,hashing,"bitmasks, geometry",0.4162,0.8944,1.4131
+all,divide and conquer,"geometry, graphs",0.4393,0.8352,1.4096
+all,hashing,"dsu, trees",0.4046,0.8696,1.4059
+all,hashing,"binary search, geometry",0.4133,0.8882,1.4033
+all,hashing,"combinatorics, dsu",0.4075,0.8758,1.4029
+all,divide and conquer,"bitmasks, interactive",0.4624,0.8791,1.4017
+all,hashing,"dp, geometry",0.4277,0.9193,1.4012
+all,divide and conquer,"games, interactive",0.4566,0.8681,1.3971
+all,divide and conquer,"dsu, graphs",0.4827,0.9176,1.3925
+all,hashing,"games, geometry",0.4249,0.913,1.3917
+all,divide and conquer,"graphs, trees",0.5,0.9505,1.3877
+all,divide and conquer,"dfs and similar, geometry",0.4451,0.8462,1.3875
+all,divide and conquer,"combinatorics, dfs and similar",0.5029,0.956,1.3841
+all,divide and conquer,"combinatorics, graphs",0.5029,0.956,1.3841
+all,divide and conquer,"data structures, interactive",0.4595,0.8736,1.3802
+all,hashing,"combinatorics, trees",0.4191,0.9006,1.3788
+all,"divide and conquer, trees",interactive,0.4538,0.892,1.3779
+all,hashing,"geometry, two pointers",0.422,0.9068,1.3762
+all,divide and conquer,"bitmasks, dsu",0.4913,0.9341,1.3753
+all,"combinatorics, hashing",geometry,0.4046,0.9333,1.3742
+all,divide and conquer,"interactive, two pointers",0.4595,0.8736,1.374
+all,"divide and conquer, dsu",interactive,0.4364,0.8882,1.372
+all,divide and conquer,"dp, interactive",0.4624,0.8791,1.3702
+all,"divide and conquer, graphs",interactive,0.4538,0.887,1.3701
+all,divide and conquer,"binary search, interactive",0.4595,0.8736,1.3678
+all,divide and conquer,"dfs and similar, dsu",0.4798,0.9121,1.3662
+all,"divide and conquer, number theory",interactive,0.4624,0.884,1.3654
+all,hashing,"data structures, geometry",0.4277,0.9193,1.3651
+all,hashing,"geometry, number theory",0.4277,0.9193,1.3651
+all,divide and conquer,"games, trees",0.5,0.9505,1.3647
+all,"divide and conquer, two pointers",interactive,0.4595,0.8833,1.3644
+all,"binary search, divide and conquer",interactive,0.4595,0.8833,1.3644
+all,"graphs, hashing",geometry,0.4017,0.9267,1.3644
+all,divide and conquer,"interactive, number theory",0.4624,0.8791,1.364
+all,"divide and conquer, games",interactive,0.4566,0.8827,1.3634
+all,"data structures, hashing",geometry,0.4277,0.925,1.3619
+all,"dfs and similar, divide and conquer",interactive,0.4509,0.8814,1.3614
+all,"games, hashing",geometry,0.4249,0.9245,1.3612
+all,"hashing, two pointers",geometry,0.422,0.9241,1.3605
+all,"combinatorics, divide and conquer",interactive,0.448,0.8807,1.3603
+all,divide and conquer,"bitmasks, combinatorics",0.5087,0.967,1.3601
+all,"bitmasks, hashing",geometry,0.4162,0.9231,1.3591
+all,"binary search, hashing",geometry,0.4133,0.9226,1.3584
+all,divide and conquer,interactive,0.4624,0.8791,1.3579
+all,"divide and conquer, dp",interactive,0.4624,0.8791,1.3579
+all,"bitmasks, divide and conquer",interactive,0.4624,0.8791,1.3579
+all,"data structures, divide and conquer",interactive,0.4595,0.8785,1.3569
+all,divide and conquer,"bitmasks, trees",0.5087,0.967,1.3546
+all,hashing,geometry,0.4277,0.9193,1.3535
+all,"hashing, number theory",geometry,0.4277,0.9193,1.3535
+all,"dp, hashing",geometry,0.4277,0.9193,1.3535
+all,"dfs and similar, hashing",geometry,0.4162,0.9172,1.3504
+all,divide and conquer,"combinatorics, games",0.5029,0.956,1.3502
+all,hashing,"dfs and similar, dsu",0.4191,0.9006,1.349
+all,divide and conquer,"data structures, trees",0.5058,0.9615,1.3469
+all,divide and conquer,"bitmasks, geometry",0.448,0.8516,1.3455
+all,shortest paths,"binary search, combinatorics",0.4017,0.972,1.3453
+all,"dfs and similar, divide and conquer",trees,0.5029,0.9831,1.3444
+all,"divide and conquer, interactive",trees,0.4538,0.9812,1.3419
+all,divide and conquer,"trees, two pointers",0.5058,0.9615,1.3415
+all,"divide and conquer, geometry",trees,0.4393,0.9806,1.3411
+all,hashing,"combinatorics, dfs and similar",0.4306,0.9255,1.3398
+all,hashing,"dsu, graphs",0.4104,0.882,1.3385
+all,divide and conquer,"binary search, combinatorics",0.5087,0.967,1.3384
+all,"divide and conquer, graphs",trees,0.5,0.9774,1.3367
+all,"combinatorics, divide and conquer",trees,0.4971,0.9773,1.3365
+all,divide and conquer,"dsu, two pointers",0.4855,0.9231,1.3363
+all,divide and conquer,"binary search, dsu",0.4855,0.9231,1.3363
+all,divide and conquer,"binary search, trees",0.5058,0.9615,1.3361
+all,"divide and conquer, geometry",dsu,0.4306,0.9613,1.3358
+all,"divide and conquer, dsu",trees,0.4798,0.9765,1.3354
+all,shortest paths,"combinatorics, two pointers",0.4017,0.972,1.3346
+all,divide and conquer,"dp, trees",0.5087,0.967,1.333
+all,"divide and conquer, two pointers",trees,0.5058,0.9722,1.3296
+all,"binary search, divide and conquer",trees,0.5058,0.9722,1.3296
+all,shortest paths,"dfs and similar, graphs",0.4017,0.972,1.3293
+all,shortest paths,"combinatorics, number theory",0.4017,0.972,1.3293
+all,"dfs and similar, divide and conquer",combinatorics,0.5029,0.9831,1.3287
+all,"divide and conquer, graphs",combinatorics,0.5029,0.9831,1.3287
+all,divide and conquer,"binary search, geometry",0.4422,0.8407,1.3282
+all,"dfs and similar, interactive",trees,0.5809,0.971,1.3279
+all,divide and conquer,"number theory, trees",0.5058,0.9615,1.3255
+all,"divide and conquer, geometry",combinatorics,0.4393,0.9806,1.3254
+all,shortest paths,"combinatorics, dp",0.4017,0.972,1.3241
+all,divide and conquer,"dfs and similar, trees",0.5029,0.956,1.3232
+all,"shortest paths, two pointers",combinatorics,0.4017,0.9789,1.323
+all,divide and conquer,trees,0.5087,0.967,1.3225
+all,"divide and conquer, dp",trees,0.5087,0.967,1.3225
+all,"bitmasks, divide and conquer",trees,0.5087,0.967,1.3225
+all,"divide and conquer, number theory",trees,0.5058,0.9669,1.3223
+all,"data structures, divide and conquer",trees,0.5058,0.9669,1.3223
+all,"graphs, hashing",trees,0.4191,0.9667,1.322
+all,"combinatorics, hashing",trees,0.4191,0.9667,1.322
+all,"divide and conquer, games",trees,0.5,0.9665,1.3217
+all,"binary search, divide and conquer",combinatorics,0.5087,0.9778,1.3215
+all,"divide and conquer, trees",combinatorics,0.4971,0.9773,1.3208
+all,divide and conquer,"combinatorics, two pointers",0.5058,0.9615,1.3202
+all,"divide and conquer, dsu",combinatorics,0.4798,0.9765,1.3198
+all,hashing,"games, trees",0.4277,0.9193,1.3198
+all,shortest paths,"combinatorics, data structures",0.4017,0.972,1.3189
+all,divide and conquer,"combinatorics, dp",0.5087,0.967,1.3173
+all,hashing,"bitmasks, dsu",0.4162,0.8944,1.3169
+all,hashing,"combinatorics, games",0.4335,0.9317,1.3158
+all,"graphs, hashing",dsu,0.4104,0.9467,1.3154
+all,"hashing, trees",combinatorics,0.4191,0.9732,1.3153
+all,divide and conquer,"dfs and similar, graphs",0.5058,0.9615,1.315
+all,divide and conquer,"combinatorics, number theory",0.5058,0.9615,1.315
+all,hashing,"graphs, trees",0.4191,0.9006,1.3148
+all,divide and conquer,"dsu, games",0.4855,0.9231,1.3143
+all,"divide and conquer, two pointers",combinatorics,0.5058,0.9722,1.314
+all,"divide and conquer, games",combinatorics,0.5029,0.9721,1.3138
+all,shortest paths,combinatorics,0.4017,0.972,1.3138
+all,shortest paths,"games, graphs",0.4017,0.972,1.3138
+all,"number theory, shortest paths",combinatorics,0.4017,0.972,1.3138
+all,"dp, shortest paths",combinatorics,0.4017,0.972,1.3138
+all,"data structures, shortest paths",combinatorics,0.4017,0.972,1.3138
+all,"binary search, shortest paths",combinatorics,0.4017,0.972,1.3138
+all,"divide and conquer, interactive",dsu,0.4364,0.9438,1.3114
+all,"dsu, hashing",trees,0.4046,0.9589,1.3114
+all,"divide and conquer, graphs",dsu,0.4827,0.9435,1.3111
+all,"combinatorics, divide and conquer",dsu,0.4798,0.9432,1.3106
+all,"divide and conquer, trees",dsu,0.4798,0.9432,1.3106
+all,"divide and conquer, interactive",combinatorics,0.448,0.9688,1.3093
+all,divide and conquer,"bitmasks, graphs",0.5116,0.9725,1.3093
+all,shortest paths,"bitmasks, graphs",0.4017,0.972,1.3086
+all,divide and conquer,combinatorics,0.5087,0.967,1.307
+all,"divide and conquer, dp",combinatorics,0.5087,0.967,1.307
+all,"bitmasks, divide and conquer",combinatorics,0.5087,0.967,1.307
+all,"divide and conquer, number theory",combinatorics,0.5058,0.9669,1.3068
+all,"data structures, divide and conquer",combinatorics,0.5058,0.9669,1.3068
+all,"graphs, hashing",combinatorics,0.4191,0.9667,1.3065
+all,"combinatorics, hashing",dsu,0.4075,0.94,1.3062
+all,"hashing, trees",dsu,0.4046,0.9396,1.3056
+all,"dsu, hashing",combinatorics,0.4075,0.9658,1.3053
+all,"divide and conquer, number theory",dsu,0.4913,0.9392,1.3051
+all,"data structures, divide and conquer",dsu,0.4913,0.9392,1.3051
+all,divide and conquer,"combinatorics, data structures",0.5058,0.9615,1.3047
+all,"divide and conquer, games",dsu,0.4855,0.9385,1.3042
+all,hashing,"combinatorics, graphs",0.4191,0.9006,1.3038
+all,hashing,"dsu, two pointers",0.4191,0.9006,1.3038
+all,"geometry, trees",interactive,0.4682,0.8438,1.3033
+all,"dfs and similar, divide and conquer",dsu,0.4798,0.9379,1.3032
+all,divide and conquer,"dsu, number theory",0.4913,0.9341,1.3032
+all,"binary search, hashing",combinatorics,0.4306,0.9613,1.2992
+all,interactive,"dsu, trees",0.5202,0.8036,1.2992
+all,"dsu, trees",interactive,0.5202,0.8411,1.2992
+all,divide and conquer,"dp, geometry",0.448,0.8516,1.2981
+all,divide and conquer,dsu,0.4913,0.9341,1.2979
+all,divide and conquer,"data structures, dsu",0.4913,0.9341,1.2979
+all,"divide and conquer, dp",dsu,0.4913,0.9341,1.2979
+all,divide and conquer,"dp, dsu",0.4913,0.9341,1.2979
+all,"bitmasks, divide and conquer",dsu,0.4913,0.9341,1.2979
+all,"dfs and similar, hashing",trees,0.4306,0.949,1.2979
+all,shortest paths,"binary search, graphs",0.4046,0.979,1.2979
+all,"binary search, hashing",trees,0.4249,0.9484,1.297
+all,"divide and conquer, two pointers",dsu,0.4855,0.9333,1.2969
+all,"binary search, divide and conquer",dsu,0.4855,0.9333,1.2969
+all,graph matchings,"games, graphs",0.4017,0.9586,1.2956
+all,"graphs, interactive",trees,0.5723,0.9474,1.2956
+all,"geometry, trees",combinatorics,0.5318,0.9583,1.2952
+all,"geometry, interactive",dsu,0.4653,0.9306,1.2932
+all,shortest paths,"graphs, two pointers",0.4046,0.979,1.2929
+all,divide and conquer,"games, graphs",0.5029,0.956,1.2922
+all,"divide and conquer, dsu",geometry,0.4306,0.8765,1.2905
+all,interactive,"graphs, trees",0.5723,0.8839,1.2905
+all,"graphs, trees",interactive,0.5723,0.8354,1.2905
+all,divide and conquer,"games, geometry",0.4451,0.8462,1.2897
+all,divide and conquer,"binary search, graphs",0.5116,0.9725,1.2893
+all,"bitmasks, hashing",trees,0.4249,0.9423,1.2887
+all,hashing,"data structures, trees",0.4277,0.9193,1.2877
+all,trees,"combinatorics, dfs and similar",0.6503,0.8893,1.2875
+all,"combinatorics, dfs and similar",trees,0.6503,0.9414,1.2875
+all,"combinatorics, dsu",interactive,0.5202,0.8333,1.2872
+all,interactive,"combinatorics, dsu",0.5202,0.8036,1.2872
+all,hashing,"binary search, dsu",0.4133,0.8882,1.2858
+all,"combinatorics, interactive",trees,0.5434,0.94,1.2855
+all,interactive,"combinatorics, trees",0.5434,0.8393,1.2849
+all,"combinatorics, trees",interactive,0.5434,0.8319,1.2849
+all,divide and conquer,"graphs, two pointers",0.5116,0.9725,1.2843
+all,hashing,"bitmasks, combinatorics",0.4249,0.913,1.2842
+all,divide and conquer,"geometry, two pointers",0.4451,0.8462,1.2841
+all,"dfs and similar, hashing",dsu,0.4191,0.9236,1.2833
+all,shortest paths,"data structures, graphs",0.4046,0.979,1.2831
+all,"dfs and similar, hashing",combinatorics,0.4306,0.949,1.2827
+all,"bitmasks, hashing",dsu,0.4162,0.9231,1.2827
+all,hashing,"trees, two pointers",0.4277,0.9193,1.2825
+all,hashing,"dsu, games",0.4191,0.9006,1.2824
+all,"dsu, interactive",trees,0.5202,0.9375,1.2821
+all,"binary search, hashing",dsu,0.4133,0.9226,1.282
+all,"dfs and similar, shortest paths",graphs,0.4017,0.9929,1.2818
+all,"geometry, interactive",combinatorics,0.474,0.948,1.2812
+all,"hashing, two pointers",trees,0.4277,0.9367,1.281
+all,"dfs and similar, divide and conquer",geometry,0.4451,0.8701,1.281
+all,hashing,"binary search, combinatorics",0.4306,0.9255,1.2808
+all,hashing,"dfs and similar, trees",0.4306,0.9255,1.2808
+all,"geometry, interactive",trees,0.4682,0.9364,1.2806
+all,hashing,"bitmasks, trees",0.4249,0.913,1.279
+all,"geometry, hashing",combinatorics,0.4046,0.9459,1.2785
+all,"dfs and similar, divide and conquer",graphs,0.5058,0.9887,1.2765
+all,"combinatorics, divide and conquer",graphs,0.5029,0.9886,1.2764
+all,hashing,"number theory, trees",0.4306,0.9255,1.2757
+all,hashing,"dp, trees",0.4306,0.9255,1.2757
+all,"hashing, two pointers",dsu,0.4191,0.9177,1.2752
+all,"games, hashing",combinatorics,0.4335,0.9434,1.2751
+all,"hashing, two pointers",combinatorics,0.4306,0.943,1.2746
+all,hashing,"combinatorics, number theory",0.4335,0.9317,1.2742
+all,"bitmasks, hashing",combinatorics,0.4249,0.9423,1.2736
+all,"bitmasks, interactive",trees,0.5838,0.9309,1.2731
+all,"games, hashing",trees,0.4277,0.9308,1.273
+all,"shortest paths, two pointers",graphs,0.4046,0.9859,1.2729
+all,"bitmasks, shortest paths",graphs,0.4017,0.9858,1.2727
+all,"geometry, graphs",combinatorics,0.5578,0.9415,1.2724
+all,"combinatorics, divide and conquer",geometry,0.4393,0.8636,1.2716
+all,"divide and conquer, trees",geometry,0.4393,0.8636,1.2716
+all,hashing,"combinatorics, two pointers",0.4306,0.9255,1.2707
+all,"dfs and similar, graphs",trees,0.6792,0.9289,1.2703
+all,trees,"dfs and similar, graphs",0.6792,0.9289,1.2703
+all,"divide and conquer, two pointers",graphs,0.5116,0.9833,1.2695
+all,"binary search, divide and conquer",graphs,0.5116,0.9833,1.2695
+all,"dsu, geometry",combinatorics,0.5347,0.9391,1.2692
+all,hashing,"combinatorics, dp",0.4335,0.9317,1.2691
+all,"divide and conquer, trees",graphs,0.5,0.983,1.269
+all,hashing,"binary search, trees",0.4249,0.913,1.2687
+all,"divide and conquer, dsu",graphs,0.4827,0.9824,1.2683
+all,"data structures, hashing",dsu,0.422,0.9125,1.268
+all,divide and conquer,"data structures, graphs",0.5087,0.967,1.2674
+all,"games, hashing",dsu,0.4191,0.9119,1.2672
+all,"dsu, interactive",combinatorics,0.5202,0.9375,1.2671
+all,"data structures, hashing",combinatorics,0.4335,0.9375,1.2671
+all,"divide and conquer, interactive",graphs,0.4538,0.9812,1.2668
+all,"divide and conquer, games",geometry,0.4451,0.8603,1.2667
+all,"geometry, trees",dsu,0.5058,0.9115,1.2665
+all,"combinatorics, dsu",trees,0.578,0.9259,1.2663
+all,"divide and conquer, geometry",graphs,0.4393,0.9806,1.2661
+all,hashing,trees,0.4306,0.9255,1.2657
+all,"hashing, number theory",trees,0.4306,0.9255,1.2657
+all,"dp, hashing",trees,0.4306,0.9255,1.2657
+all,hashing,"dsu, number theory",0.422,0.9068,1.2652
+all,"data structures, hashing",trees,0.4277,0.925,1.265
+all,divide and conquer,"data structures, geometry",0.448,0.8516,1.2647
+all,"divide and conquer, graphs",geometry,0.4393,0.8588,1.2644
+all,hashing,"combinatorics, data structures",0.4335,0.9317,1.2642
+all,shortest paths,graphs,0.4046,0.979,1.264
+all,"number theory, shortest paths",graphs,0.4046,0.979,1.264
+all,shortest paths,"graphs, number theory",0.4046,0.979,1.264
+all,"dp, shortest paths",graphs,0.4046,0.979,1.264
+all,shortest paths,"dp, graphs",0.4046,0.979,1.264
+all,"data structures, shortest paths",graphs,0.4046,0.979,1.264
+all,"binary search, shortest paths",graphs,0.4046,0.979,1.264
+all,shortest paths,"dfs and similar, games",0.4046,0.979,1.264
+all,"games, shortest paths",graphs,0.4017,0.9789,1.2638
+all,interactive,"bitmasks, trees",0.5838,0.9018,1.2632
+all,"bitmasks, trees",interactive,0.5838,0.8178,1.2632
+all,"dsu, trees",combinatorics,0.578,0.9346,1.2631
+all,"divide and conquer, number theory",graphs,0.5116,0.9779,1.2625
+all,"dsu, geometry",interactive,0.4653,0.8173,1.2624
+all,"dfs and similar, geometry",combinatorics,0.5694,0.9336,1.2619
+all,"combinatorics, dsu",graphs,0.6098,0.9769,1.2612
+all,"combinatorics, dsu",geometry,0.5347,0.8565,1.261
+all,"graphs, interactive",combinatorics,0.5636,0.933,1.261
+all,"data structures, divide and conquer",geometry,0.448,0.8564,1.2608
+all,"geometry, graphs",dsu,0.5376,0.9073,1.2608
+all,divide and conquer,"bitmasks, dfs and similar",0.5116,0.9725,1.2603
+all,interactive,"combinatorics, graphs",0.5636,0.8705,1.2603
+all,"combinatorics, graphs",interactive,0.5636,0.8159,1.2603
+all,"combinatorics, geometry",dsu,0.5347,0.9069,1.2601
+all,hashing,dsu,0.422,0.9068,1.2601
+all,hashing,"data structures, dsu",0.422,0.9068,1.2601
+all,"hashing, number theory",dsu,0.422,0.9068,1.2601
+all,"dp, hashing",dsu,0.422,0.9068,1.2601
+all,hashing,"dp, dsu",0.422,0.9068,1.2601
+all,"divide and conquer, two pointers",geometry,0.4451,0.8556,1.2597
+all,shortest paths,"binary search, dfs and similar",0.4046,0.979,1.2593
+all,hashing,combinatorics,0.4335,0.9317,1.2592
+all,"hashing, number theory",combinatorics,0.4335,0.9317,1.2592
+all,"dp, hashing",combinatorics,0.4335,0.9317,1.2592
+all,hashing,"games, graphs",0.4335,0.9317,1.2592
+all,"combinatorics, graphs",trees,0.6358,0.9205,1.2589
+all,trees,"combinatorics, graphs",0.6358,0.8696,1.2589
+all,"combinatorics, interactive",graphs,0.5636,0.975,1.2588
+all,"geometry, trees",graphs,0.5405,0.974,1.2574
+all,hashing,"dfs and similar, graphs",0.4277,0.9193,1.2572
+all,"combinatorics, trees",graphs,0.6358,0.9735,1.2568
+all,graphs,"combinatorics, trees",0.6358,0.8209,1.2568
+all,divide and conquer,"geometry, number theory",0.4451,0.8462,1.2565
+all,"hashing, trees",graphs,0.4191,0.9732,1.2564
+all,graph matchings,"data structures, graphs",0.4017,0.9586,1.2564
+all,interactive,"games, trees",0.5665,0.875,1.2562
+all,"games, trees",interactive,0.5665,0.8133,1.2562
+all,"dsu, hashing",graphs,0.4104,0.9726,1.2557
+all,divide and conquer,graphs,0.5116,0.9725,1.2556
+all,divide and conquer,"graphs, number theory",0.5116,0.9725,1.2556
+all,"divide and conquer, dp",graphs,0.5116,0.9725,1.2556
+all,divide and conquer,"dp, graphs",0.5116,0.9725,1.2556
+all,"bitmasks, divide and conquer",graphs,0.5116,0.9725,1.2556
+all,interactive,"number theory, trees",0.5896,0.9107,1.2554
+all,"number theory, trees",interactive,0.5896,0.8127,1.2554
+all,"data structures, divide and conquer",graphs,0.5087,0.9724,1.2554
+all,trees,"dfs and similar, dsu",0.6127,0.8379,1.2551
+all,"dfs and similar, dsu",trees,0.6127,0.9177,1.2551
+all,"divide and conquer, games",graphs,0.5029,0.9721,1.255
+all,"dsu, trees",graphs,0.6012,0.972,1.2548
+all,"graphs, trees",combinatorics,0.6358,0.9283,1.2546
+all,combinatorics,"graphs, trees",0.6358,0.8594,1.2546
+all,divide and conquer,geometry,0.448,0.8516,1.2539
+all,"divide and conquer, dp",geometry,0.448,0.8516,1.2539
+all,"bitmasks, divide and conquer",geometry,0.448,0.8516,1.2539
+all,"dfs and similar, interactive",graphs,0.5809,0.971,1.2536
+all,interactive,"binary search, trees",0.5838,0.9018,1.2531
+all,"binary search, trees",interactive,0.5838,0.8112,1.2531
+all,"interactive, trees",graphs,0.5723,0.9706,1.2531
+all,"divide and conquer, number theory",geometry,0.4451,0.8508,1.2527
+all,interactive,"trees, two pointers",0.5809,0.8973,1.2519
+all,"trees, two pointers",interactive,0.5809,0.8105,1.2519
+all,"binary search, divide and conquer",geometry,0.4422,0.85,1.2515
+all,trees,"interactive, number theory",0.5896,0.8063,1.2511
+all,"interactive, number theory",trees,0.5896,0.9148,1.2511
+all,"dsu, graphs",combinatorics,0.6098,0.9254,1.2508
+all,combinatorics,"dsu, graphs",0.6098,0.8242,1.2508
+all,interactive,"data structures, trees",0.578,0.8929,1.2507
+all,"data structures, trees",interactive,0.578,0.8097,1.2507
+all,trees,"binary search, dfs and similar",0.711,0.9723,1.2507
+all,"binary search, dfs and similar",trees,0.711,0.9145,1.2507
+all,"combinatorics, interactive",dsu,0.5202,0.9,1.2506
+all,"dp, interactive",trees,0.5867,0.9144,1.2505
+all,trees,"dp, interactive",0.5867,0.8024,1.2505
+all,"binary search, interactive",trees,0.5838,0.914,1.25
+all,shortest paths,"data structures, dfs and similar",0.4046,0.979,1.25
+all,"bitmasks, dfs and similar",trees,0.7052,0.9139,1.2498
+all,trees,"bitmasks, dfs and similar",0.7052,0.9644,1.2498
+all,"interactive, two pointers",trees,0.5809,0.9136,1.2495
+all,"binary search, hashing",graphs,0.4335,0.9677,1.2494
+all,interactive,"dp, trees",0.5867,0.9062,1.2493
+all,"dp, trees",interactive,0.5867,0.8088,1.2493
+all,"data structures, interactive",trees,0.578,0.9132,1.2489
+all,"combinatorics, hashing",graphs,0.4191,0.9667,1.248
+all,"dsu, graphs",trees,0.6012,0.9123,1.2476
+all,trees,"dsu, graphs",0.6012,0.8221,1.2476
+all,"geometry, graphs",trees,0.5405,0.9122,1.2475
+all,"dfs and similar, interactive",combinatorics,0.552,0.9227,1.2471
+all,"games, interactive",trees,0.5665,0.9116,1.2467
+all,"dp, graph matchings",graphs,0.4017,0.9653,1.2462
+all,"interactive, trees",combinatorics,0.5434,0.9216,1.2456
+all,interactive,trees,0.5896,0.9107,1.2455
+all,trees,interactive,0.5896,0.8063,1.2455
+all,shortest paths,"dfs and similar, two pointers",0.4046,0.979,1.2454
+all,"bitmasks, combinatorics",trees,0.6474,0.9106,1.2453
+all,trees,"bitmasks, combinatorics",0.6474,0.8854,1.2453
+all,"dfs and similar, geometry",dsu,0.5462,0.8957,1.2447
+all,divide and conquer,"binary search, dfs and similar",0.5087,0.967,1.2438
+all,"geometry, graphs",interactive,0.4769,0.8049,1.2432
+all,hashing,"dfs and similar, games",0.448,0.9627,1.2429
+all,graphs,"combinatorics, dfs and similar",0.6647,0.8582,1.2424
+all,"combinatorics, dfs and similar",graphs,0.6647,0.9623,1.2424
+all,interactive,"dfs and similar, trees",0.5809,0.8973,1.2419
+all,"dfs and similar, trees",interactive,0.5809,0.804,1.2419
+all,"combinatorics, geometry",interactive,0.474,0.8039,1.2418
+all,divide and conquer,"dfs and similar, games",0.5058,0.9615,1.2414
+all,"dfs and similar, dsu",graphs,0.6416,0.961,1.2407
+all,graphs,"dfs and similar, dsu",0.6416,0.8284,1.2407
+all,"binary search, geometry",combinatorics,0.5809,0.9178,1.2405
+all,trees,"bitmasks, graphs",0.6734,0.9209,1.2399
+all,"bitmasks, graphs",trees,0.6734,0.9066,1.2399
+all,interactive,"dsu, graphs",0.5289,0.817,1.2398
+all,"dsu, graphs",interactive,0.5289,0.8026,1.2398
+all,"dfs and similar, geometry",trees,0.552,0.9052,1.238
+all,graph matchings,graphs,0.4017,0.9586,1.2376
+all,graph matchings,"dp, graphs",0.4017,0.9586,1.2376
+all,"graph matchings, number theory",graphs,0.4017,0.9586,1.2376
+all,graph matchings,"graphs, number theory",0.4017,0.9586,1.2376
+all,"data structures, graph matchings",graphs,0.4017,0.9586,1.2376
+all,"games, graph matchings",graphs,0.4017,0.9586,1.2376
+all,divide and conquer,"dfs and similar, two pointers",0.5116,0.9725,1.2371
+all,hashing,"data structures, dfs and similar",0.4509,0.9689,1.2371
+all,interactive,"bitmasks, combinatorics",0.5694,0.8795,1.237
+all,"bitmasks, combinatorics",interactive,0.5694,0.8008,1.237
+all,"dfs and similar, two pointers",trees,0.711,0.9044,1.2369
+all,trees,"dfs and similar, two pointers",0.711,0.9723,1.2369
+all,combinatorics,"bitmasks, graphs",0.6792,0.918,1.2359
+all,"bitmasks, graphs",combinatorics,0.6792,0.9144,1.2359
+all,"hashing, trees",dfs and similar,0.4306,1.0,1.2357
+all,hashing,"binary search, graphs",0.4335,0.9317,1.2351
+all,divide and conquer,"data structures, dfs and similar",0.5087,0.967,1.2347
+all,"dsu, interactive",geometry,0.4653,0.8385,1.2346
+all,interactive,"combinatorics, dfs and similar",0.552,0.8527,1.2344
+all,"combinatorics, geometry",trees,0.5318,0.902,1.2335
+all,"bitmasks, combinatorics",graphs,0.6792,0.9553,1.2333
+all,graphs,"bitmasks, combinatorics",0.6792,0.8769,1.2333
+all,interactive,"bitmasks, graphs",0.5925,0.9152,1.2321
+all,hashing,"bitmasks, dfs and similar",0.4422,0.9503,1.2315
+all,"binary search, graphs",trees,0.6792,0.9004,1.2314
+all,trees,"binary search, graphs",0.6792,0.9289,1.2314
+all,"geometry, interactive",graphs,0.4769,0.9538,1.2313
+all,trees,"data structures, dfs and similar",0.7052,0.9644,1.2313
+all,"data structures, dfs and similar",trees,0.7052,0.9004,1.2313
+all,"data structures, trees",combinatorics,0.6503,0.9109,1.2312
+all,combinatorics,"data structures, trees",0.6503,0.8789,1.2312
+all,interactive,"binary search, graphs",0.6012,0.9286,1.231
+all,"binary search, combinatorics",trees,0.6503,0.9,1.2308
+all,trees,"binary search, combinatorics",0.6503,0.8893,1.2308
+all,"dsu, interactive",graphs,0.5289,0.9531,1.2305
+all,hashing,"graphs, two pointers",0.4335,0.9317,1.2304
+all,"combinatorics, trees",dfs and similar,0.6503,0.9956,1.2302
+all,dfs and similar,"combinatorics, trees",0.6503,0.8036,1.2302
+all,"combinatorics, trees",dsu,0.578,0.885,1.2297
+all,dsu,"combinatorics, trees",0.578,0.8032,1.2297
+all,interactive,"binary search, combinatorics",0.5751,0.8884,1.2295
+all,"geometry, trees",dfs and similar,0.552,0.9948,1.2293
+all,hashing,"bitmasks, graphs",0.4249,0.913,1.2292
+all,interactive,"bitmasks, dsu",0.5405,0.8348,1.2291
+all,"dfs and similar, graphs",combinatorics,0.6647,0.9091,1.2287
+all,combinatorics,"dfs and similar, graphs",0.6647,0.8984,1.2287
+all,"dfs and similar, interactive",dsu,0.5289,0.8841,1.2285
+all,"games, trees",combinatorics,0.6329,0.9087,1.2282
+all,combinatorics,"games, trees",0.6329,0.8555,1.2282
+all,"data structures, interactive",combinatorics,0.5751,0.9087,1.2281
+all,"games, interactive",dsu,0.5491,0.8837,1.228
+all,interactive,"dsu, two pointers",0.5491,0.8482,1.228
+all,interactive,"binary search, dsu",0.5491,0.8482,1.228
+all,"bitmasks, dsu",trees,0.6098,0.8979,1.2279
+all,trees,"bitmasks, dsu",0.6098,0.834,1.2279
+all,"divide and conquer, geometry",dfs and similar,0.4451,0.9935,1.2277
+all,"combinatorics, hashing",dfs and similar,0.4306,0.9933,1.2275
+all,"dsu, hashing",dfs and similar,0.4191,0.9932,1.2273
+all,interactive,"dfs and similar, graphs",0.5809,0.8973,1.2272
+all,"bitmasks, interactive",combinatorics,0.5694,0.9078,1.227
+all,"graphs, shortest paths",dfs and similar,0.4017,0.9929,1.2269
+all,"combinatorics, graphs",dsu,0.6098,0.8828,1.2268
+all,dsu,"combinatorics, graphs",0.6098,0.8474,1.2268
+all,"graphs, two pointers",trees,0.6792,0.8969,1.2267
+all,trees,"graphs, two pointers",0.6792,0.9289,1.2267
+all,divide and conquer,"binary search, bitmasks",0.5202,0.989,1.2265
+all,"trees, two pointers",combinatorics,0.6503,0.9073,1.2262
+all,combinatorics,"trees, two pointers",0.6503,0.8789,1.2262
+all,"interactive, trees",dsu,0.5202,0.8824,1.2261
+all,"trees, two pointers",dfs and similar,0.711,0.9919,1.2257
+all,dfs and similar,"trees, two pointers",0.711,0.8786,1.2257
+all,"bitmasks, trees",combinatorics,0.6474,0.9069,1.2257
+all,combinatorics,"bitmasks, trees",0.6474,0.875,1.2257
+all,"hashing, two pointers",graphs,0.4335,0.9494,1.2257
+all,"games, trees",dfs and similar,0.6908,0.9917,1.2255
+all,dfs and similar,"games, trees",0.6908,0.8536,1.2255
+all,"graphs, trees",dfs and similar,0.6792,0.9916,1.2253
+all,dfs and similar,"graphs, trees",0.6792,0.8393,1.2253
+all,"bitmasks, geometry",dsu,0.5578,0.8813,1.2246
+all,trees,"dfs and similar, number theory",0.7168,0.9802,1.2244
+all,"dfs and similar, number theory",trees,0.7168,0.8953,1.2244
+all,"dsu, trees",dfs and similar,0.6127,0.9907,1.2242
+all,interactive,"dfs and similar, dsu",0.5289,0.817,1.2237
+all,"trees, two pointers",graphs,0.6792,0.9476,1.2234
+all,graphs,"trees, two pointers",0.6792,0.8769,1.2234
+all,interactive,"combinatorics, games",0.5607,0.8661,1.2231
+all,graph matchings,"bitmasks, games",0.4133,0.9862,1.223
+all,shortest paths,"dfs and similar, number theory",0.4046,0.979,1.2229
+all,shortest paths,"binary search, bitmasks",0.4075,0.986,1.2228
+all,"graphs, two pointers",combinatorics,0.685,0.9046,1.2226
+all,combinatorics,"graphs, two pointers",0.685,0.9258,1.2226
+all,"interactive, two pointers",combinatorics,0.5751,0.9045,1.2225
+all,"combinatorics, games",trees,0.6329,0.8939,1.2225
+all,trees,"combinatorics, games",0.6329,0.8656,1.2225
+all,combinatorics,"binary search, graphs",0.6821,0.9219,1.2221
+all,"binary search, graphs",combinatorics,0.6821,0.9042,1.2221
+all,"bitmasks, geometry",combinatorics,0.5723,0.9041,1.222
+all,"divide and conquer, graphs",dfs and similar,0.5058,0.9887,1.2218
+all,"divide and conquer, trees",dfs and similar,0.5029,0.9886,1.2217
+all,"combinatorics, divide and conquer",dfs and similar,0.5029,0.9886,1.2217
+all,"combinatorics, geometry",graphs,0.5578,0.9461,1.2214
+all,"binary search, trees",combinatorics,0.6503,0.9036,1.2213
+all,combinatorics,"binary search, trees",0.6503,0.8789,1.2213
+all,hashing,"data structures, graphs",0.4335,0.9317,1.2211
+all,interactive,"combinatorics, number theory",0.578,0.8929,1.2211
+all,dfs and similar,trees,0.7225,0.8929,1.2211
+all,"combinatorics, two pointers",trees,0.6503,0.8929,1.2211
+all,trees,"combinatorics, two pointers",0.6503,0.8893,1.2211
+all,trees,dfs and similar,0.7225,0.9881,1.2211
+all,"number theory, trees",dfs and similar,0.7168,0.988,1.2209
+all,"dp, trees",dfs and similar,0.7168,0.988,1.2209
+all,dfs and similar,"number theory, trees",0.7168,0.8857,1.2209
+all,dfs and similar,"dp, trees",0.7168,0.8857,1.2209
+all,"binary search, trees",dfs and similar,0.711,0.988,1.2208
+all,dfs and similar,"binary search, trees",0.711,0.8786,1.2208
+all,"binary search, dsu",graphs,0.6532,0.9456,1.2208
+all,graphs,"binary search, dsu",0.6532,0.8433,1.2208
+all,dfs and similar,"bitmasks, trees",0.7052,0.8714,1.2207
+all,dfs and similar,"data structures, trees",0.7052,0.8714,1.2207
+all,"bitmasks, trees",dfs and similar,0.7052,0.9879,1.2207
+all,"data structures, trees",dfs and similar,0.7052,0.9879,1.2207
+all,interactive,"graphs, two pointers",0.5983,0.9241,1.2204
+all,trees,"dfs and similar, dp",0.7168,0.9802,1.22
+all,"dfs and similar, dp",trees,0.7168,0.8921,1.22
+all,interactive,"combinatorics, two pointers",0.5751,0.8884,1.2198
+all,divide and conquer,"bitmasks, games",0.5173,0.9835,1.2197
+all,"bitmasks, interactive",graphs,0.5925,0.9447,1.2197
+all,"bitmasks, dsu",graphs,0.6416,0.9447,1.2196
+all,graphs,"bitmasks, dsu",0.6416,0.8284,1.2196
+all,"combinatorics, number theory",graphs,0.6908,0.9447,1.2196
+all,trees,"dfs and similar, games",0.6908,0.9447,1.2196
+all,graphs,"combinatorics, number theory",0.6908,0.8918,1.2196
+all,"dfs and similar, games",trees,0.6908,0.8918,1.2196
+all,"games, graphs",combinatorics,0.6676,0.9023,1.2196
+all,combinatorics,"games, graphs",0.6676,0.9023,1.2196
+all,"games, interactive",combinatorics,0.5607,0.9023,1.2195
+all,"graphs, trees",dsu,0.6012,0.8776,1.2195
+all,dsu,"graphs, trees",0.6012,0.8353,1.2195
+all,dsu,"dfs and similar, graphs",0.6416,0.8916,1.2193
+all,"dfs and similar, graphs",dsu,0.6416,0.8775,1.2193
+all,"graphs, hashing",dfs and similar,0.4277,0.9867,1.2192
+all,"number theory, trees",graphs,0.685,0.9442,1.219
+all,"dp, trees",graphs,0.685,0.9442,1.219
+all,graphs,"number theory, trees",0.685,0.8843,1.219
+all,graphs,"dp, trees",0.685,0.8843,1.219
+all,"dsu, geometry",graphs,0.5376,0.9442,1.219
+all,"binary search, combinatorics",graphs,0.6821,0.944,1.2187
+all,graphs,"binary search, combinatorics",0.6821,0.8806,1.2187
+all,shortest paths,"dfs and similar, dp",0.4046,0.979,1.2185
+all,"binary search, trees",graphs,0.6792,0.9438,1.2185
+all,graphs,"binary search, trees",0.6792,0.8769,1.2185
+all,combinatorics,"data structures, graphs",0.6879,0.9297,1.2185
+all,"data structures, graphs",combinatorics,0.6879,0.9015,1.2185
+all,"shortest paths, two pointers",dfs and similar,0.4046,0.9859,1.2183
+all,"games, shortest paths",dfs and similar,0.4046,0.9859,1.2183
+all,"data structures, interactive",dsu,0.5549,0.8767,1.2182
+all,hashing,"dfs and similar, number theory",0.4538,0.9752,1.2181
+all,"games, hashing",graphs,0.4335,0.9434,1.218
+all,"data structures, trees",graphs,0.6734,0.9433,1.2179
+all,"bitmasks, trees",graphs,0.6734,0.9433,1.2179
+all,graphs,"data structures, trees",0.6734,0.8694,1.2179
+all,graphs,"bitmasks, trees",0.6734,0.8694,1.2179
+all,"dp, interactive",combinatorics,0.578,0.9009,1.2176
+all,"interactive, trees",dfs and similar,0.5809,0.9853,1.2175
+all,"combinatorics, games",graphs,0.6676,0.9429,1.2173
+all,graphs,"combinatorics, games",0.6676,0.8619,1.2173
+all,"dfs and similar, hashing",graphs,0.4277,0.9427,1.217
+all,"binary search, interactive",combinatorics,0.5751,0.9005,1.217
+all,"dfs and similar, dsu",combinatorics,0.6012,0.9004,1.217
+all,combinatorics,"dfs and similar, dsu",0.6012,0.8125,1.217
+all,"dp, trees",combinatorics,0.6532,0.9004,1.2169
+all,combinatorics,"dp, trees",0.6532,0.8828,1.2169
+all,trees,"combinatorics, dp",0.6532,0.8933,1.2168
+all,"combinatorics, dp",trees,0.6532,0.8898,1.2168
+all,hashing,"dfs and similar, two pointers",0.4451,0.9565,1.2168
+all,"graphs, interactive",dsu,0.5289,0.8756,1.2167
+all,"bitmasks, hashing",graphs,0.4249,0.9423,1.2166
+all,"dfs and similar, trees",combinatorics,0.6503,0.9,1.2164
+all,combinatorics,"dfs and similar, trees",0.6503,0.8789,1.2164
+all,interactive,"combinatorics, dp",0.578,0.8929,1.2163
+all,"combinatorics, number theory",trees,0.6503,0.8893,1.2162
+all,trees,"combinatorics, number theory",0.6503,0.8893,1.2162
+all,"games, trees",graphs,0.6561,0.9419,1.216
+all,graphs,"games, trees",0.6561,0.847,1.216
+all,divide and conquer,"bitmasks, data structures",0.5231,0.9945,1.2159
+all,dsu,"games, graphs",0.6474,0.8996,1.2159
+all,"games, graphs",dsu,0.6474,0.875,1.2159
+all,"dp, interactive",graphs,0.604,0.9414,1.2154
+all,"divide and conquer, two pointers",dfs and similar,0.5116,0.9833,1.2151
+all,"binary search, interactive",graphs,0.6012,0.9412,1.2151
+all,"dsu, geometry",trees,0.5058,0.8883,1.2149
+all,"combinatorics, dp",graphs,0.6908,0.9409,1.2148
+all,graphs,"combinatorics, dp",0.6908,0.8918,1.2148
+all,"interactive, two pointers",graphs,0.5983,0.9409,1.2148
+all,graph matchings,"binary search, bitmasks",0.4104,0.9793,1.2145
+all,hashing,"binary search, dfs and similar",0.4393,0.9441,1.2143
+all,"combinatorics, two pointers",graphs,0.685,0.9405,1.2142
+all,graphs,"combinatorics, two pointers",0.685,0.8843,1.2142
+all,shortest paths,"bitmasks, games",0.4046,0.979,1.2141
+all,shortest paths,"binary search, games",0.4104,0.993,1.2141
+all,"combinatorics, games",dsu,0.6185,0.8735,1.2137
+all,dsu,"combinatorics, games",0.6185,0.8594,1.2137
+all,hashing,"dfs and similar, dp",0.4538,0.9752,1.2137
+all,geometry,"combinatorics, dfs and similar",0.5694,0.8383,1.2136
+all,"combinatorics, dfs and similar",geometry,0.5694,0.8243,1.2136
+all,"dfs and similar, trees",graphs,0.6792,0.94,1.2136
+all,graphs,"dfs and similar, trees",0.6792,0.8769,1.2136
+all,combinatorics,"bitmasks, dsu",0.6098,0.8242,1.2135
+all,"bitmasks, dsu",combinatorics,0.6098,0.8979,1.2135
+all,trees,"dsu, two pointers",0.6127,0.8379,1.2131
+all,trees,"binary search, dsu",0.6127,0.8379,1.2131
+all,"dsu, two pointers",trees,0.6127,0.887,1.2131
+all,"binary search, dsu",trees,0.6127,0.887,1.2131
+all,interactive,"games, graphs",0.5809,0.8973,1.2128
+all,trees,"games, graphs",0.6561,0.8972,1.2127
+all,"games, graphs",trees,0.6561,0.8867,1.2127
+all,"geometry, hashing",graphs,0.4017,0.9392,1.2125
+all,"interactive, number theory",combinatorics,0.578,0.8969,1.2122
+all,"bitmasks, hashing",dfs and similar,0.4422,0.9808,1.212
+all,"binary search, geometry",dsu,0.552,0.8721,1.2119
+all,"binary search, hashing",dfs and similar,0.4393,0.9806,1.2118
+all,"number theory, trees",combinatorics,0.6503,0.8964,1.2116
+all,combinatorics,"number theory, trees",0.6503,0.8789,1.2116
+all,"dfs and similar, geometry",graphs,0.5723,0.9384,1.2115
+all,"games, trees",dsu,0.6069,0.8714,1.2108
+all,dsu,"games, trees",0.6069,0.8434,1.2108
+all,divide and conquer,"dfs and similar, dp",0.5116,0.9725,1.2104
+all,"data structures, hashing",graphs,0.4335,0.9375,1.2104
+all,"dsu, two pointers",graphs,0.6474,0.9372,1.21
+all,graphs,"dsu, two pointers",0.6474,0.8358,1.21
+all,"interactive, number theory",graphs,0.604,0.9372,1.21
+all,shortest paths,dfs and similar,0.4046,0.979,1.2098
+all,"number theory, shortest paths",dfs and similar,0.4046,0.979,1.2098
+all,"dp, shortest paths",dfs and similar,0.4046,0.979,1.2098
+all,"data structures, shortest paths",dfs and similar,0.4046,0.979,1.2098
+all,"binary search, shortest paths",dfs and similar,0.4046,0.979,1.2098
+all,trees,graphs,0.685,0.9368,1.2094
+all,trees,"graphs, number theory",0.685,0.9368,1.2094
+all,trees,"dp, graphs",0.685,0.9368,1.2094
+all,graphs,trees,0.685,0.8843,1.2094
+all,"graphs, number theory",trees,0.685,0.8843,1.2094
+all,"dp, graphs",trees,0.685,0.8843,1.2094
+all,"combinatorics, dfs and similar",dsu,0.6012,0.8703,1.2093
+all,dsu,"combinatorics, dfs and similar",0.6012,0.8353,1.2093
+all,"bitmasks, dsu",geometry,0.5578,0.8213,1.2092
+all,geometry,"bitmasks, dsu",0.5578,0.8213,1.2092
+all,divide and conquer,"bitmasks, two pointers",0.5202,0.989,1.2092
+all,"data structures, interactive",graphs,0.5925,0.9361,1.2085
+all,"binary search, divide and conquer",dfs and similar,0.5087,0.9778,1.2083
+all,"divide and conquer, games",dfs and similar,0.5058,0.9777,1.2081
+all,divide and conquer,"dfs and similar, number theory",0.5087,0.967,1.2079
+all,interactive,"dsu, games",0.5491,0.8482,1.2077
+all,trees,combinatorics,0.6532,0.8933,1.2073
+all,combinatorics,trees,0.6532,0.8828,1.2073
+all,"combinatorics, interactive",geometry,0.474,0.82,1.2073
+all,trees,"data structures, graphs",0.6734,0.9209,1.207
+all,"data structures, graphs",trees,0.6734,0.8826,1.207
+all,"games, interactive",graphs,0.5809,0.9349,1.207
+all,interactive,combinatorics,0.578,0.8929,1.2068
+all,trees,"combinatorics, data structures",0.6503,0.8893,1.2067
+all,"combinatorics, data structures",trees,0.6503,0.8824,1.2067
+all,"divide and conquer, dsu",dfs and similar,0.4798,0.9765,1.2066
+all,"dp, geometry",dsu,0.5694,0.8678,1.2059
+all,graph matchings,"bitmasks, two pointers",0.4133,0.9862,1.2058
+all,graph matchings,"bitmasks, data structures",0.4133,0.9862,1.2058
+all,graph matchings,"binary search, games",0.4133,0.9862,1.2058
+all,shortest paths,"bitmasks, data structures",0.4075,0.986,1.2055
+all,interactive,"combinatorics, data structures",0.5751,0.8884,1.2054
+all,combinatorics,graphs,0.6908,0.9336,1.2053
+all,combinatorics,"graphs, number theory",0.6908,0.9336,1.2053
+all,combinatorics,"dp, graphs",0.6908,0.9336,1.2053
+all,graphs,combinatorics,0.6908,0.8918,1.2053
+all,"graphs, number theory",combinatorics,0.6908,0.8918,1.2053
+all,"dp, graphs",combinatorics,0.6908,0.8918,1.2053
+all,hashing,dfs and similar,0.4538,0.9752,1.205
+all,"hashing, number theory",dfs and similar,0.4538,0.9752,1.205
+all,"dp, hashing",dfs and similar,0.4538,0.9752,1.205
+all,"combinatorics, data structures",graphs,0.6879,0.9333,1.205
+all,graphs,"combinatorics, data structures",0.6879,0.8881,1.205
+all,"divide and conquer, interactive",dfs and similar,0.4509,0.975,1.2048
+all,"data structures, hashing",dfs and similar,0.4509,0.975,1.2048
+all,"dfs and similar, dsu",geometry,0.5462,0.8182,1.2046
+all,geometry,"dfs and similar, dsu",0.5462,0.8043,1.2046
+all,"games, hashing",dfs and similar,0.448,0.9748,1.2046
+all,interactive,graphs,0.604,0.933,1.2046
+all,interactive,"dp, graphs",0.604,0.933,1.2046
+all,interactive,"graphs, number theory",0.604,0.933,1.2046
+all,"dsu, two pointers",combinatorics,0.6156,0.8912,1.2045
+all,"binary search, dsu",combinatorics,0.6156,0.8912,1.2045
+all,combinatorics,"dsu, two pointers",0.6156,0.832,1.2045
+all,combinatorics,"binary search, dsu",0.6156,0.832,1.2045
+all,"hashing, two pointers",dfs and similar,0.4451,0.9747,1.2044
+all,"dsu, trees",geometry,0.5058,0.8178,1.204
+all,dsu,"data structures, trees",0.6185,0.8594,1.2039
+all,"data structures, trees",dsu,0.6185,0.8664,1.2039
+all,dsu,"binary search, graphs",0.6532,0.9076,1.2032
+all,"binary search, graphs",dsu,0.6532,0.8659,1.2032
+all,"dsu, graphs",dfs and similar,0.6416,0.9737,1.2032
+all,hashing,graphs,0.4335,0.9317,1.2028
+all,"hashing, number theory",graphs,0.4335,0.9317,1.2028
+all,hashing,"graphs, number theory",0.4335,0.9317,1.2028
+all,"dp, hashing",graphs,0.4335,0.9317,1.2028
+all,hashing,"dp, graphs",0.4335,0.9317,1.2028
+all,"dp, geometry",combinatorics,0.5838,0.8899,1.2027
+all,"geometry, hashing",dfs and similar,0.4162,0.973,1.2023
+all,geometry,"combinatorics, games",0.578,0.8511,1.2019
+all,"combinatorics, games",geometry,0.578,0.8163,1.2019
+all,"dp, interactive",dsu,0.5549,0.8649,1.2018
+all,divide and conquer,dfs and similar,0.5116,0.9725,1.2018
+all,"divide and conquer, dp",dfs and similar,0.5116,0.9725,1.2018
+all,"bitmasks, divide and conquer",dfs and similar,0.5116,0.9725,1.2018
+all,"divide and conquer, number theory",dfs and similar,0.5087,0.9724,1.2016
+all,"data structures, divide and conquer",dfs and similar,0.5087,0.9724,1.2016
+all,"dsu, graphs",geometry,0.5376,0.8158,1.2011
+all,dsu,"bitmasks, graphs",0.6416,0.8916,1.2003
+all,"bitmasks, graphs",dsu,0.6416,0.8638,1.2003
+all,dsu,"data structures, graphs",0.659,0.9157,1.2001
+all,"data structures, graphs",dsu,0.659,0.8636,1.2001
+all,"interactive, two pointers",dsu,0.5491,0.8636,1.2001
+all,interactive,"data structures, graphs",0.5925,0.9152,1.1994
+all,"combinatorics, trees",geometry,0.5318,0.8142,1.1987
+all,"bitmasks, interactive",dsu,0.5405,0.8618,1.1975
+all,"geometry, two pointers",combinatorics,0.5838,0.886,1.1974
+all,shortest paths,"binary search, two pointers",0.4104,0.993,1.1971
+all,shortest paths,"bitmasks, two pointers",0.4046,0.979,1.197
+all,"interactive, number theory",dsu,0.5549,0.861,1.1964
+all,interactive,"dsu, number theory",0.5549,0.8571,1.1959
+all,"binary search, dfs and similar",graphs,0.7197,0.9257,1.1951
+all,graphs,"binary search, dfs and similar",0.7197,0.9291,1.1951
+all,"binary search, interactive",dsu,0.5491,0.8597,1.1946
+all,combinatorics,"bitmasks, dfs and similar",0.6821,0.9219,1.1946
+all,"bitmasks, dfs and similar",combinatorics,0.6821,0.8839,1.1946
+all,"geometry, graphs",dfs and similar,0.5723,0.9659,1.1935
+all,"combinatorics, geometry",dfs and similar,0.5694,0.9657,1.1933
+all,divide and conquer,"bitmasks, dp",0.526,1.0,1.1931
+all,shortest paths,"binary search, data structures",0.4133,1.0,1.1931
+all,"binary search, geometry",trees,0.552,0.8721,1.1927
+all,"bitmasks, combinatorics",dsu,0.6098,0.8577,1.1919
+all,dsu,"bitmasks, combinatorics",0.6098,0.8474,1.1919
+all,trees,"binary search, bitmasks",0.7023,0.9605,1.1911
+all,"binary search, bitmasks",trees,0.7023,0.871,1.1911
+all,interactive,dsu,0.5549,0.8571,1.191
+all,interactive,"data structures, dsu",0.5549,0.8571,1.191
+all,interactive,"dp, dsu",0.5549,0.8571,1.191
+all,"binary search, geometry",graphs,0.5838,0.9224,1.1908
+all,"games, geometry",combinatorics,0.578,0.8811,1.1908
+all,interactive,"binary search, bitmasks",0.6214,0.9598,1.1903
+all,"dsu, games",combinatorics,0.6185,0.8807,1.1903
+all,combinatorics,"dsu, games",0.6185,0.8359,1.1903
+all,"dsu, games",graphs,0.6474,0.9218,1.1901
+all,graphs,"dsu, games",0.6474,0.8358,1.1901
+all,"combinatorics, dsu",dfs and similar,0.6012,0.963,1.1899
+all,"bitmasks, dfs and similar",graphs,0.711,0.9213,1.1895
+all,graphs,"bitmasks, dfs and similar",0.711,0.9179,1.1895
+all,dfs and similar,"combinatorics, graphs",0.6647,0.8214,1.1892
+all,"combinatorics, graphs",dfs and similar,0.6647,0.9623,1.1892
+all,divide and conquer,"binary search, games",0.5116,0.9725,1.189
+all,"combinatorics, graphs",geometry,0.5578,0.8075,1.189
+all,"dsu, two pointers",geometry,0.5578,0.8075,1.189
+all,geometry,"combinatorics, graphs",0.5578,0.8213,1.189
+all,geometry,"dsu, two pointers",0.5578,0.8213,1.189
+all,graph matchings,"binary search, two pointers",0.4133,0.9862,1.1889
+all,"graphs, interactive",dfs and similar,0.5809,0.9617,1.1884
+all,dsu,"graphs, two pointers",0.6474,0.8996,1.188
+all,"graphs, two pointers",dsu,0.6474,0.855,1.188
+all,"trees, two pointers",dsu,0.6127,0.8548,1.1878
+all,dsu,"trees, two pointers",0.6127,0.8514,1.1878
+all,"games, geometry",dsu,0.5607,0.8546,1.1876
+all,"bitmasks, trees",dsu,0.6098,0.8543,1.187
+all,dsu,"bitmasks, trees",0.6098,0.8474,1.187
+all,combinatorics,"data structures, dfs and similar",0.6879,0.9297,1.187
+all,"data structures, dfs and similar",combinatorics,0.6879,0.8782,1.187
+all,"dsu, number theory",graphs,0.659,0.9194,1.1869
+all,graphs,"dsu, number theory",0.659,0.8507,1.1869
+all,graphs,"dfs and similar, two pointers",0.7225,0.9328,1.1866
+all,"dfs and similar, two pointers",graphs,0.7225,0.9191,1.1866
+all,"bitmasks, geometry",trees,0.5491,0.8676,1.1865
+all,dsu,"combinatorics, number theory",0.6243,0.8675,1.1863
+all,"combinatorics, number theory",dsu,0.6243,0.8538,1.1863
+all,"data structures, dfs and similar",graphs,0.7197,0.9188,1.1862
+all,graphs,"data structures, dfs and similar",0.7197,0.9291,1.1862
+all,hashing,"bitmasks, games",0.4451,0.9565,1.1862
+all,"binary search, dfs and similar",combinatorics,0.6821,0.8773,1.1858
+all,combinatorics,"binary search, dfs and similar",0.6821,0.9219,1.1858
+all,divide and conquer,"binary search, two pointers",0.5173,0.9835,1.1857
+all,"dsu, geometry",dfs and similar,0.5462,0.9594,1.1855
+all,"bitmasks, combinatorics",dfs and similar,0.6821,0.9593,1.1855
+all,dfs and similar,"bitmasks, combinatorics",0.6821,0.8429,1.1855
+all,"bitmasks, combinatorics",geometry,0.5723,0.8049,1.1851
+all,geometry,"bitmasks, combinatorics",0.5723,0.8426,1.1851
+all,dsu,"number theory, trees",0.6185,0.8594,1.1847
+all,dsu,"dp, trees",0.6185,0.8594,1.1847
+all,"number theory, trees",dsu,0.6185,0.8526,1.1847
+all,"dp, trees",dsu,0.6185,0.8526,1.1847
+all,dsu,"data structures, dfs and similar",0.6676,0.9277,1.1845
+all,"data structures, dfs and similar",dsu,0.6676,0.8524,1.1845
+all,dsu,"binary search, combinatorics",0.6156,0.8554,1.1839
+all,"binary search, combinatorics",dsu,0.6156,0.852,1.1839
+all,geometry,"binary search, combinatorics",0.5809,0.8553,1.1838
+all,"binary search, combinatorics",geometry,0.5809,0.804,1.1838
+all,"data structures, geometry",combinatorics,0.5896,0.8755,1.1833
+all,"binary search, trees",dsu,0.6127,0.8514,1.1831
+all,dsu,"binary search, trees",0.6127,0.8514,1.1831
+all,"bitmasks, graphs",dfs and similar,0.711,0.9572,1.1828
+all,dfs and similar,"bitmasks, graphs",0.711,0.8786,1.1828
+all,"dfs and similar, two pointers",combinatorics,0.6879,0.875,1.1826
+all,combinatorics,"dfs and similar, two pointers",0.6879,0.9297,1.1826
+all,divide and conquer,"bitmasks, number theory",0.5231,0.9945,1.1825
+all,dsu,graphs,0.659,0.9157,1.1822
+all,dsu,"graphs, number theory",0.659,0.9157,1.1822
+all,"dp, dsu",graphs,0.659,0.9157,1.1822
+all,dsu,"dp, graphs",0.659,0.9157,1.1822
+all,"data structures, dsu",graphs,0.659,0.9157,1.1822
+all,graphs,dsu,0.659,0.8507,1.1822
+all,"graphs, number theory",dsu,0.659,0.8507,1.1822
+all,"dp, graphs",dsu,0.659,0.8507,1.1822
+all,graphs,"dp, dsu",0.659,0.8507,1.1822
+all,graphs,"data structures, dsu",0.659,0.8507,1.1822
+all,"dsu, games",trees,0.6069,0.8642,1.1819
+all,trees,"dsu, games",0.6069,0.83,1.1819
+all,dsu,"combinatorics, dp",0.6243,0.8675,1.1817
+all,"combinatorics, dp",dsu,0.6243,0.8504,1.1817
+all,geometry,"combinatorics, two pointers",0.5838,0.8596,1.1802
+all,"combinatorics, two pointers",geometry,0.5838,0.8016,1.1802
+all,"combinatorics, interactive",dfs and similar,0.552,0.955,1.1801
+all,"dsu, number theory",trees,0.6185,0.8629,1.1801
+all,trees,"dsu, number theory",0.6185,0.8458,1.1801
+all,graphs,"dfs and similar, number theory",0.7312,0.944,1.1792
+all,"dfs and similar, number theory",graphs,0.7312,0.9134,1.1792
+all,"graphs, two pointers",dfs and similar,0.7225,0.9542,1.1791
+all,dfs and similar,"graphs, two pointers",0.7225,0.8929,1.1791
+all,"bitmasks, geometry",graphs,0.578,0.9132,1.179
+all,dfs and similar,"binary search, graphs",0.7197,0.8893,1.1789
+all,"binary search, graphs",dfs and similar,0.7197,0.954,1.1789
+all,"dsu, two pointers",dfs and similar,0.659,0.954,1.1788
+all,dfs and similar,"dsu, two pointers",0.659,0.8143,1.1788
+all,"geometry, interactive",dfs and similar,0.4769,0.9538,1.1786
+all,dsu,"dfs and similar, trees",0.6127,0.8514,1.1783
+all,"dfs and similar, trees",dsu,0.6127,0.848,1.1783
+all,"bitmasks, dsu",dfs and similar,0.6474,0.9532,1.1779
+all,dfs and similar,"bitmasks, dsu",0.6474,0.8,1.1779
+all,geometry,"combinatorics, data structures",0.5896,0.8681,1.1779
+all,"dsu, interactive",dfs and similar,0.5289,0.9531,1.1778
+all,dfs and similar,"games, graphs",0.7052,0.8714,1.1778
+all,"games, graphs",dfs and similar,0.7052,0.9531,1.1778
+all,"dsu, number theory",combinatorics,0.6243,0.871,1.1772
+all,combinatorics,"dsu, number theory",0.6243,0.8438,1.1772
+all,combinatorics,"binary search, bitmasks",0.7023,0.9492,1.1772
+all,"binary search, bitmasks",combinatorics,0.7023,0.871,1.1772
+all,hashing,"bitmasks, data structures",0.448,0.9627,1.1771
+all,hashing,"binary search, games",0.448,0.9627,1.1771
+all,dsu,"combinatorics, data structures",0.6243,0.8675,1.177
+all,"combinatorics, data structures",dsu,0.6243,0.8471,1.177
+all,dsu,"dfs and similar, games",0.6561,0.9116,1.177
+all,"dfs and similar, games",dsu,0.6561,0.847,1.177
+all,divide and conquer,bitmasks,0.526,1.0,1.1769
+all,"divide and conquer, dp",bitmasks,0.526,1.0,1.1769
+all,"data structures, divide and conquer",bitmasks,0.5231,1.0,1.1769
+all,"divide and conquer, number theory",bitmasks,0.5231,1.0,1.1769
+all,"binary search, divide and conquer",bitmasks,0.5202,1.0,1.1769
+all,"divide and conquer, two pointers",bitmasks,0.5202,1.0,1.1769
+all,"divide and conquer, games",bitmasks,0.5173,1.0,1.1769
+all,"divide and conquer, graphs",bitmasks,0.5116,1.0,1.1769
+all,"dfs and similar, divide and conquer",bitmasks,0.5116,1.0,1.1769
+all,"divide and conquer, trees",bitmasks,0.5087,1.0,1.1769
+all,"combinatorics, divide and conquer",bitmasks,0.5087,1.0,1.1769
+all,"divide and conquer, dsu",bitmasks,0.4913,1.0,1.1769
+all,"divide and conquer, interactive",bitmasks,0.4624,1.0,1.1769
+all,"divide and conquer, geometry",bitmasks,0.448,1.0,1.1769
+all,graph matchings,"binary search, data structures",0.4133,0.9862,1.1766
+all,geometry,"binary search, dsu",0.552,0.8128,1.1766
+all,shortest paths,"bitmasks, dp",0.4075,0.986,1.1764
+all,"geometry, two pointers",dsu,0.5578,0.8465,1.1762
+all,geometry,"combinatorics, number theory",0.5838,0.8596,1.1755
+all,geometry,"dsu, games",0.5607,0.8255,1.1754
+all,"dfs and similar, games",graphs,0.7052,0.9104,1.1754
+all,graphs,"dfs and similar, games",0.7052,0.9104,1.1754
+all,dsu,trees,0.6185,0.8594,1.1754
+all,"dp, dsu",trees,0.6185,0.8594,1.1754
+all,"data structures, dsu",trees,0.6185,0.8594,1.1754
+all,trees,dsu,0.6185,0.8458,1.1754
+all,trees,"dp, dsu",0.6185,0.8458,1.1754
+all,trees,"data structures, dsu",0.6185,0.8458,1.1754
+all,graphs,"dfs and similar, dp",0.7312,0.944,1.1749
+all,"dfs and similar, dp",graphs,0.7312,0.9101,1.1749
+all,"geometry, number theory",dsu,0.5694,0.8455,1.1749
+all,"data structures, geometry",dsu,0.5694,0.8455,1.1749
+all,dsu,"combinatorics, two pointers",0.6156,0.8554,1.1745
+all,"combinatorics, two pointers",dsu,0.6156,0.8452,1.1745
+all,interactive,"bitmasks, dfs and similar",0.5867,0.9062,1.1744
+all,trees,"bitmasks, two pointers",0.7023,0.9605,1.1743
+all,"bitmasks, two pointers",trees,0.7023,0.8587,1.1743
+all,divide and conquer,"binary search, data structures",0.5173,0.9835,1.1734
+all,interactive,"binary search, two pointers",0.6301,0.9732,1.1733
+all,geometry,combinatorics,0.5896,0.8681,1.1733
+all,shortest paths,"binary search, number theory",0.4133,1.0,1.1729
+all,graph matchings,"games, two pointers",0.4162,0.9931,1.1727
+all,graph matchings,"bitmasks, number theory",0.4133,0.9862,1.1726
+all,schedules,"games, two pointers",0.4017,0.9929,1.1725
+all,dsu,combinatorics,0.6243,0.8675,1.1724
+all,"dp, dsu",combinatorics,0.6243,0.8675,1.1724
+all,"data structures, dsu",combinatorics,0.6243,0.8675,1.1724
+all,combinatorics,dsu,0.6243,0.8438,1.1724
+all,combinatorics,"dp, dsu",0.6243,0.8438,1.1724
+all,combinatorics,"data structures, dsu",0.6243,0.8438,1.1724
+all,shortest paths,"bitmasks, number theory",0.4075,0.986,1.1724
+all,trees,"binary search, two pointers",0.711,0.9723,1.1722
+all,"binary search, two pointers",trees,0.711,0.8571,1.1722
+all,"geometry, number theory",combinatorics,0.5838,0.867,1.1717
+all,interactive,"binary search, dfs and similar",0.5896,0.9107,1.1714
+all,geometry,"combinatorics, dp",0.5838,0.8596,1.1709
+all,hashing,"binary search, bitmasks",0.4393,0.9441,1.1708
+all,"combinatorics, games",dfs and similar,0.6705,0.9469,1.1701
+all,dfs and similar,"combinatorics, games",0.6705,0.8286,1.1701
+all,"bitmasks, data structures",combinatorics,0.7081,0.8657,1.1701
+all,combinatorics,"bitmasks, data structures",0.7081,0.957,1.1701
+all,combinatorics,"dfs and similar, games",0.6705,0.9062,1.17
+all,"dfs and similar, games",combinatorics,0.6705,0.8657,1.17
+all,geometry,"dsu, number theory",0.5694,0.8383,1.1696
+all,shortest paths,"binary search, dp",0.4133,1.0,1.1689
+all,"graph matchings, two pointers",bitmasks,0.4133,0.9931,1.1687
+all,"binary search, graph matchings",bitmasks,0.4104,0.993,1.1686
+all,"graphs, shortest paths",bitmasks,0.4017,0.9929,1.1685
+all,graph matchings,"bitmasks, dp",0.4104,0.9793,1.1684
+all,interactive,"bitmasks, two pointers",0.6185,0.9554,1.168
+all,"combinatorics, two pointers",dfs and similar,0.6879,0.9444,1.1671
+all,dfs and similar,"combinatorics, two pointers",0.6879,0.85,1.1671
+all,dfs and similar,graphs,0.7312,0.9036,1.1666
+all,dfs and similar,"graphs, number theory",0.7312,0.9036,1.1666
+all,dfs and similar,"dp, graphs",0.7312,0.9036,1.1666
+all,graphs,dfs and similar,0.7312,0.944,1.1666
+all,"graphs, number theory",dfs and similar,0.7312,0.944,1.1666
+all,"dp, graphs",dfs and similar,0.7312,0.944,1.1666
+all,"binary search, combinatorics",dfs and similar,0.6821,0.944,1.1665
+all,dfs and similar,"binary search, combinatorics",0.6821,0.8429,1.1665
+all,"combinatorics, trees",bitmasks,0.6474,0.9912,1.1665
+all,graphs,"binary search, bitmasks",0.7283,0.9403,1.1661
+all,"binary search, bitmasks",graphs,0.7283,0.9032,1.1661
+all,"dp, geometry",graphs,0.5925,0.9031,1.1659
+all,"bitmasks, dfs and similar",dsu,0.6474,0.839,1.1658
+all,dsu,"bitmasks, dfs and similar",0.6474,0.8996,1.1658
+all,"data structures, graphs",dfs and similar,0.7197,0.9432,1.1655
+all,dfs and similar,"data structures, graphs",0.7197,0.8893,1.1655
+all,"interactive, trees",bitmasks,0.5838,0.9902,1.1653
+all,combinatorics,"bitmasks, two pointers",0.7052,0.9531,1.1653
+all,"bitmasks, two pointers",combinatorics,0.7052,0.8622,1.1653
+all,graph matchings,"data structures, games",0.4191,1.0,1.165
+all,geometry,dsu,0.5694,0.8383,1.1649
+all,geometry,"dp, dsu",0.5694,0.8383,1.1649
+all,geometry,"data structures, dsu",0.5694,0.8383,1.1649
+all,"dfs and similar, two pointers",dsu,0.659,0.8382,1.1648
+all,dsu,"dfs and similar, two pointers",0.659,0.9157,1.1648
+all,trees,"bitmasks, data structures",0.6965,0.9526,1.1646
+all,"bitmasks, data structures",trees,0.6965,0.8516,1.1646
+all,"geometry, trees",bitmasks,0.5491,0.9896,1.1646
+all,shortest paths,"games, two pointers",0.4075,0.986,1.1644
+all,interactive,"dfs and similar, two pointers",0.5925,0.9152,1.1642
+all,dfs and similar,"binary search, dsu",0.6503,0.8036,1.1633
+all,"binary search, dsu",dfs and similar,0.6503,0.9414,1.1633
+all,graphs,"bitmasks, two pointers",0.737,0.9515,1.1633
+all,"bitmasks, two pointers",graphs,0.737,0.9011,1.1633
+all,"combinatorics, dp",dfs and similar,0.6908,0.9409,1.1627
+all,dfs and similar,"combinatorics, dp",0.6908,0.8536,1.1627
+all,interactive,"bitmasks, data structures",0.6156,0.9509,1.1626
+all,"combinatorics, number theory",dfs and similar,0.6879,0.9407,1.1625
+all,dfs and similar,"combinatorics, number theory",0.6879,0.85,1.1625
+all,"binary search, geometry",dfs and similar,0.5954,0.9406,1.1624
+all,dsu,"binary search, dfs and similar",0.6503,0.9036,1.1623
+all,"binary search, dfs and similar",dsu,0.6503,0.8364,1.1623
+all,"combinatorics, dfs and similar",bitmasks,0.6821,0.9874,1.1621
+all,bitmasks,"combinatorics, dfs and similar",0.6821,0.8027,1.1621
+all,combinatorics,"dfs and similar, dp",0.6908,0.9336,1.162
+all,"dfs and similar, dp",combinatorics,0.6908,0.8597,1.162
+all,hashing,"bitmasks, two pointers",0.4422,0.9503,1.1619
+all,combinatorics,"dfs and similar, number theory",0.6879,0.9297,1.1613
+all,"dfs and similar, number theory",combinatorics,0.6879,0.8592,1.1613
+all,"hashing, trees",bitmasks,0.4249,0.9866,1.1611
+all,"dsu, hashing",bitmasks,0.4162,0.9863,1.1607
+all,graph matchings,bitmasks,0.4133,0.9862,1.1606
+all,"graph matchings, number theory",bitmasks,0.4133,0.9862,1.1606
+all,"data structures, graph matchings",bitmasks,0.4133,0.9862,1.1606
+all,"games, graph matchings",bitmasks,0.4133,0.9862,1.1606
+all,"dp, graph matchings",bitmasks,0.4104,0.9861,1.1605
+all,combinatorics,"binary search, data structures",0.7197,0.9727,1.1605
+all,"binary search, data structures",combinatorics,0.7197,0.8586,1.1605
+all,shortest paths,bitmasks,0.4075,0.986,1.1604
+all,"number theory, shortest paths",bitmasks,0.4075,0.986,1.1604
+all,"dp, shortest paths",bitmasks,0.4075,0.986,1.1604
+all,"data structures, shortest paths",bitmasks,0.4075,0.986,1.1604
+all,"binary search, shortest paths",bitmasks,0.4075,0.986,1.1604
+all,"dsu, trees",bitmasks,0.6098,0.986,1.1604
+all,"shortest paths, two pointers",bitmasks,0.4046,0.9859,1.1603
+all,"games, shortest paths",bitmasks,0.4046,0.9859,1.1603
+all,"combinatorics, interactive",bitmasks,0.5694,0.985,1.1592
+all,hashing,"games, two pointers",0.4566,0.9814,1.1589
+all,dsu,"dfs and similar, number theory",0.6676,0.9277,1.1588
+all,"dfs and similar, number theory",dsu,0.6676,0.8339,1.1588
+all,combinatorics,"binary search, two pointers",0.711,0.9609,1.1585
+all,"binary search, two pointers",combinatorics,0.711,0.8571,1.1585
+all,"combinatorics, graphs",bitmasks,0.6792,0.9833,1.1572
+all,interactive,"binary search, games",0.6127,0.9464,1.1571
+all,interactive,"bitmasks, games",0.604,0.933,1.1571
+all,interactive,"data structures, dfs and similar",0.5867,0.9062,1.1571
+all,"graphs, trees",bitmasks,0.6734,0.9831,1.157
+all,shortest paths,"data structures, games",0.4104,0.993,1.1568
+all,trees,"bitmasks, games",0.6821,0.9328,1.1568
+all,"bitmasks, games",trees,0.6821,0.8459,1.1568
+all,"bitmasks, geometry",dfs and similar,0.5925,0.9361,1.1567
+all,graph matchings,"binary search, number theory",0.4133,0.9862,1.1567
+all,"geometry, interactive",bitmasks,0.4913,0.9827,1.1565
+all,trees,"bitmasks, number theory",0.711,0.9723,1.1561
+all,"bitmasks, number theory",trees,0.711,0.8454,1.1561
+all,graphs,"binary search, two pointers",0.7428,0.959,1.1561
+all,"binary search, two pointers",graphs,0.7428,0.8955,1.1561
+all,divide and conquer,"binary search, dp",0.5202,0.989,1.1561
+all,hashing,"bitmasks, dp",0.4509,0.9689,1.1561
+all,geometry,"games, graphs",0.5809,0.8553,1.156
+all,"bitmasks, interactive",dfs and similar,0.5867,0.9355,1.156
+all,interactive,"binary search, data structures",0.6272,0.9688,1.1558
+all,"bitmasks, dp",trees,0.7081,0.8448,1.1554
+all,"binary search, data structures",trees,0.7081,0.8448,1.1554
+all,trees,"bitmasks, dp",0.7081,0.9684,1.1554
+all,trees,"binary search, data structures",0.7081,0.9684,1.1554
+all,geometry,"games, trees",0.5462,0.8043,1.1547
+all,dsu,"dfs and similar, dp",0.6676,0.9277,1.1546
+all,"dfs and similar, dp",dsu,0.6676,0.8309,1.1546
+all,"dsu, games",dfs and similar,0.6561,0.9342,1.1544
+all,dfs and similar,"dsu, games",0.6561,0.8107,1.1544
+all,"graphs, interactive",bitmasks,0.5925,0.9809,1.1543
+all,interactive,"dfs and similar, number theory",0.5983,0.9241,1.1543
+all,"bitmasks, data structures",graphs,0.7312,0.894,1.1542
+all,graphs,"bitmasks, data structures",0.7312,0.944,1.1542
+all,"dfs and similar, interactive",bitmasks,0.5867,0.9807,1.1541
+all,"binary search, hashing",bitmasks,0.4393,0.9806,1.1541
+all,"bitmasks, data structures",dsu,0.6792,0.8304,1.1539
+all,dsu,"bitmasks, data structures",0.6792,0.9438,1.1539
+all,combinatorics,dfs and similar,0.6908,0.9336,1.1537
+all,dfs and similar,combinatorics,0.6908,0.8536,1.1537
+all,divide and conquer,"binary search, number theory",0.5173,0.9835,1.1535
+all,"number theory, trees",bitmasks,0.711,0.9801,1.1534
+all,bitmasks,"number theory, trees",0.711,0.8367,1.1534
+all,"divide and conquer, graphs",binary search,0.5116,1.0,1.1533
+all,"combinatorics, divide and conquer",binary search,0.5087,1.0,1.1533
+all,shortest paths,binary search,0.4133,1.0,1.1533
+all,"data structures, shortest paths",binary search,0.4133,1.0,1.1533
+all,"dp, shortest paths",binary search,0.4133,1.0,1.1533
+all,"number theory, shortest paths",binary search,0.4133,1.0,1.1533
+all,"games, shortest paths",binary search,0.4104,1.0,1.1533
+all,"shortest paths, two pointers",binary search,0.4104,1.0,1.1533
+all,"bitmasks, shortest paths",binary search,0.4075,1.0,1.1533
+all,"graphs, shortest paths",binary search,0.4046,1.0,1.1533
+all,"dfs and similar, shortest paths",binary search,0.4046,1.0,1.1533
+all,"combinatorics, shortest paths",binary search,0.4017,1.0,1.1533
+all,"graphs, hashing",binary search,0.4335,1.0,1.1533
+all,"combinatorics, hashing",bitmasks,0.4249,0.98,1.1533
+all,"graphs, hashing",bitmasks,0.4249,0.98,1.1533
+all,"combinatorics, data structures",dfs and similar,0.6879,0.9333,1.1533
+all,dfs and similar,"combinatorics, data structures",0.6879,0.85,1.1533
+all,hashing,"binary search, two pointers",0.4451,0.9565,1.1532
+all,"trees, two pointers",bitmasks,0.7023,0.9798,1.1531
+all,bitmasks,"trees, two pointers",0.7023,0.8265,1.1531
+all,"dsu, geometry",bitmasks,0.5578,0.9797,1.153
+all,shortest paths,"dp, two pointers",0.4104,0.993,1.153
+all,combinatorics,"bitmasks, games",0.6879,0.9297,1.1529
+all,"bitmasks, games",combinatorics,0.6879,0.853,1.1529
+all,schedules,"dp, two pointers",0.4017,0.9929,1.1528
+all,interactive,"dfs and similar, games",0.578,0.8929,1.1527
+all,"games, trees",bitmasks,0.6821,0.9793,1.1525
+all,bitmasks,"games, trees",0.6821,0.8027,1.1525
+all,geometry,"dfs and similar, graphs",0.5723,0.8426,1.1523
+all,hashing,"bitmasks, number theory",0.4509,0.9689,1.1521
+all,interactive,"binary search, number theory",0.6358,0.9821,1.1519
+all,interactive,"bitmasks, number theory",0.6272,0.9688,1.1518
+all,"geometry, two pointers",trees,0.5549,0.8421,1.1517
+all,"interactive, two pointers",dfs and similar,0.5925,0.9318,1.1515
+all,"dsu, number theory",dfs and similar,0.6676,0.9315,1.151
+all,dfs and similar,"dsu, number theory",0.6676,0.825,1.151
+all,combinatorics,"binary search, games",0.6965,0.9414,1.151
+all,"binary search, games",combinatorics,0.6965,0.8516,1.151
+all,"dp, geometry",trees,0.552,0.8414,1.1507
+all,hashing,"data structures, games",0.4595,0.9876,1.1505
+all,interactive,"bitmasks, dp",0.6243,0.9643,1.1505
+all,trees,"binary search, games",0.6879,0.9407,1.1501
+all,"binary search, games",trees,0.6879,0.841,1.1501
+all,"combinatorics, dsu",bitmasks,0.6098,0.9769,1.1496
+all,schedules,"dp, games",0.4046,1.0,1.1495
+all,"games, interactive",dfs and similar,0.578,0.9302,1.1495
+all,"geometry, two pointers",graphs,0.5867,0.8904,1.1495
+all,graph matchings,"data structures, two pointers",0.4162,0.9931,1.1492
+all,shortest paths,"data structures, two pointers",0.4104,0.993,1.1491
+all,dsu,"binary search, games",0.6763,0.9398,1.149
+all,"binary search, games",dsu,0.6763,0.8269,1.149
+all,trees,bitmasks,0.7139,0.9763,1.149
+all,bitmasks,trees,0.7139,0.8401,1.149
+all,"dp, trees",bitmasks,0.7081,0.9761,1.1487
+all,bitmasks,"dp, trees",0.7081,0.8333,1.1487
+all,hashing,"binary search, data structures",0.448,0.9627,1.1486
+all,"dfs and similar, trees",bitmasks,0.7052,0.976,1.1486
+all,bitmasks,"dfs and similar, trees",0.7052,0.8299,1.1486
+all,"binary search, data structures",graphs,0.7457,0.8897,1.1486
+all,graphs,"binary search, data structures",0.7457,0.9627,1.1486
+all,"binary search, trees",bitmasks,0.7023,0.9759,1.1485
+all,bitmasks,"binary search, trees",0.7023,0.8265,1.1485
+all,divide and conquer,"games, two pointers",0.5116,0.9725,1.1484
+all,divide and conquer,"dp, two pointers",0.5202,0.989,1.1483
+all,"data structures, trees",bitmasks,0.6965,0.9757,1.1483
+all,bitmasks,"data structures, trees",0.6965,0.8197,1.1483
+all,"combinatorics, trees",binary search,0.6503,0.9956,1.1482
+all,"geometry, graphs",bitmasks,0.578,0.9756,1.1482
+all,"graphs, interactive",binary search,0.6012,0.9952,1.1478
+all,"combinatorics, interactive",binary search,0.5751,0.995,1.1476
+all,"geometry, trees",binary search,0.552,0.9948,1.1473
+all,"binary search, bitmasks",dfs and similar,0.7486,0.9283,1.1471
+all,dfs and similar,"binary search, bitmasks",0.7486,0.925,1.1471
+all,"interactive, number theory",dfs and similar,0.5983,0.9283,1.1471
+all,"divide and conquer, two pointers",binary search,0.5173,0.9944,1.1469
+all,"dfs and similar, hashing",bitmasks,0.4422,0.9745,1.1469
+all,"dfs and similar, divide and conquer",binary search,0.5087,0.9944,1.1468
+all,"divide and conquer, trees",binary search,0.5058,0.9943,1.1468
+all,"dp, interactive",dfs and similar,0.5954,0.9279,1.1467
+all,combinatorics,"bitmasks, dp",0.711,0.9609,1.1465
+all,"bitmasks, dp",combinatorics,0.711,0.8483,1.1465
+all,dsu,dfs and similar,0.6676,0.9277,1.1464
+all,"dp, dsu",dfs and similar,0.6676,0.9277,1.1464
+all,"data structures, dsu",dfs and similar,0.6676,0.9277,1.1464
+all,dfs and similar,dsu,0.6676,0.825,1.1464
+all,dfs and similar,"dp, dsu",0.6676,0.825,1.1464
+all,dfs and similar,"data structures, dsu",0.6676,0.825,1.1464
+all,geometry,"data structures, dfs and similar",0.6098,0.8979,1.1464
+all,"dsu, interactive",bitmasks,0.5405,0.974,1.1462
+all,"divide and conquer, interactive",binary search,0.4595,0.9938,1.1461
+all,"dsu, graphs",bitmasks,0.6416,0.9737,1.1459
+all,geometry,"bitmasks, graphs",0.578,0.8511,1.1458
+all,divide and conquer,"data structures, games",0.5173,0.9835,1.1458
+all,"combinatorics, hashing",binary search,0.4306,0.9933,1.1456
+all,dsu,"bitmasks, games",0.6647,0.9237,1.1455
+all,"bitmasks, games",dsu,0.6647,0.8244,1.1455
+all,"data structures, interactive",dfs and similar,0.5867,0.9269,1.1454
+all,"graphs, two pointers",bitmasks,0.737,0.9733,1.1454
+all,bitmasks,"graphs, two pointers",0.737,0.8673,1.1454
+all,"graph matchings, two pointers",binary search,0.4133,0.9931,1.1453
+all,"bitmasks, graph matchings",binary search,0.4104,0.993,1.1453
+all,"interactive, number theory",bitmasks,0.6272,0.9731,1.1452
+all,dsu,"binary search, data structures",0.6908,0.9598,1.1452
+all,"binary search, data structures",dsu,0.6908,0.8241,1.1452
+all,trees,"binary search, number theory",0.7139,0.9763,1.1451
+all,"binary search, number theory",trees,0.7139,0.8373,1.1451
+all,"dp, interactive",bitmasks,0.6243,0.973,1.1451
+all,"geometry, hashing",bitmasks,0.4162,0.973,1.1451
+all,graph matchings,"dp, two pointers",0.4133,0.9862,1.1451
+all,"binary search, interactive",bitmasks,0.6214,0.9729,1.1449
+all,"interactive, two pointers",bitmasks,0.6185,0.9727,1.1448
+all,graph matchings,"binary search, dp",0.4104,0.9793,1.1447
+all,"data structures, interactive",bitmasks,0.6156,0.9726,1.1446
+all,interactive,"dfs and similar, dp",0.5954,0.9196,1.1446
+all,geometry,"data structures, trees",0.5549,0.817,1.1445
+all,"dfs and similar, graphs",bitmasks,0.711,0.9723,1.1443
+all,bitmasks,"dfs and similar, graphs",0.711,0.8367,1.1443
+all,graphs,"bitmasks, dp",0.7428,0.959,1.1441
+all,"bitmasks, dp",graphs,0.7428,0.8862,1.1441
+all,"trees, two pointers",binary search,0.711,0.9919,1.144
+all,binary search,"trees, two pointers",0.711,0.82,1.144
+all,"games, interactive",bitmasks,0.604,0.9721,1.144
+all,"data structures, trees",binary search,0.7081,0.9919,1.144
+all,binary search,"data structures, trees",0.7081,0.8167,1.144
+all,"binary search, combinatorics",bitmasks,0.7023,0.972,1.1439
+all,bitmasks,"binary search, combinatorics",0.7023,0.8265,1.1439
+all,"graphs, trees",binary search,0.6792,0.9916,1.1436
+all,"dfs and similar, geometry",bitmasks,0.5925,0.9716,1.1434
+all,geometry,"data structures, graphs",0.5925,0.8723,1.1433
+all,"combinatorics, games",bitmasks,0.6879,0.9714,1.1432
+all,bitmasks,"combinatorics, games",0.6879,0.8095,1.1432
+all,"dsu, graphs",binary search,0.6532,0.9912,1.1432
+all,"games, geometry",graphs,0.5809,0.8855,1.1432
+all,"dp, geometry",dfs and similar,0.6069,0.9251,1.1432
+all,"interactive, two pointers",binary search,0.6301,0.9909,1.1428
+all,interactive,"binary search, dp",0.6329,0.9777,1.1428
+all,"data structures, interactive",binary search,0.6272,0.9909,1.1428
+all,"bitmasks, interactive",binary search,0.6214,0.9908,1.1427
+all,"dsu, trees",binary search,0.6127,0.9907,1.1426
+all,"combinatorics, geometry",bitmasks,0.5723,0.9706,1.1423
+all,"binary search, number theory",graphs,0.7543,0.8847,1.1422
+all,graphs,"binary search, number theory",0.7543,0.9739,1.1422
+all,"interactive, trees",binary search,0.5838,0.9902,1.142
+all,interactive,dfs and similar,0.5983,0.9241,1.1419
+all,schedules,"games, number theory",0.4046,1.0,1.1419
+all,graph matchings,"games, number theory",0.4191,1.0,1.1419
+all,graph matchings,"dp, games",0.4162,0.9931,1.1416
+all,shortest paths,"dp, games",0.4104,0.993,1.1415
+all,"dsu, interactive",binary search,0.5491,0.9896,1.1413
+all,"dfs and similar, dsu",bitmasks,0.6474,0.9697,1.1412
+all,trees,"binary search, dp",0.7139,0.9763,1.1412
+all,"binary search, dp",trees,0.7139,0.8345,1.1412
+all,combinatorics,"binary search, number theory",0.7197,0.9727,1.1408
+all,"binary search, number theory",combinatorics,0.7197,0.8441,1.1408
+all,geometry,"graphs, two pointers",0.5867,0.8638,1.1408
+all,divide and conquer,binary search,0.5202,0.989,1.1407
+all,"divide and conquer, dp",binary search,0.5202,0.989,1.1407
+all,"bitmasks, divide and conquer",binary search,0.5202,0.989,1.1407
+all,"binary search, interactive",dfs and similar,0.5896,0.9231,1.1407
+all,"divide and conquer, number theory",binary search,0.5173,0.989,1.1406
+all,"data structures, divide and conquer",binary search,0.5173,0.989,1.1406
+all,graphs,"binary search, games",0.7225,0.9328,1.1405
+all,"binary search, games",graphs,0.7225,0.8834,1.1405
+all,"divide and conquer, games",binary search,0.5116,0.9888,1.1404
+all,hashing,bitmasks,0.4509,0.9689,1.1403
+all,"hashing, number theory",bitmasks,0.4509,0.9689,1.1403
+all,"dp, hashing",bitmasks,0.4509,0.9689,1.1403
+all,graphs,"bitmasks, number theory",0.7428,0.959,1.1402
+all,"bitmasks, number theory",graphs,0.7428,0.8832,1.1402
+all,interactive,bitmasks,0.6272,0.9688,1.1401
+all,"data structures, hashing",bitmasks,0.448,0.9688,1.1401
+all,"geometry, interactive",binary search,0.4942,0.9884,1.14
+all,geometry,"trees, two pointers",0.5549,0.817,1.1399
+all,"games, hashing",bitmasks,0.4451,0.9686,1.1399
+all,"combinatorics, dp",bitmasks,0.711,0.9685,1.1398
+all,bitmasks,"combinatorics, dp",0.711,0.8367,1.1398
+all,"divide and conquer, dsu",binary search,0.4855,0.9882,1.1398
+all,bitmasks,"combinatorics, number theory",0.7081,0.8333,1.1397
+all,"combinatorics, number theory",bitmasks,0.7081,0.9684,1.1397
+all,dfs and similar,"bitmasks, two pointers",0.7543,0.9321,1.1397
+all,"bitmasks, two pointers",dfs and similar,0.7543,0.9223,1.1397
+all,"hashing, two pointers",bitmasks,0.4422,0.9684,1.1396
+all,geometry,"binary search, graphs",0.5838,0.8596,1.1395
+all,bitmasks,"combinatorics, two pointers",0.7052,0.8299,1.1395
+all,"combinatorics, two pointers",bitmasks,0.7052,0.9683,1.1395
+all,hashing,"dp, two pointers",0.4566,0.9814,1.1394
+all,"bitmasks, combinatorics",binary search,0.7023,0.9878,1.1393
+all,binary search,"bitmasks, combinatorics",0.7023,0.81,1.1393
+all,"games, trees",binary search,0.6879,0.9876,1.139
+all,"combinatorics, graphs",binary search,0.6821,0.9874,1.1389
+all,"combinatorics, dfs and similar",binary search,0.6821,0.9874,1.1389
+all,"games, geometry",trees,0.5462,0.8326,1.1387
+all,"divide and conquer, geometry",binary search,0.4422,0.9871,1.1385
+all,"binary search, dp",graphs,0.7543,0.8818,1.1384
+all,graphs,"binary search, dp",0.7543,0.9739,1.1384
+all,divide and conquer,"data structures, two pointers",0.5173,0.9835,1.1381
+all,combinatorics,"bitmasks, number theory",0.7081,0.957,1.1379
+all,"bitmasks, number theory",combinatorics,0.7081,0.8419,1.1379
+all,interactive,binary search,0.6387,0.9866,1.1379
+all,"hashing, trees",binary search,0.4249,0.9866,1.1379
+all,"interactive, number theory",binary search,0.6358,0.9865,1.1378
+all,"dp, interactive",binary search,0.6329,0.9865,1.1377
+all,graph matchings,binary search,0.4133,0.9862,1.1374
+all,"graph matchings, number theory",binary search,0.4133,0.9862,1.1374
+all,"data structures, graph matchings",binary search,0.4133,0.9862,1.1374
+all,"games, graph matchings",binary search,0.4133,0.9862,1.1374
+all,"combinatorics, dsu",binary search,0.6156,0.9861,1.1373
+all,"dp, graph matchings",binary search,0.4104,0.9861,1.1373
+all,"games, interactive",binary search,0.6127,0.986,1.1372
+all,geometry,"dfs and similar, games",0.5983,0.8809,1.1372
+all,"binary search, dp",combinatorics,0.7197,0.8412,1.137
+all,combinatorics,"binary search, dp",0.7197,0.9727,1.137
+all,"data structures, games",dsu,0.7023,0.8182,1.1369
+all,dsu,"data structures, games",0.7023,0.9759,1.1369
+all,dfs and similar,"binary search, two pointers",0.763,0.9429,1.1367
+all,"binary search, two pointers",dfs and similar,0.763,0.9199,1.1367
+all,"dfs and similar, interactive",binary search,0.5896,0.9855,1.1366
+all,"geometry, graphs",binary search,0.5838,0.9854,1.1365
+all,"combinatorics, geometry",binary search,0.5809,0.9853,1.1364
+all,"binary search, graphs",bitmasks,0.7283,0.9655,1.1363
+all,bitmasks,"binary search, graphs",0.7283,0.8571,1.1363
+all,"geometry, number theory",graphs,0.5925,0.8798,1.1359
+all,"data structures, geometry",graphs,0.5925,0.8798,1.1359
+all,hashing,"data structures, two pointers",0.4566,0.9814,1.1356
+all,"binary search, bitmasks",dsu,0.659,0.8172,1.1356
+all,dsu,"binary search, bitmasks",0.659,0.9157,1.1356
+all,hashing,"dp, games",0.4595,0.9876,1.1352
+all,interactive,"dp, two pointers",0.6329,0.9777,1.1352
+all,"dfs and similar, graphs",binary search,0.7197,0.9842,1.1351
+all,"combinatorics, number theory",binary search,0.7197,0.9842,1.1351
+all,trees,binary search,0.7197,0.9842,1.1351
+all,binary search,"dfs and similar, graphs",0.7197,0.83,1.1351
+all,binary search,"combinatorics, number theory",0.7197,0.83,1.1351
+all,binary search,trees,0.7197,0.83,1.1351
+all,graphs,"dp, two pointers",0.7572,0.9776,1.1351
+all,"dp, two pointers",graphs,0.7572,0.8792,1.1351
+all,"number theory, trees",binary search,0.7139,0.9841,1.135
+all,"dp, trees",binary search,0.7139,0.9841,1.135
+all,binary search,"number theory, trees",0.7139,0.8233,1.135
+all,binary search,"dp, trees",0.7139,0.8233,1.135
+all,"dfs and similar, trees",binary search,0.711,0.984,1.1349
+all,binary search,"dfs and similar, trees",0.711,0.82,1.1349
+all,binary search,"bitmasks, trees",0.7023,0.81,1.1347
+all,"bitmasks, trees",binary search,0.7023,0.9838,1.1347
+all,combinatorics,"data structures, two pointers",0.7254,0.9805,1.1346
+all,"data structures, two pointers",combinatorics,0.7254,0.8395,1.1346
+all,"combinatorics, games",binary search,0.6965,0.9837,1.1345
+all,binary search,"combinatorics, games",0.6965,0.8033,1.1345
+all,geometry,"bitmasks, data structures",0.6301,0.9277,1.1342
+all,shortest paths,"games, number theory",0.4104,0.993,1.1339
+all,"binary search, geometry",bitmasks,0.6098,0.9635,1.1339
+all,combinatorics,"dp, two pointers",0.7225,0.9766,1.1339
+all,"dp, two pointers",combinatorics,0.7225,0.8389,1.1339
+all,dfs and similar,"bitmasks, games",0.7399,0.9143,1.1338
+all,"bitmasks, games",dfs and similar,0.7399,0.9176,1.1338
+all,"bitmasks, games",graphs,0.7081,0.8781,1.1337
+all,graphs,"bitmasks, games",0.7081,0.9142,1.1337
+all,"binary search, dfs and similar",bitmasks,0.7486,0.9628,1.1331
+all,bitmasks,"binary search, dfs and similar",0.7486,0.881,1.1331
+all,"geometry, two pointers",dfs and similar,0.604,0.9167,1.1327
+all,geometry,"bitmasks, trees",0.5491,0.8085,1.1326
+all,"dsu, two pointers",bitmasks,0.6647,0.9623,1.1326
+all,"graphs, two pointers",binary search,0.7428,0.9809,1.1313
+all,binary search,"graphs, two pointers",0.7428,0.8567,1.1313
+all,geometry,"dfs and similar, two pointers",0.604,0.8894,1.1313
+all,dfs and similar,"binary search, games",0.7486,0.925,1.1309
+all,"binary search, games",dfs and similar,0.7486,0.9152,1.1309
+all,bitmasks,combinatorics,0.711,0.8367,1.1309
+all,combinatorics,bitmasks,0.711,0.9609,1.1309
+all,binary search,"bitmasks, graphs",0.7283,0.84,1.1309
+all,"bitmasks, graphs",binary search,0.7283,0.9805,1.1309
+all,dsu,"data structures, dp",0.7197,1.0,1.1307
+all,shortest paths,"data structures, dp",0.4133,1.0,1.1307
+all,"combinatorics, data structures",bitmasks,0.7081,0.9608,1.1307
+all,bitmasks,"combinatorics, data structures",0.7081,0.8333,1.1307
+all,"data structures, dp",dsu,0.7197,0.8137,1.1307
+all,"combinatorics, dp",binary search,0.7197,0.9803,1.1306
+all,binary search,"combinatorics, dp",0.7197,0.83,1.1306
+all,divide and conquer,"dp, games",0.5173,0.9835,1.1306
+all,geometry,"bitmasks, dfs and similar",0.5925,0.8723,1.1304
+all,"dsu, hashing",binary search,0.4133,0.9795,1.1296
+all,geometry,"binary search, trees",0.552,0.8128,1.1294
+all,dsu,"bitmasks, two pointers",0.6647,0.9237,1.1293
+all,"bitmasks, two pointers",dsu,0.6647,0.8127,1.1293
+all,"dfs and similar, two pointers",bitmasks,0.7543,0.9596,1.1293
+all,bitmasks,"dfs and similar, two pointers",0.7543,0.8878,1.1293
+all,dfs and similar,"bitmasks, dp",0.7659,0.9464,1.1292
+all,"bitmasks, dp",dfs and similar,0.7659,0.9138,1.1292
+all,hashing,"binary search, number theory",0.448,0.9627,1.1292
+all,trees,"dp, two pointers",0.711,0.9723,1.1289
+all,"dp, two pointers",trees,0.711,0.8255,1.1289
+all,graphs,bitmasks,0.7428,0.959,1.1286
+all,"graphs, number theory",bitmasks,0.7428,0.959,1.1286
+all,"dp, graphs",bitmasks,0.7428,0.959,1.1286
+all,bitmasks,graphs,0.7428,0.8741,1.1286
+all,bitmasks,"graphs, number theory",0.7428,0.8741,1.1286
+all,bitmasks,"dp, graphs",0.7428,0.8741,1.1286
+all,dsu,"binary search, two pointers",0.6734,0.9357,1.1281
+all,"binary search, two pointers",dsu,0.6734,0.8118,1.1281
+all,"data structures, graphs",bitmasks,0.7312,0.9583,1.1278
+all,bitmasks,"data structures, graphs",0.7312,0.8605,1.1278
+all,hashing,"games, number theory",0.4595,0.9876,1.1277
+all,geometry,"binary search, dfs and similar",0.5954,0.8766,1.1275
+all,"data structures, graphs",binary search,0.7457,0.9773,1.1271
+all,binary search,"data structures, graphs",0.7457,0.86,1.1271
+all,"data structures, geometry",trees,0.5549,0.824,1.1269
+all,"games, geometry",dfs and similar,0.5983,0.9119,1.1268
+all,dfs and similar,"bitmasks, data structures",0.7457,0.9214,1.1266
+all,"bitmasks, data structures",dfs and similar,0.7457,0.9117,1.1266
+all,"games, graphs",bitmasks,0.7081,0.957,1.1263
+all,binary search,"games, graphs",0.7225,0.8333,1.1263
+all,bitmasks,"games, graphs",0.7081,0.8333,1.1263
+all,binary search,combinatorics,0.7225,0.8333,1.1263
+all,"games, graphs",binary search,0.7225,0.9766,1.1263
+all,combinatorics,binary search,0.7225,0.9766,1.1263
+all,geometry,graphs,0.5925,0.8723,1.1262
+all,geometry,"dp, graphs",0.5925,0.8723,1.1262
+all,geometry,"graphs, number theory",0.5925,0.8723,1.1262
+all,"combinatorics, data structures",binary search,0.7197,0.9765,1.1262
+all,binary search,"combinatorics, data structures",0.7197,0.83,1.1262
+all,dsu,"bitmasks, dp",0.6792,0.9438,1.126
+all,"bitmasks, dp",dsu,0.6792,0.8103,1.126
+all,"dfs and similar, geometry",binary search,0.5954,0.9763,1.126
+all,"dfs and similar, number theory",bitmasks,0.7659,0.9567,1.1259
+all,bitmasks,"dfs and similar, number theory",0.7659,0.9014,1.1259
+all,"combinatorics, two pointers",binary search,0.711,0.9762,1.1259
+all,binary search,"combinatorics, two pointers",0.711,0.82,1.1259
+all,dsu,"binary search, number theory",0.6908,0.9598,1.1258
+all,"binary search, number theory",dsu,0.6908,0.8102,1.1258
+all,hashing,"binary search, dp",0.448,0.9627,1.1254
+all,dfs and similar,"bitmasks, number theory",0.7659,0.9464,1.1253
+all,"bitmasks, number theory",dfs and similar,0.7659,0.9107,1.1253
+all,"dp, geometry",bitmasks,0.6272,0.9559,1.125
+all,geometry,"dfs and similar, trees",0.552,0.8128,1.1249
+all,divide and conquer,"data structures, dp",0.5231,0.9945,1.1245
+all,"dsu, two pointers",binary search,0.6734,0.9749,1.1244
+all,"games, hashing",binary search,0.448,0.9748,1.1243
+all,"dfs and similar, games",bitmasks,0.7399,0.9552,1.1242
+all,bitmasks,"dfs and similar, games",0.7399,0.8707,1.1242
+all,"hashing, two pointers",binary search,0.4451,0.9747,1.1241
+all,geometry,"bitmasks, games",0.6156,0.9064,1.124
+all,"bitmasks, hashing",binary search,0.4393,0.9744,1.1238
+all,hashing,"data structures, dp",0.4624,0.9938,1.1237
+all,"dfs and similar, dsu",binary search,0.6503,0.974,1.1234
+all,graphs,binary search,0.7543,0.9739,1.1232
+all,"graphs, number theory",binary search,0.7543,0.9739,1.1232
+all,"dp, graphs",binary search,0.7543,0.9739,1.1232
+all,binary search,graphs,0.7543,0.87,1.1232
+all,binary search,"graphs, number theory",0.7543,0.87,1.1232
+all,binary search,"dp, graphs",0.7543,0.87,1.1232
+all,graph matchings,"data structures, dp",0.4162,0.9931,1.1229
+all,"binary search, dsu",bitmasks,0.659,0.954,1.1227
+all,dfs and similar,bitmasks,0.7717,0.9536,1.1222
+all,bitmasks,dfs and similar,0.7717,0.9082,1.1222
+all,dsu,"bitmasks, number theory",0.6792,0.9438,1.1222
+all,"bitmasks, number theory",dsu,0.6792,0.8076,1.1222
+all,"binary search, dp",dsu,0.6908,0.8074,1.122
+all,dsu,"binary search, dp",0.6908,0.9598,1.122
+all,"dfs and similar, dp",bitmasks,0.7659,0.9532,1.1218
+all,bitmasks,"dfs and similar, dp",0.7659,0.9014,1.1218
+all,dsu,"dp, games",0.7023,0.9759,1.1218
+all,"dp, games",dsu,0.7023,0.8073,1.1218
+all,"geometry, number theory",trees,0.552,0.8197,1.1211
+all,interactive,"data structures, two pointers",0.6272,0.9688,1.121
+all,dfs and similar,"binary search, data structures",0.7601,0.9393,1.1207
+all,"binary search, data structures",dfs and similar,0.7601,0.9069,1.1207
+all,"data structures, dfs and similar",bitmasks,0.7457,0.952,1.1204
+all,bitmasks,"data structures, dfs and similar",0.7457,0.8776,1.1204
+all,geometry,"dp, trees",0.552,0.8128,1.1204
+all,geometry,"number theory, trees",0.552,0.8128,1.1204
+all,geometry,"data structures, games",0.6532,0.9617,1.1204
+all,dfs and similar,"dp, two pointers",0.7803,0.9643,1.1196
+all,"dp, two pointers",dfs and similar,0.7803,0.906,1.1196
+all,"binary search, two pointers",bitmasks,0.789,0.9512,1.1195
+all,bitmasks,"binary search, two pointers",0.789,0.9286,1.1195
+all,"dfs and similar, two pointers",binary search,0.763,0.9706,1.1194
+all,binary search,"dfs and similar, two pointers",0.763,0.88,1.1194
+all,"data structures, dfs and similar",binary search,0.7601,0.9705,1.1193
+all,binary search,"data structures, dfs and similar",0.7601,0.8767,1.1193
+all,graph matchings,"number theory, two pointers",0.4162,0.9931,1.1193
+all,shortest paths,"number theory, two pointers",0.4104,0.993,1.1192
+all,"data structures, geometry",dfs and similar,0.6098,0.9056,1.119
+all,schedules,"number theory, two pointers",0.4017,0.9929,1.119
+all,"bitmasks, dsu",binary search,0.659,0.9702,1.119
+all,"bitmasks, dfs and similar",binary search,0.7486,0.97,1.1188
+all,binary search,"bitmasks, dfs and similar",0.7486,0.8633,1.1188
+all,geometry,"binary search, games",0.6214,0.9149,1.1186
+all,graphs,"data structures, two pointers",0.7486,0.9664,1.1183
+all,"data structures, two pointers",graphs,0.7486,0.8662,1.1183
+all,"dsu, geometry",binary search,0.552,0.9695,1.1182
+all,geometry,"data structures, two pointers",0.6561,0.966,1.1178
+all,interactive,"games, two pointers",0.6127,0.9464,1.1176
+all,combinatorics,"data structures, dp",0.7312,0.9883,1.1175
+all,"data structures, dp",combinatorics,0.7312,0.8268,1.1175
+all,geometry,trees,0.5549,0.817,1.1173
+all,"data structures, hashing",binary search,0.448,0.9688,1.1173
+all,divide and conquer,"games, number theory",0.5145,0.978,1.1168
+all,"dfs and similar, hashing",binary search,0.4393,0.9682,1.1166
+all,geometry,"dfs and similar, number theory",0.6069,0.8936,1.1162
+all,shortest paths,"data structures, number theory",0.4133,1.0,1.1161
+all,graph matchings,"data structures, number theory",0.4191,1.0,1.1161
+all,trees,"data structures, two pointers",0.7052,0.9644,1.116
+all,"data structures, two pointers",trees,0.7052,0.8161,1.116
+all,geometry,"games, two pointers",0.6416,0.9447,1.1156
+all,"dsu, number theory",bitmasks,0.6792,0.9476,1.1152
+all,"data structures, games",combinatorics,0.7081,0.8249,1.1149
+all,combinatorics,"data structures, games",0.7081,0.957,1.1149
+all,dfs and similar,"binary search, dp",0.7717,0.9536,1.1146
+all,"binary search, dp",dfs and similar,0.7717,0.902,1.1146
+all,"dfs and similar, games",binary search,0.7486,0.9664,1.1146
+all,binary search,"dfs and similar, games",0.7486,0.8633,1.1146
+all,"games, two pointers",dsu,0.6792,0.802,1.1145
+all,dsu,"games, two pointers",0.6792,0.9438,1.1145
+all,dsu,"dp, two pointers",0.6908,0.9598,1.1144
+all,"dp, two pointers",dsu,0.6908,0.802,1.1144
+all,"geometry, hashing",binary search,0.4133,0.9662,1.1144
+all,dfs and similar,"binary search, number theory",0.7688,0.95,1.1142
+all,"binary search, number theory",dfs and similar,0.7688,0.9017,1.1142
+all,"dsu, games",bitmasks,0.6647,0.9465,1.1139
+all,graphs,"data structures, dp",0.763,0.9851,1.1138
+all,"data structures, dp",graphs,0.763,0.8627,1.1138
+all,"geometry, number theory",dfs and similar,0.6069,0.9013,1.1137
+all,geometry,"binary search, bitmasks",0.6098,0.8979,1.1135
+all,geometry,"bitmasks, two pointers",0.6185,0.9106,1.1134
+all,"bitmasks, two pointers",binary search,0.789,0.9647,1.1126
+all,binary search,"bitmasks, two pointers",0.789,0.91,1.1126
+all,"dp, number theory",graphs,0.7746,0.8617,1.1125
+all,graphs,"dp, number theory",0.7746,1.0,1.1125
+all,shortest paths,"dp, number theory",0.4133,1.0,1.1125
+all,schedules,"dp, number theory",0.4046,1.0,1.1125
+all,hashing,"dp, number theory",0.4653,1.0,1.1125
+all,geometry,"dfs and similar, dp",0.6069,0.8936,1.1122
+all,combinatorics,"games, two pointers",0.6965,0.9414,1.1117
+all,"games, two pointers",combinatorics,0.6965,0.8225,1.1117
+all,dsu,"data structures, number theory",0.7168,0.996,1.1116
+all,"data structures, number theory",dsu,0.7168,0.8,1.1116
+all,"dsu, number theory",binary search,0.6908,0.9637,1.1115
+all,"bitmasks, geometry",binary search,0.6098,0.9635,1.1112
+all,trees,"games, two pointers",0.6879,0.9407,1.1109
+all,"games, two pointers",trees,0.6879,0.8123,1.1109
+all,dsu,"data structures, two pointers",0.6908,0.9598,1.1107
+all,dsu,bitmasks,0.6792,0.9438,1.1107
+all,"dp, dsu",bitmasks,0.6792,0.9438,1.1107
+all,"data structures, dsu",bitmasks,0.6792,0.9438,1.1107
+all,"dsu, games",binary search,0.6763,0.963,1.1106
+all,hashing,binary search,0.448,0.9627,1.1104
+all,"hashing, number theory",binary search,0.448,0.9627,1.1104
+all,"dp, hashing",binary search,0.448,0.9627,1.1104
+all,"binary search, games",bitmasks,0.7717,0.9435,1.1103
+all,bitmasks,"binary search, games",0.7717,0.9082,1.1103
+all,dsu,"games, number theory",0.6994,0.9719,1.1098
+all,geometry,dfs and similar,0.6098,0.8979,1.1095
+all,hashing,"data structures, number theory",0.4624,0.9938,1.1092
+all,dfs and similar,"games, two pointers",0.7601,0.9393,1.1092
+all,"games, two pointers",dfs and similar,0.7601,0.8976,1.1092
+all,"dfs and similar, shortest paths",games,0.4046,1.0,1.109
+all,schedules,games,0.4046,1.0,1.109
+all,"dp, schedules",games,0.4046,1.0,1.109
+all,"number theory, schedules",games,0.4046,1.0,1.109
+all,"schedules, two pointers",games,0.4017,1.0,1.109
+all,"hashing, two pointers",games,0.4566,1.0,1.109
+all,"binary search, hashing",games,0.448,1.0,1.109
+all,"combinatorics, hashing",games,0.4335,1.0,1.109
+all,"graphs, hashing",games,0.4335,1.0,1.109
+all,graph matchings,games,0.4191,1.0,1.109
+all,"data structures, graph matchings",games,0.4191,1.0,1.109
+all,"graph matchings, number theory",games,0.4191,1.0,1.109
+all,"graph matchings, two pointers",games,0.4162,1.0,1.109
+all,"dp, graph matchings",games,0.4162,1.0,1.109
+all,"bitmasks, graph matchings",games,0.4133,1.0,1.109
+all,"binary search, graph matchings",games,0.4133,1.0,1.109
+all,"graph matchings, graphs",games,0.4017,1.0,1.109
+all,"bitmasks, data structures",binary search,0.7861,0.9611,1.1085
+all,binary search,"bitmasks, data structures",0.7861,0.9067,1.1085
+all,divide and conquer,"number theory, two pointers",0.5173,0.9835,1.1085
+all,geometry,"binary search, two pointers",0.6243,0.9191,1.1081
+all,dsu,"dp, number theory",0.7168,0.996,1.1081
+all,dfs and similar,binary search,0.7775,0.9607,1.108
+all,binary search,dfs and similar,0.7775,0.8967,1.108
+all,interactive,"data structures, games",0.6156,0.9509,1.1078
+all,"dfs and similar, dp",binary search,0.7717,0.9604,1.1077
+all,binary search,"dfs and similar, dp",0.7717,0.89,1.1077
+all,binary search,"dfs and similar, number theory",0.7688,0.8867,1.1075
+all,"dfs and similar, number theory",binary search,0.7688,0.9603,1.1075
+all,dsu,binary search,0.6908,0.9598,1.107
+all,"dp, dsu",binary search,0.6908,0.9598,1.107
+all,"data structures, dsu",binary search,0.6908,0.9598,1.107
+all,interactive,"number theory, two pointers",0.6358,0.9821,1.1069
+all,geometry,"binary search, data structures",0.6301,0.9277,1.1068
+all,divide and conquer,"dp, number theory",0.5231,0.9945,1.1064
+all,hashing,"number theory, two pointers",0.4566,0.9814,1.106
+all,"geometry, trees",two pointers,0.5549,1.0,1.1054
+all,"geometry, interactive",two pointers,0.5,1.0,1.1054
+all,"divide and conquer, graphs",two pointers,0.5116,1.0,1.1054
+all,"dfs and similar, divide and conquer",two pointers,0.5116,1.0,1.1054
+all,"graphs, shortest paths",two pointers,0.4046,1.0,1.1054
+all,"dfs and similar, shortest paths",two pointers,0.4046,1.0,1.1054
+all,"combinatorics, shortest paths",two pointers,0.4017,1.0,1.1054
+all,"graphs, hashing",two pointers,0.4335,1.0,1.1054
+all,"bitmasks, graph matchings",two pointers,0.4133,1.0,1.1054
+all,"binary search, graph matchings",two pointers,0.4133,1.0,1.1054
+all,bitmasks,"binary search, number theory",0.8006,0.9422,1.1051
+all,"binary search, number theory",bitmasks,0.8006,0.939,1.1051
+all,graph matchings,"dp, number theory",0.4162,0.9931,1.1049
+all,"geometry, two pointers",bitmasks,0.6185,0.9386,1.1046
+all,"games, geometry",bitmasks,0.6156,0.9383,1.1043
+all,graphs,"data structures, games",0.7341,0.9478,1.1041
+all,"data structures, games",graphs,0.7341,0.8552,1.1041
+all,divide and conquer,"data structures, number theory",0.5202,0.989,1.1039
+all,"binary search, data structures",bitmasks,0.7861,0.9379,1.1038
+all,bitmasks,"binary search, data structures",0.7861,0.9252,1.1038
+all,"bitmasks, games",binary search,0.7717,0.957,1.1037
+all,binary search,"bitmasks, games",0.7717,0.89,1.1037
+all,geometry,"bitmasks, number theory",0.6301,0.9277,1.103
+all,interactive,"dp, number theory",0.6416,0.9911,1.1026
+all,"dp, geometry",binary search,0.6272,0.9559,1.1025
+all,"data structures, hashing",games,0.4595,0.9938,1.102
+all,bitmasks,"dp, two pointers",0.8064,0.949,1.1018
+all,"dp, two pointers",bitmasks,0.8064,0.9362,1.1018
+all,"divide and conquer, geometry",games,0.4451,0.9935,1.1018
+all,graphs,"number theory, two pointers",0.7572,0.9776,1.1018
+all,"number theory, two pointers",graphs,0.7572,0.8534,1.1018
+all,geometry,"bitmasks, dp",0.6272,0.9234,1.1017
+all,"bitmasks, dp",binary search,0.8006,0.9552,1.1016
+all,binary search,"bitmasks, dp",0.8006,0.9233,1.1016
+all,"games, two pointers",graphs,0.7225,0.8532,1.1016
+all,graphs,"games, two pointers",0.7225,0.9328,1.1016
+all,"hashing, trees",games,0.4277,0.9933,1.1015
+all,"geometry, hashing",games,0.4249,0.9932,1.1015
+all,"dsu, hashing",games,0.4191,0.9932,1.1014
+all,"binary search, dp",bitmasks,0.8006,0.9358,1.1013
+all,bitmasks,"binary search, dp",0.8006,0.9422,1.1013
+all,shortest paths,games,0.4104,0.993,1.1012
+all,"number theory, shortest paths",games,0.4104,0.993,1.1012
+all,"dp, shortest paths",games,0.4104,0.993,1.1012
+all,"data structures, shortest paths",games,0.4104,0.993,1.1012
+all,"binary search, shortest paths",games,0.4104,0.993,1.1012
+all,"shortest paths, two pointers",games,0.4075,0.993,1.1012
+all,"bitmasks, shortest paths",games,0.4046,0.9929,1.1011
+all,"geometry, number theory",bitmasks,0.6301,0.9356,1.1011
+all,"data structures, geometry",bitmasks,0.6301,0.9356,1.1011
+all,"graphs, shortest paths",games,0.4017,0.9929,1.1011
+all,"combinatorics, dfs and similar",two pointers,0.6879,0.9958,1.1008
+all,"combinatorics, trees",two pointers,0.6503,0.9956,1.1005
+all,interactive,"data structures, dp",0.6301,0.9732,1.1004
+all,trees,"number theory, two pointers",0.7139,0.9763,1.1003
+all,"number theory, two pointers",trees,0.7139,0.8046,1.1003

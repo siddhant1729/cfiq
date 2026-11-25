@@ -1,0 +1,4 @@
+algorithm,clusters,noise_points,silhouette
+kmeans,3,0,0.23681076329396644
+agglomerative,3,0,0.21416468348630646
+dbscan,1,90,

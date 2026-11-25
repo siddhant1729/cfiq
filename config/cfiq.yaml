@@ -1,0 +1,119 @@
+# CFIQ configuration. Structural settings live here; secrets and run knobs
+# (DB credentials, SAMPLE_SIZE, RANDOM_SEED) live in .env and override this file.
+
+api:
+  base_url: https://codeforces.com/api/
+  user_agent: cfiq-dmdw-project/0.1
+  min_interval_seconds: 2.0        # Codeforces allows ~1 request / 2 s
+  timeout_seconds: 60
+  max_retries: 5                   # retries after the first attempt
+  backoff_base_seconds: 2.0        # delay = base * 2^attempt  (2, 4, 8, 16, 32 s)
+  retry_http_codes: [429, 500, 502, 503, 504]
+  # A FAILED response whose comment contains one of these is permanent
+  # (e.g. a renamed handle) and is NOT retried.
+  permanent_error_patterns:
+    - "not found"
+    - "should contain"
+    - "is incorrect"
+  user_info_batch_size: 300        # handles per user.info call
+
+paths:
+  raw_cache: data/raw              # one JSON file per (endpoint, params)
+  sample_file: data/sample_users.csv
+  clean_dir: data/clean
+  reports: reports
+
+sampling:
+  sample_size: 3000                # overridden by SAMPLE_SIZE in .env or --sample-size
+  seed: 42                         # overridden by RANDOM_SEED in .env or --seed
+  allocation: equal                # equal | proportional
+
+# Discretization / concept hierarchy: rating -> band.
+# `lower` is inclusive; a band runs up to the next band's lower bound.
+rating_bands:
+  - {code: NEWBIE, name: Newbie,           lower: null}
+  - {code: PUPIL,  name: Pupil,            lower: 1200}
+  - {code: SPEC,   name: Specialist,       lower: 1400}
+  - {code: EXPERT, name: Expert,           lower: 1600}
+  - {code: CM,     name: Candidate Master, lower: 1900}
+  - {code: MASTER, name: Master,           lower: 2100}
+  - {code: GM,     name: Grandmaster,      lower: 2400}
+
+# ---------------------------------------------------------------- Transform
+transform:
+  tag_hierarchy_file: config/tag_hierarchy.yaml
+  # Data cleaning: keep only official in-contest participations.
+  # Dropped: PRACTICE, VIRTUAL, OUT_OF_COMPETITION (unofficial), and gym contests.
+  keep_participant_types: [CONTESTANT]
+  gym_contest_id_min: 100000          # Codeforces gym contests have ids >= 100000
+  drop_verdicts: [TESTING, null]      # in-flight / missing verdicts
+  # Missing problem ratings: impute | drop   (both are run and compared in mining)
+  missing_rating_strategy: impute
+  default_initial_rating: 1400        # rating assumed before a user's first rated contest
+
+  # Contest division from contest name: first regex that matches wins.
+  division_rules:
+    - {pattern: 'Div\.\s*1\s*\+\s*Div\.\s*2', division: "Div. 1+2"}
+    - {pattern: 'Div\.\s*1',                  division: "Div. 1"}
+    - {pattern: 'Div\.\s*2',                  division: "Div. 2"}
+    - {pattern: 'Div\.\s*3',                  division: "Div. 3"}
+    - {pattern: 'Div\.\s*4',                  division: "Div. 4"}
+    - {pattern: 'Educational',                division: "Educational"}
+    - {pattern: 'Global Round',               division: "Global"}
+  default_division: Other
+
+  # Language normalization: raw compiler name -> family. First regex match wins
+  # (so C++ is tested before C).
+  language_rules:
+    - {pattern: 'C\+\+|G\+\+|Clang\+\+', family: "C++"}
+    - {pattern: 'PyPy|Python',           family: "Python"}
+    - {pattern: 'Kotlin',                family: "Kotlin"}
+    - {pattern: 'Java',                  family: "Java"}
+    - {pattern: 'C#|Mono',               family: "C#"}
+    - {pattern: 'Rust',                  family: "Rust"}
+    - {pattern: '^Go\b',                 family: "Go"}
+    - {pattern: 'JavaScript|Node',       family: "JavaScript"}
+    - {pattern: 'Pascal|Delphi',         family: "Pascal"}
+    - {pattern: '^GNU C\d*$|^C\d+',      family: "C"}
+  default_language_family: Other
+
+# ---------------------------------------------------------------- Mining
+mining:
+  random_state: 42
+  association:
+    drop_items_above_support: 0.95      # near-universal tags only give lift ~ 1 rules
+    min_support: 0.40
+    min_confidence: 0.80
+    min_lift: 1.10
+    max_len: 3
+    runtime_supports: [0.6, 0.5, 0.4, 0.3]               # per-user transactions (dense)
+    basket_runtime_supports: [0.1, 0.05, 0.03, 0.02, 0.01]  # contest baskets (sparse)
+    runtime_repeats: 3
+    constraint_band: GM                 # constraint-based mining: rules within one band
+    constraint_category: graph theory   # ...and rules whose items are all in one category
+  classification:
+    test_fraction: 0.2                  # most recent 20% of (user, problem) pairs by time
+    scaler: zscore                      # zscore | minmax
+    svm_max_train: 8000                 # SVC is O(n^2); train on a stratified subsample
+    mlp_hidden: [32, 16]
+  clustering:
+    k_range: [2, 10]
+    min_k_choice: 3                     # pick the best-silhouette k among k >= this
+    min_solved: 20                      # users with fewer tag-solves are too sparse to profile
+    dbscan_min_samples: 8               # rule of thumb: number of features + 1
+    dbscan_max_noise_fraction: 0.30     # reject eps values that call >30% of users noise
+    dbscan_eps_quantiles: [0.05, 0.1, 0.15, 0.2, 0.25, 0.3, 0.35, 0.4, 0.45, 0.5, 0.55, 0.6,
+                           0.65, 0.7, 0.75, 0.8, 0.85, 0.9, 0.95]  # eps candidates (k-distance graph);
+                                        # the one with the best silhouette (>= 2 clusters) is used
+  outliers:
+    z_threshold: 3.0
+    iqr_multiplier: 1.5
+    skip_first_contests: 6              # newcomer boosts on the first 6 rated contests are expected
+    burst_window_seconds: 60
+    top_n: 50
+  stream:
+    replay_batch_size: 500
+    replay_max_submissions: 20000       # contest.status count for replay mode
+    default_division: "Div. 1"           # default contest = latest finished one of this division
+    live_poll_count: 1000
+    live_interval_seconds: 15

@@ -1,0 +1,13 @@
+band_name,language_family,year,submissions,acceptance_pct
+Expert,C++,2024,2811,46.64
+Expert,C++,2025,5550,48.88
+Expert,C++,2026,6585,52.77
+Expert,Python,2024,427,58.78
+Expert,Python,2025,107,27.1
+Expert,Python,2026,368,47.28
+Candidate Master,C++,2024,1734,52.88
+Candidate Master,C++,2025,3239,48.75
+Candidate Master,C++,2026,3358,57.5
+Candidate Master,Python,2024,64,43.75
+Candidate Master,Python,2025,181,40.88
+Candidate Master,Python,2026,261,49.81

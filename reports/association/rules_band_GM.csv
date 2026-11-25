@@ -1,0 +1,831 @@
+rule_set,antecedents,consequents,support,confidence,lift
+band:GM,"communication, flows",expression parsing,0.42,0.875,1.3672
+band:GM,"chinese remainder theorem, communication",expression parsing,0.42,0.875,1.3672
+band:GM,communication,"expression parsing, flows",0.42,0.8077,1.3462
+band:GM,communication,"chinese remainder theorem, expression parsing",0.42,0.8077,1.3462
+band:GM,meet-in-the-middle,"schedules, ternary search",0.42,0.913,1.3427
+band:GM,meet-in-the-middle,"chinese remainder theorem, schedules",0.42,0.913,1.3427
+band:GM,meet-in-the-middle,"flows, schedules",0.44,0.9565,1.3285
+band:GM,"schedules, string suffix structures",*special,0.56,0.9032,1.3283
+band:GM,*special,"schedules, string suffix structures",0.56,0.8235,1.3283
+band:GM,"expression parsing, schedules",*special,0.5,0.8929,1.313
+band:GM,"expression parsing, string suffix structures",*special,0.5,0.8929,1.313
+band:GM,"2-sat, communication",expression parsing,0.42,0.84,1.3125
+band:GM,"chinese remainder theorem, string suffix structures",expression parsing,0.52,0.8387,1.3105
+band:GM,expression parsing,"chinese remainder theorem, string suffix structures",0.52,0.8125,1.3105
+band:GM,communication,"2-sat, expression parsing",0.42,0.8077,1.3027
+band:GM,communication,"chinese remainder theorem, string suffix structures",0.42,0.8077,1.3027
+band:GM,"*special, hashing",string suffix structures,0.6,0.9375,1.3021
+band:GM,string suffix structures,"*special, hashing",0.6,0.8333,1.3021
+band:GM,"*special, chinese remainder theorem",expression parsing,0.5,0.8333,1.3021
+band:GM,"communication, matrices",expression parsing,0.4,0.8333,1.3021
+band:GM,"communication, fft",expression parsing,0.4,0.8333,1.3021
+band:GM,"*special, ternary search",string suffix structures,0.58,0.9355,1.2993
+band:GM,string suffix structures,"*special, ternary search",0.58,0.8056,1.2993
+band:GM,"shortest paths, string suffix structures",*special,0.6,0.8824,1.2976
+band:GM,*special,"shortest paths, string suffix structures",0.6,0.8824,1.2976
+band:GM,"graph matchings, string suffix structures",*special,0.6,0.8824,1.2976
+band:GM,*special,"graph matchings, string suffix structures",0.6,0.8824,1.2976
+band:GM,"expression parsing, ternary search",string suffix structures,0.54,0.931,1.2931
+band:GM,"2-sat, string suffix structures",*special,0.58,0.8788,1.2923
+band:GM,"flows, string suffix structures",*special,0.58,0.8788,1.2923
+band:GM,*special,"2-sat, string suffix structures",0.58,0.8529,1.2923
+band:GM,*special,"flows, string suffix structures",0.58,0.8529,1.2923
+band:GM,expression parsing,"graph matchings, string suffix structures",0.56,0.875,1.2868
+band:GM,expression parsing,"shortest paths, string suffix structures",0.56,0.875,1.2868
+band:GM,"graph matchings, string suffix structures",expression parsing,0.56,0.8235,1.2868
+band:GM,"shortest paths, string suffix structures",expression parsing,0.56,0.8235,1.2868
+band:GM,"*special, expression parsing",string suffix structures,0.5,0.9259,1.286
+band:GM,"communication, flows",chinese remainder theorem,0.48,1.0,1.2821
+band:GM,"communication, schedules",chinese remainder theorem,0.44,1.0,1.2821
+band:GM,"communication, expression parsing",chinese remainder theorem,0.42,1.0,1.2821
+band:GM,"communication, string suffix structures",chinese remainder theorem,0.42,1.0,1.2821
+band:GM,"flows, meet-in-the-middle",schedules,0.44,1.0,1.2821
+band:GM,"chinese remainder theorem, meet-in-the-middle",schedules,0.42,1.0,1.2821
+band:GM,"chinese remainder theorem, string suffix structures",*special,0.54,0.871,1.2808
+band:GM,"expression parsing, matrices",*special,0.54,0.871,1.2808
+band:GM,"expression parsing, fft",*special,0.54,0.871,1.2808
+band:GM,"expression parsing, graph matchings",*special,0.54,0.871,1.2808
+band:GM,"flows, string suffix structures",expression parsing,0.54,0.8182,1.2784
+band:GM,"2-sat, string suffix structures",expression parsing,0.54,0.8182,1.2784
+band:GM,"*special, matrices",expression parsing,0.54,0.8182,1.2784
+band:GM,"*special, fft",expression parsing,0.54,0.8182,1.2784
+band:GM,"*special, graph matchings",expression parsing,0.54,0.8182,1.2784
+band:GM,"*special, shortest paths",expression parsing,0.54,0.8182,1.2784
+band:GM,expression parsing,"flows, string suffix structures",0.54,0.8438,1.2784
+band:GM,expression parsing,"2-sat, string suffix structures",0.54,0.8438,1.2784
+band:GM,expression parsing,"*special, matrices",0.54,0.8438,1.2784
+band:GM,expression parsing,"*special, fft",0.54,0.8438,1.2784
+band:GM,expression parsing,"*special, graph matchings",0.54,0.8438,1.2784
+band:GM,expression parsing,"*special, shortest paths",0.54,0.8438,1.2784
+band:GM,"expression parsing, flows",*special,0.52,0.8667,1.2745
+band:GM,"*special, flows",expression parsing,0.52,0.8125,1.2695
+band:GM,expression parsing,"*special, flows",0.52,0.8125,1.2695
+band:GM,"*special, hashing",expression parsing,0.52,0.8125,1.2695
+band:GM,expression parsing,"*special, hashing",0.52,0.8125,1.2695
+band:GM,"*special, 2-sat",expression parsing,0.52,0.8125,1.2695
+band:GM,expression parsing,"*special, 2-sat",0.52,0.8125,1.2695
+band:GM,meet-in-the-middle,"chinese remainder theorem, fft",0.42,0.913,1.2681
+band:GM,"expression parsing, ternary search",*special,0.5,0.8621,1.2677
+band:GM,*special,string suffix structures,0.62,0.9118,1.2663
+band:GM,string suffix structures,*special,0.62,0.8611,1.2663
+band:GM,"*special, shortest paths",string suffix structures,0.6,0.9091,1.2626
+band:GM,"*special, matrices",string suffix structures,0.6,0.9091,1.2626
+band:GM,"*special, fft",string suffix structures,0.6,0.9091,1.2626
+band:GM,"*special, graph matchings",string suffix structures,0.6,0.9091,1.2626
+band:GM,"communication, schedules",string suffix structures,0.4,0.9091,1.2626
+band:GM,string suffix structures,"*special, shortest paths",0.6,0.8333,1.2626
+band:GM,string suffix structures,"*special, matrices",0.6,0.8333,1.2626
+band:GM,string suffix structures,"*special, fft",0.6,0.8333,1.2626
+band:GM,string suffix structures,"*special, graph matchings",0.6,0.8333,1.2626
+band:GM,communication,expression parsing,0.42,0.8077,1.262
+band:GM,"communication, shortest paths",expression parsing,0.42,0.8077,1.262
+band:GM,communication,"expression parsing, shortest paths",0.42,0.8077,1.262
+band:GM,*special,"matrices, string suffix structures",0.6,0.8824,1.2605
+band:GM,*special,"fft, string suffix structures",0.6,0.8824,1.2605
+band:GM,*special,"hashing, string suffix structures",0.6,0.8824,1.2605
+band:GM,"matrices, string suffix structures",*special,0.6,0.8571,1.2605
+band:GM,"fft, string suffix structures",*special,0.6,0.8571,1.2605
+band:GM,"hashing, string suffix structures",*special,0.6,0.8571,1.2605
+band:GM,"schedules, string suffix structures",expression parsing,0.5,0.8065,1.2601
+band:GM,"*special, schedules",expression parsing,0.5,0.8065,1.2601
+band:GM,"*special, string suffix structures",expression parsing,0.5,0.8065,1.2601
+band:GM,"*special, ternary search",expression parsing,0.5,0.8065,1.2601
+band:GM,"*special, 2-sat",string suffix structures,0.58,0.9062,1.2587
+band:GM,"*special, flows",string suffix structures,0.58,0.9062,1.2587
+band:GM,expression parsing,"chinese remainder theorem, fft",0.58,0.9062,1.2587
+band:GM,string suffix structures,"*special, 2-sat",0.58,0.8056,1.2587
+band:GM,string suffix structures,"*special, flows",0.58,0.8056,1.2587
+band:GM,"chinese remainder theorem, fft",expression parsing,0.58,0.8056,1.2587
+band:GM,meet-in-the-middle,"schedules, shortest paths",0.44,0.9565,1.2586
+band:GM,meet-in-the-middle,"graph matchings, schedules",0.44,0.9565,1.2586
+band:GM,meet-in-the-middle,"2-sat, schedules",0.44,0.9565,1.2586
+band:GM,meet-in-the-middle,"flows, graph matchings",0.44,0.9565,1.2586
+band:GM,meet-in-the-middle,"2-sat, ternary search",0.44,0.9565,1.2586
+band:GM,"*special, schedules",string suffix structures,0.56,0.9032,1.2545
+band:GM,"expression parsing, matrices",string suffix structures,0.56,0.9032,1.2545
+band:GM,"expression parsing, hashing",string suffix structures,0.56,0.9032,1.2545
+band:GM,"expression parsing, fft",string suffix structures,0.56,0.9032,1.2545
+band:GM,"expression parsing, graph matchings",string suffix structures,0.56,0.9032,1.2545
+band:GM,"string suffix structures, ternary search",*special,0.58,0.8529,1.2543
+band:GM,*special,"string suffix structures, ternary search",0.58,0.8529,1.2543
+band:GM,expression parsing,"matrices, string suffix structures",0.56,0.875,1.25
+band:GM,expression parsing,"hashing, string suffix structures",0.56,0.875,1.25
+band:GM,expression parsing,"fft, string suffix structures",0.56,0.875,1.25
+band:GM,"matrices, string suffix structures",expression parsing,0.56,0.8,1.25
+band:GM,"hashing, string suffix structures",expression parsing,0.56,0.8,1.25
+band:GM,"fft, string suffix structures",expression parsing,0.56,0.8,1.25
+band:GM,"schedules, ternary search",flows,0.68,1.0,1.25
+band:GM,"chinese remainder theorem, string suffix structures",flows,0.62,1.0,1.25
+band:GM,"*special, chinese remainder theorem",flows,0.6,1.0,1.25
+band:GM,"chinese remainder theorem, ternary search",flows,0.72,1.0,1.25
+band:GM,"expression parsing, ternary search",flows,0.58,1.0,1.25
+band:GM,"chinese remainder theorem, communication",flows,0.48,1.0,1.25
+band:GM,"communication, schedules",flows,0.44,1.0,1.25
+band:GM,"communication, expression parsing",flows,0.42,1.0,1.25
+band:GM,"communication, string suffix structures",flows,0.42,1.0,1.25
+band:GM,"meet-in-the-middle, schedules",flows,0.44,1.0,1.25
+band:GM,"chinese remainder theorem, meet-in-the-middle",flows,0.42,1.0,1.25
+band:GM,"*special, chinese remainder theorem",string suffix structures,0.54,0.9,1.25
+band:GM,flows,"chinese remainder theorem, ternary search",0.72,0.9,1.25
+band:GM,"expression parsing, flows",string suffix structures,0.54,0.9,1.25
+band:GM,"communication, hashing",expression parsing,0.4,0.8,1.25
+band:GM,"communication, graph matchings",expression parsing,0.4,0.8,1.25
+band:GM,"communication, ternary search",expression parsing,0.4,0.8,1.25
+band:GM,flows,"schedules, ternary search",0.68,0.85,1.25
+band:GM,"flows, hashing",chinese remainder theorem,0.72,0.973,1.2474
+band:GM,chinese remainder theorem,"flows, hashing",0.72,0.9231,1.2474
+band:GM,communication,"chinese remainder theorem, flows",0.48,0.9231,1.2474
+band:GM,communication,"chinese remainder theorem, schedules",0.44,0.8462,1.2443
+band:GM,expression parsing,*special,0.54,0.8438,1.2408
+band:GM,expression parsing,"string suffix structures, ternary search",0.54,0.8438,1.2408
+band:GM,"expression parsing, shortest paths",*special,0.54,0.8438,1.2408
+band:GM,"2-sat, expression parsing",chinese remainder theorem,0.6,0.9677,1.2407
+band:GM,"expression parsing, schedules",string suffix structures,0.5,0.8929,1.2401
+band:GM,"expression parsing, flows",chinese remainder theorem,0.58,0.9667,1.2393
+band:GM,"expression parsing, ternary search",chinese remainder theorem,0.56,0.9655,1.2378
+band:GM,meet-in-the-middle,"fft, flows",0.42,0.913,1.2338
+band:GM,meet-in-the-middle,"fft, schedules",0.42,0.913,1.2338
+band:GM,meet-in-the-middle,"chinese remainder theorem, flows",0.42,0.913,1.2338
+band:GM,meet-in-the-middle,"chinese remainder theorem, graph matchings",0.42,0.913,1.2338
+band:GM,expression parsing,"2-sat, chinese remainder theorem",0.6,0.9375,1.2336
+band:GM,"expression parsing, hashing",*special,0.52,0.8387,1.2334
+band:GM,"2-sat, expression parsing",*special,0.52,0.8387,1.2334
+band:GM,*special,"fft, flows",0.62,0.9118,1.2321
+band:GM,"fft, flows",*special,0.62,0.8378,1.2321
+band:GM,"2-sat, communication",chinese remainder theorem,0.48,0.96,1.2308
+band:GM,"communication, matrices",chinese remainder theorem,0.46,0.9583,1.2286
+band:GM,communication,"chinese remainder theorem, ternary search",0.46,0.8846,1.2286
+band:GM,meet-in-the-middle,schedules,0.44,0.9565,1.2263
+band:GM,"meet-in-the-middle, shortest paths",schedules,0.44,0.9565,1.2263
+band:GM,"matrices, meet-in-the-middle",schedules,0.44,0.9565,1.2263
+band:GM,meet-in-the-middle,"matrices, schedules",0.44,0.9565,1.2263
+band:GM,"graph matchings, meet-in-the-middle",schedules,0.44,0.9565,1.2263
+band:GM,"2-sat, meet-in-the-middle",schedules,0.44,0.9565,1.2263
+band:GM,meet-in-the-middle,"flows, matrices",0.44,0.9565,1.2263
+band:GM,meet-in-the-middle,"2-sat, flows",0.44,0.9565,1.2263
+band:GM,*special,"flows, schedules",0.6,0.8824,1.2255
+band:GM,"flows, schedules",*special,0.6,0.8333,1.2255
+band:GM,"chinese remainder theorem, expression parsing",*special,0.5,0.8333,1.2255
+band:GM,expression parsing,"chinese remainder theorem, graph matchings",0.58,0.9062,1.2247
+band:GM,expression parsing,"chinese remainder theorem, flows",0.58,0.9062,1.2247
+band:GM,expression parsing,"flows, hashing",0.58,0.9062,1.2247
+band:GM,expression parsing,"fft, flows",0.58,0.9062,1.2247
+band:GM,"meet-in-the-middle, ternary search",schedules,0.42,0.9545,1.2238
+band:GM,"fft, meet-in-the-middle",schedules,0.42,0.9545,1.2238
+band:GM,"fft, meet-in-the-middle",chinese remainder theorem,0.42,0.9545,1.2238
+band:GM,"flows, meet-in-the-middle",chinese remainder theorem,0.42,0.9545,1.2238
+band:GM,"meet-in-the-middle, schedules",chinese remainder theorem,0.42,0.9545,1.2238
+band:GM,communication,"flows, string suffix structures",0.42,0.8077,1.2238
+band:GM,communication,"2-sat, string suffix structures",0.42,0.8077,1.2238
+band:GM,"communication, string suffix structures",schedules,0.4,0.9524,1.221
+band:GM,"hashing, meet-in-the-middle",chinese remainder theorem,0.4,0.9524,1.221
+band:GM,"hashing, meet-in-the-middle",schedules,0.4,0.9524,1.221
+band:GM,meet-in-the-middle,"2-sat, graph matchings",0.46,1.0,1.2195
+band:GM,"2-sat, ternary search",flows,0.74,0.9737,1.2171
+band:GM,"2-sat, chinese remainder theorem",flows,0.74,0.9737,1.2171
+band:GM,flows,"2-sat, ternary search",0.74,0.925,1.2171
+band:GM,flows,"2-sat, chinese remainder theorem",0.74,0.925,1.2171
+band:GM,"2-sat, flows",chinese remainder theorem,0.74,0.9487,1.2163
+band:GM,chinese remainder theorem,"2-sat, flows",0.74,0.9487,1.2163
+band:GM,"chinese remainder theorem, graph matchings",flows,0.72,0.973,1.2162
+band:GM,flows,"chinese remainder theorem, graph matchings",0.72,0.9,1.2162
+band:GM,expression parsing,string suffix structures,0.56,0.875,1.2153
+band:GM,expression parsing,"chinese remainder theorem, ternary search",0.56,0.875,1.2153
+band:GM,"expression parsing, shortest paths",string suffix structures,0.56,0.875,1.2153
+band:GM,flows,"chinese remainder theorem, fft",0.7,0.875,1.2153
+band:GM,"communication, matrices",string suffix structures,0.42,0.875,1.2153
+band:GM,"communication, flows",string suffix structures,0.42,0.875,1.2153
+band:GM,"chinese remainder theorem, communication",string suffix structures,0.42,0.875,1.2153
+band:GM,"chinese remainder theorem, fft",flows,0.7,0.9722,1.2153
+band:GM,chinese remainder theorem,"flows, graph matchings",0.72,0.9231,1.2146
+band:GM,chinese remainder theorem,"flows, ternary search",0.72,0.9231,1.2146
+band:GM,chinese remainder theorem,"2-sat, ternary search",0.72,0.9231,1.2146
+band:GM,communication,"2-sat, ternary search",0.48,0.9231,1.2146
+band:GM,communication,"2-sat, chinese remainder theorem",0.48,0.9231,1.2146
+band:GM,"flows, graph matchings",chinese remainder theorem,0.72,0.9474,1.2146
+band:GM,"flows, ternary search",chinese remainder theorem,0.72,0.9474,1.2146
+band:GM,"2-sat, ternary search",chinese remainder theorem,0.72,0.9474,1.2146
+band:GM,"chinese remainder theorem, schedules",flows,0.66,0.9706,1.2132
+band:GM,"shortest paths, string suffix structures",flows,0.66,0.9706,1.2132
+band:GM,flows,"chinese remainder theorem, schedules",0.66,0.825,1.2132
+band:GM,flows,"shortest paths, string suffix structures",0.66,0.825,1.2132
+band:GM,"fft, flows",chinese remainder theorem,0.7,0.9459,1.2128
+band:GM,chinese remainder theorem,"fft, flows",0.7,0.8974,1.2128
+band:GM,"2-sat, string suffix structures",flows,0.64,0.9697,1.2121
+band:GM,"*special, shortest paths",flows,0.64,0.9697,1.2121
+band:GM,"*special, matrices",flows,0.64,0.9697,1.2121
+band:GM,flows,"2-sat, string suffix structures",0.64,0.8,1.2121
+band:GM,flows,"*special, shortest paths",0.64,0.8,1.2121
+band:GM,flows,"*special, matrices",0.64,0.8,1.2121
+band:GM,"schedules, ternary search",*special,0.56,0.8235,1.2111
+band:GM,*special,"schedules, ternary search",0.56,0.8235,1.2111
+band:GM,"chinese remainder theorem, schedules",*special,0.56,0.8235,1.2111
+band:GM,*special,"chinese remainder theorem, schedules",0.56,0.8235,1.2111
+band:GM,"*special, 2-sat",flows,0.62,0.9688,1.2109
+band:GM,"schedules, string suffix structures",flows,0.6,0.9677,1.2097
+band:GM,"*special, schedules",flows,0.6,0.9677,1.2097
+band:GM,"*special, ternary search",flows,0.6,0.9677,1.2097
+band:GM,"2-sat, expression parsing",string suffix structures,0.54,0.871,1.2097
+band:GM,"chinese remainder theorem, expression parsing",flows,0.58,0.9667,1.2083
+band:GM,meet-in-the-middle,"chinese remainder theorem, ternary search",0.4,0.8696,1.2077
+band:GM,meet-in-the-middle,"hashing, schedules",0.4,0.8696,1.2077
+band:GM,"schedules, ternary search",chinese remainder theorem,0.64,0.9412,1.2066
+band:GM,*special,"flows, matrices",0.64,0.9412,1.2066
+band:GM,chinese remainder theorem,"schedules, ternary search",0.64,0.8205,1.2066
+band:GM,"flows, matrices",*special,0.64,0.8205,1.2066
+band:GM,"expression parsing, string suffix structures",flows,0.54,0.9643,1.2054
+band:GM,"2-sat, string suffix structures",chinese remainder theorem,0.62,0.9394,1.2044
+band:GM,"flows, string suffix structures",chinese remainder theorem,0.62,0.9394,1.2044
+band:GM,"*special, shortest paths",schedules,0.62,0.9394,1.2044
+band:GM,"*special, matrices",schedules,0.62,0.9394,1.2044
+band:GM,"chinese remainder theorem, expression parsing",string suffix structures,0.52,0.8667,1.2037
+band:GM,"*special, expression parsing",flows,0.52,0.963,1.2037
+band:GM,"*special, 2-sat",schedules,0.6,0.9375,1.2019
+band:GM,"*special, flows",schedules,0.6,0.9375,1.2019
+band:GM,"*special, 2-sat",chinese remainder theorem,0.6,0.9375,1.2019
+band:GM,"*special, flows",chinese remainder theorem,0.6,0.9375,1.2019
+band:GM,expression parsing,chinese remainder theorem,0.6,0.9375,1.2019
+band:GM,"expression parsing, shortest paths",chinese remainder theorem,0.6,0.9375,1.2019
+band:GM,expression parsing,"chinese remainder theorem, shortest paths",0.6,0.9375,1.2019
+band:GM,meet-in-the-middle,"flows, ternary search",0.42,0.913,1.2014
+band:GM,meet-in-the-middle,"chinese remainder theorem, matrices",0.42,0.913,1.2014
+band:GM,meet-in-the-middle,"2-sat, chinese remainder theorem",0.42,0.913,1.2014
+band:GM,string suffix structures,"fft, flows",0.64,0.8889,1.2012
+band:GM,string suffix structures,"flows, hashing",0.64,0.8889,1.2012
+band:GM,"fft, flows",string suffix structures,0.64,0.8649,1.2012
+band:GM,"flows, hashing",string suffix structures,0.64,0.8649,1.2012
+band:GM,"2-sat, communication",flows,0.48,0.96,1.2
+band:GM,*special,"flows, graph matchings",0.62,0.9118,1.1997
+band:GM,*special,"schedules, shortest paths",0.62,0.9118,1.1997
+band:GM,"flows, graph matchings",*special,0.62,0.8158,1.1997
+band:GM,"schedules, shortest paths",*special,0.62,0.8158,1.1997
+band:GM,"*special, ternary search",chinese remainder theorem,0.58,0.9355,1.1993
+band:GM,"expression parsing, matrices",chinese remainder theorem,0.58,0.9355,1.1993
+band:GM,"expression parsing, hashing",chinese remainder theorem,0.58,0.9355,1.1993
+band:GM,"expression parsing, fft",chinese remainder theorem,0.58,0.9355,1.1993
+band:GM,"expression parsing, graph matchings",chinese remainder theorem,0.58,0.9355,1.1993
+band:GM,"communication, matrices",flows,0.46,0.9583,1.1979
+band:GM,"*special, chinese remainder theorem",schedules,0.56,0.9333,1.1966
+band:GM,"chinese remainder theorem, ternary search",string suffix structures,0.62,0.8611,1.196
+band:GM,string suffix structures,"chinese remainder theorem, ternary search",0.62,0.8611,1.196
+band:GM,meet-in-the-middle,flows,0.44,0.9565,1.1957
+band:GM,"meet-in-the-middle, shortest paths",flows,0.44,0.9565,1.1957
+band:GM,meet-in-the-middle,"flows, shortest paths",0.44,0.9565,1.1957
+band:GM,"matrices, meet-in-the-middle",flows,0.44,0.9565,1.1957
+band:GM,"graph matchings, meet-in-the-middle",flows,0.44,0.9565,1.1957
+band:GM,"2-sat, meet-in-the-middle",flows,0.44,0.9565,1.1957
+band:GM,meet-in-the-middle,"2-sat, fft",0.44,0.9565,1.1957
+band:GM,meet-in-the-middle,"matrices, ternary search",0.44,0.9565,1.1957
+band:GM,communication,"chinese remainder theorem, graph matchings",0.46,0.8846,1.1954
+band:GM,communication,"flows, hashing",0.46,0.8846,1.1954
+band:GM,expression parsing,"chinese remainder theorem, schedules",0.52,0.8125,1.1949
+band:GM,"meet-in-the-middle, ternary search",flows,0.42,0.9545,1.1932
+band:GM,"fft, meet-in-the-middle",flows,0.42,0.9545,1.1932
+band:GM,expression parsing,"chinese remainder theorem, matrices",0.58,0.9062,1.1924
+band:GM,expression parsing,"chinese remainder theorem, hashing",0.58,0.9062,1.1924
+band:GM,expression parsing,"flows, graph matchings",0.58,0.9062,1.1924
+band:GM,expression parsing,"flows, ternary search",0.58,0.9062,1.1924
+band:GM,*special,"flows, hashing",0.6,0.8824,1.1924
+band:GM,*special,"fft, schedules",0.6,0.8824,1.1924
+band:GM,*special,"chinese remainder theorem, flows",0.6,0.8824,1.1924
+band:GM,*special,"chinese remainder theorem, graph matchings",0.6,0.8824,1.1924
+band:GM,"flows, hashing",*special,0.6,0.8108,1.1924
+band:GM,"fft, schedules",*special,0.6,0.8108,1.1924
+band:GM,"chinese remainder theorem, flows",*special,0.6,0.8108,1.1924
+band:GM,"chinese remainder theorem, graph matchings",*special,0.6,0.8108,1.1924
+band:GM,meet-in-the-middle,"graph matchings, matrices",0.46,1.0,1.1905
+band:GM,meet-in-the-middle,"2-sat, matrices",0.46,1.0,1.1905
+band:GM,meet-in-the-middle,"2-sat, shortest paths",0.46,1.0,1.1905
+band:GM,"hashing, meet-in-the-middle",flows,0.4,0.9524,1.1905
+band:GM,"expression parsing, string suffix structures",chinese remainder theorem,0.52,0.9286,1.1905
+band:GM,"expression parsing, schedules",chinese remainder theorem,0.52,0.9286,1.1905
+band:GM,communication,"schedules, ternary search",0.42,0.8077,1.1878
+band:GM,communication,"graph matchings, string suffix structures",0.42,0.8077,1.1878
+band:GM,communication,"string suffix structures, ternary search",0.42,0.8077,1.1878
+band:GM,communication,"shortest paths, string suffix structures",0.42,0.8077,1.1878
+band:GM,"*special, expression parsing",schedules,0.5,0.9259,1.1871
+band:GM,"*special, expression parsing",chinese remainder theorem,0.5,0.9259,1.1871
+band:GM,flows,chinese remainder theorem,0.74,0.925,1.1859
+band:GM,"2-sat, hashing",chinese remainder theorem,0.74,0.925,1.1859
+band:GM,"flows, shortest paths",chinese remainder theorem,0.74,0.925,1.1859
+band:GM,flows,"chinese remainder theorem, shortest paths",0.74,0.925,1.1859
+band:GM,chinese remainder theorem,flows,0.74,0.9487,1.1859
+band:GM,chinese remainder theorem,"2-sat, hashing",0.74,0.9487,1.1859
+band:GM,"chinese remainder theorem, shortest paths",flows,0.74,0.9487,1.1859
+band:GM,chinese remainder theorem,"flows, shortest paths",0.74,0.9487,1.1859
+band:GM,"schedules, ternary search",string suffix structures,0.58,0.8529,1.1846
+band:GM,*special,"hashing, schedules",0.58,0.8529,1.1846
+band:GM,*special,"chinese remainder theorem, ternary search",0.58,0.8529,1.1846
+band:GM,*special,"chinese remainder theorem, fft",0.58,0.8529,1.1846
+band:GM,string suffix structures,"schedules, ternary search",0.58,0.8056,1.1846
+band:GM,"hashing, schedules",*special,0.58,0.8056,1.1846
+band:GM,"chinese remainder theorem, ternary search",*special,0.58,0.8056,1.1846
+band:GM,"chinese remainder theorem, fft",*special,0.58,0.8056,1.1846
+band:GM,"schedules, shortest paths",flows,0.72,0.9474,1.1842
+band:GM,"chinese remainder theorem, matrices",flows,0.72,0.9474,1.1842
+band:GM,"chinese remainder theorem, hashing",flows,0.72,0.9474,1.1842
+band:GM,flows,"schedules, shortest paths",0.72,0.9,1.1842
+band:GM,flows,"chinese remainder theorem, matrices",0.72,0.9,1.1842
+band:GM,flows,"chinese remainder theorem, hashing",0.72,0.9,1.1842
+band:GM,"flows, matrices",schedules,0.72,0.9231,1.1834
+band:GM,schedules,"flows, matrices",0.72,0.9231,1.1834
+band:GM,"flows, matrices",chinese remainder theorem,0.72,0.9231,1.1834
+band:GM,chinese remainder theorem,"flows, matrices",0.72,0.9231,1.1834
+band:GM,communication,chinese remainder theorem,0.48,0.9231,1.1834
+band:GM,"communication, shortest paths",chinese remainder theorem,0.48,0.9231,1.1834
+band:GM,communication,"chinese remainder theorem, shortest paths",0.48,0.9231,1.1834
+band:GM,communication,"2-sat, flows",0.48,0.9231,1.1834
+band:GM,expression parsing,"fft, schedules",0.56,0.875,1.1824
+band:GM,"flows, graph matchings",schedules,0.7,0.9211,1.1808
+band:GM,schedules,"flows, graph matchings",0.7,0.8974,1.1808
+band:GM,"communication, hashing",chinese remainder theorem,0.46,0.92,1.1795
+band:GM,"communication, graph matchings",chinese remainder theorem,0.46,0.92,1.1795
+band:GM,"communication, ternary search",chinese remainder theorem,0.46,0.92,1.1795
+band:GM,flows,"matrices, string suffix structures",0.66,0.825,1.1786
+band:GM,"matrices, string suffix structures",flows,0.66,0.9429,1.1786
+band:GM,"fft, flows",schedules,0.68,0.9189,1.1781
+band:GM,"chinese remainder theorem, graph matchings",schedules,0.68,0.9189,1.1781
+band:GM,schedules,"fft, flows",0.68,0.8718,1.1781
+band:GM,schedules,"chinese remainder theorem, graph matchings",0.68,0.8718,1.1781
+band:GM,flows,"graph matchings, string suffix structures",0.64,0.8,1.1765
+band:GM,flows,"string suffix structures, ternary search",0.64,0.8,1.1765
+band:GM,flows,*special,0.64,0.8,1.1765
+band:GM,"flows, shortest paths",*special,0.64,0.8,1.1765
+band:GM,"graph matchings, string suffix structures",flows,0.64,0.9412,1.1765
+band:GM,"string suffix structures, ternary search",flows,0.64,0.9412,1.1765
+band:GM,*special,flows,0.64,0.9412,1.1765
+band:GM,*special,"flows, shortest paths",0.64,0.9412,1.1765
+band:GM,chinese remainder theorem,"flows, schedules",0.66,0.8462,1.1752
+band:GM,chinese remainder theorem,"hashing, schedules",0.66,0.8462,1.1752
+band:GM,schedules,"chinese remainder theorem, fft",0.66,0.8462,1.1752
+band:GM,"flows, matrices",string suffix structures,0.66,0.8462,1.1752
+band:GM,communication,"chinese remainder theorem, fft",0.44,0.8462,1.1752
+band:GM,communication,"flows, schedules",0.44,0.8462,1.1752
+band:GM,"flows, schedules",chinese remainder theorem,0.66,0.9167,1.1752
+band:GM,"hashing, schedules",chinese remainder theorem,0.66,0.9167,1.1752
+band:GM,"chinese remainder theorem, fft",schedules,0.66,0.9167,1.1752
+band:GM,string suffix structures,"flows, matrices",0.66,0.9167,1.1752
+band:GM,"communication, fft",chinese remainder theorem,0.44,0.9167,1.1752
+band:GM,"communication, matrices",schedules,0.44,0.9167,1.1752
+band:GM,"communication, flows",schedules,0.44,0.9167,1.1752
+band:GM,"chinese remainder theorem, communication",schedules,0.44,0.9167,1.1752
+band:GM,meet-in-the-middle,"flows, hashing",0.4,0.8696,1.1751
+band:GM,"*special, fft",flows,0.62,0.9394,1.1742
+band:GM,"*special, graph matchings",flows,0.62,0.9394,1.1742
+band:GM,"*special, hashing",flows,0.6,0.9375,1.1719
+band:GM,expression parsing,flows,0.6,0.9375,1.1719
+band:GM,expression parsing,"2-sat, fft",0.6,0.9375,1.1719
+band:GM,expression parsing,"2-sat, hashing",0.6,0.9375,1.1719
+band:GM,"expression parsing, shortest paths",flows,0.6,0.9375,1.1719
+band:GM,expression parsing,"flows, shortest paths",0.6,0.9375,1.1719
+band:GM,expression parsing,"hashing, schedules",0.54,0.8438,1.1719
+band:GM,meet-in-the-middle,chinese remainder theorem,0.42,0.913,1.1706
+band:GM,"meet-in-the-middle, shortest paths",chinese remainder theorem,0.42,0.913,1.1706
+band:GM,meet-in-the-middle,"chinese remainder theorem, shortest paths",0.42,0.913,1.1706
+band:GM,"matrices, meet-in-the-middle",chinese remainder theorem,0.42,0.913,1.1706
+band:GM,"graph matchings, meet-in-the-middle",chinese remainder theorem,0.42,0.913,1.1706
+band:GM,"2-sat, meet-in-the-middle",chinese remainder theorem,0.42,0.913,1.1706
+band:GM,string suffix structures,"flows, graph matchings",0.64,0.8889,1.1696
+band:GM,string suffix structures,"flows, ternary search",0.64,0.8889,1.1696
+band:GM,"flows, graph matchings",string suffix structures,0.64,0.8421,1.1696
+band:GM,"flows, ternary search",string suffix structures,0.64,0.8421,1.1696
+band:GM,"*special, string suffix structures",flows,0.58,0.9355,1.1694
+band:GM,"expression parsing, matrices",flows,0.58,0.9355,1.1694
+band:GM,"expression parsing, hashing",flows,0.58,0.9355,1.1694
+band:GM,"expression parsing, fft",flows,0.58,0.9355,1.1694
+band:GM,"expression parsing, graph matchings",flows,0.58,0.9355,1.1694
+band:GM,"2-sat, expression parsing",flows,0.58,0.9355,1.1694
+band:GM,"shortest paths, string suffix structures",schedules,0.62,0.9118,1.1689
+band:GM,"shortest paths, string suffix structures",chinese remainder theorem,0.62,0.9118,1.1689
+band:GM,"graph matchings, string suffix structures",chinese remainder theorem,0.62,0.9118,1.1689
+band:GM,"string suffix structures, ternary search",chinese remainder theorem,0.62,0.9118,1.1689
+band:GM,*special,schedules,0.62,0.9118,1.1689
+band:GM,*special,"2-sat, flows",0.62,0.9118,1.1689
+band:GM,*special,"matrices, schedules",0.62,0.9118,1.1689
+band:GM,"communication, hashing",string suffix structures,0.42,0.84,1.1667
+band:GM,"communication, graph matchings",string suffix structures,0.42,0.84,1.1667
+band:GM,"communication, ternary search",string suffix structures,0.42,0.84,1.1667
+band:GM,"2-sat, communication",string suffix structures,0.42,0.84,1.1667
+band:GM,meet-in-the-middle,"graph matchings, ternary search",0.44,0.9565,1.1665
+band:GM,"2-sat, string suffix structures",schedules,0.6,0.9091,1.1655
+band:GM,"flows, string suffix structures",schedules,0.6,0.9091,1.1655
+band:GM,"*special, fft",schedules,0.6,0.9091,1.1655
+band:GM,"*special, graph matchings",schedules,0.6,0.9091,1.1655
+band:GM,"*special, shortest paths",chinese remainder theorem,0.6,0.9091,1.1655
+band:GM,"*special, matrices",chinese remainder theorem,0.6,0.9091,1.1655
+band:GM,"*special, graph matchings",chinese remainder theorem,0.6,0.9091,1.1655
+band:GM,"meet-in-the-middle, ternary search",chinese remainder theorem,0.4,0.9091,1.1655
+band:GM,communication,"chinese remainder theorem, hashing",0.46,0.8846,1.164
+band:GM,communication,"flows, graph matchings",0.46,0.8846,1.164
+band:GM,communication,"flows, ternary search",0.46,0.8846,1.164
+band:GM,communication,"chinese remainder theorem, matrices",0.46,0.8846,1.164
+band:GM,string suffix structures,"chinese remainder theorem, flows",0.62,0.8611,1.1637
+band:GM,string suffix structures,"chinese remainder theorem, graph matchings",0.62,0.8611,1.1637
+band:GM,"chinese remainder theorem, flows",string suffix structures,0.62,0.8378,1.1637
+band:GM,"chinese remainder theorem, graph matchings",string suffix structures,0.62,0.8378,1.1637
+band:GM,"chinese remainder theorem, schedules",2-sat,0.68,1.0,1.1628
+band:GM,"chinese remainder theorem, string suffix structures",2-sat,0.62,1.0,1.1628
+band:GM,"*special, chinese remainder theorem",2-sat,0.6,1.0,1.1628
+band:GM,"chinese remainder theorem, flows",2-sat,0.74,1.0,1.1628
+band:GM,"chinese remainder theorem, graph matchings",2-sat,0.74,1.0,1.1628
+band:GM,"chinese remainder theorem, ternary search",2-sat,0.72,1.0,1.1628
+band:GM,"chinese remainder theorem, fft",2-sat,0.72,1.0,1.1628
+band:GM,"chinese remainder theorem, expression parsing",2-sat,0.6,1.0,1.1628
+band:GM,"chinese remainder theorem, communication",2-sat,0.48,1.0,1.1628
+band:GM,"communication, flows",2-sat,0.48,1.0,1.1628
+band:GM,"communication, matrices",2-sat,0.48,1.0,1.1628
+band:GM,"communication, schedules",2-sat,0.44,1.0,1.1628
+band:GM,"communication, expression parsing",2-sat,0.42,1.0,1.1628
+band:GM,"communication, string suffix structures",2-sat,0.42,1.0,1.1628
+band:GM,meet-in-the-middle,2-sat,0.46,1.0,1.1628
+band:GM,"graph matchings, meet-in-the-middle",2-sat,0.46,1.0,1.1628
+band:GM,"matrices, meet-in-the-middle",2-sat,0.46,1.0,1.1628
+band:GM,meet-in-the-middle,"graph matchings, shortest paths",0.46,1.0,1.1628
+band:GM,"meet-in-the-middle, shortest paths",2-sat,0.46,1.0,1.1628
+band:GM,"meet-in-the-middle, schedules",2-sat,0.44,1.0,1.1628
+band:GM,"flows, meet-in-the-middle",2-sat,0.44,1.0,1.1628
+band:GM,"fft, meet-in-the-middle",2-sat,0.44,1.0,1.1628
+band:GM,"chinese remainder theorem, meet-in-the-middle",2-sat,0.42,1.0,1.1628
+band:GM,"meet-in-the-middle, ternary search",2-sat,0.44,1.0,1.1628
+band:GM,"hashing, meet-in-the-middle",2-sat,0.42,1.0,1.1628
+band:GM,2-sat,"chinese remainder theorem, flows",0.74,0.8605,1.1628
+band:GM,2-sat,"chinese remainder theorem, graph matchings",0.74,0.8605,1.1628
+band:GM,2-sat,"chinese remainder theorem, ternary search",0.72,0.8372,1.1628
+band:GM,2-sat,"chinese remainder theorem, fft",0.72,0.8372,1.1628
+band:GM,"*special, hashing",schedules,0.58,0.9062,1.1619
+band:GM,"*special, hashing",chinese remainder theorem,0.58,0.9062,1.1619
+band:GM,expression parsing,"flows, matrices",0.58,0.9062,1.1619
+band:GM,expression parsing,"2-sat, flows",0.58,0.9062,1.1619
+band:GM,*special,"2-sat, schedules",0.6,0.8824,1.161
+band:GM,*special,"graph matchings, schedules",0.6,0.8824,1.161
+band:GM,*special,"flows, ternary search",0.6,0.8824,1.161
+band:GM,*special,"2-sat, chinese remainder theorem",0.6,0.8824,1.161
+band:GM,*special,"chinese remainder theorem, matrices",0.6,0.8824,1.161
+band:GM,flows,"2-sat, shortest paths",0.78,0.975,1.1607
+band:GM,"2-sat, shortest paths",flows,0.78,0.9286,1.1607
+band:GM,"expression parsing, schedules",flows,0.52,0.9286,1.1607
+band:GM,schedules,"2-sat, matrices",0.76,0.9744,1.16
+band:GM,schedules,"graph matchings, matrices",0.76,0.9744,1.16
+band:GM,chinese remainder theorem,"2-sat, shortest paths",0.76,0.9744,1.16
+band:GM,"2-sat, matrices",schedules,0.76,0.9048,1.16
+band:GM,"graph matchings, matrices",schedules,0.76,0.9048,1.16
+band:GM,"2-sat, shortest paths",chinese remainder theorem,0.76,0.9048,1.16
+band:GM,"chinese remainder theorem, string suffix structures",schedules,0.56,0.9032,1.158
+band:GM,"schedules, string suffix structures",chinese remainder theorem,0.56,0.9032,1.158
+band:GM,"*special, string suffix structures",schedules,0.56,0.9032,1.158
+band:GM,"*special, ternary search",schedules,0.56,0.9032,1.158
+band:GM,"*special, schedules",chinese remainder theorem,0.56,0.9032,1.158
+band:GM,"expression parsing, matrices",schedules,0.56,0.9032,1.158
+band:GM,"expression parsing, fft",schedules,0.56,0.9032,1.158
+band:GM,"expression parsing, graph matchings",schedules,0.56,0.9032,1.158
+band:GM,"flows, schedules",string suffix structures,0.6,0.8333,1.1574
+band:GM,string suffix structures,"flows, schedules",0.6,0.8333,1.1574
+band:GM,"hashing, schedules",string suffix structures,0.6,0.8333,1.1574
+band:GM,string suffix structures,"hashing, schedules",0.6,0.8333,1.1574
+band:GM,"chinese remainder theorem, fft",string suffix structures,0.6,0.8333,1.1574
+band:GM,string suffix structures,"chinese remainder theorem, fft",0.6,0.8333,1.1574
+band:GM,"communication, fft",string suffix structures,0.4,0.8333,1.1574
+band:GM,schedules,"2-sat, graph matchings",0.74,0.9487,1.157
+band:GM,chinese remainder theorem,"2-sat, graph matchings",0.74,0.9487,1.157
+band:GM,"2-sat, graph matchings",schedules,0.74,0.9024,1.157
+band:GM,"2-sat, graph matchings",chinese remainder theorem,0.74,0.9024,1.157
+band:GM,"matrices, ternary search",flows,0.74,0.925,1.1562
+band:GM,flows,"matrices, ternary search",0.74,0.925,1.1562
+band:GM,communication,"matrices, string suffix structures",0.42,0.8077,1.1538
+band:GM,communication,"hashing, string suffix structures",0.42,0.8077,1.1538
+band:GM,schedules,flows,0.72,0.9231,1.1538
+band:GM,schedules,"2-sat, fft",0.72,0.9231,1.1538
+band:GM,schedules,"flows, shortest paths",0.72,0.9231,1.1538
+band:GM,"matrices, schedules",flows,0.72,0.9231,1.1538
+band:GM,chinese remainder theorem,"2-sat, fft",0.72,0.9231,1.1538
+band:GM,communication,flows,0.48,0.9231,1.1538
+band:GM,communication,"2-sat, hashing",0.48,0.9231,1.1538
+band:GM,"communication, shortest paths",flows,0.48,0.9231,1.1538
+band:GM,communication,"flows, shortest paths",0.48,0.9231,1.1538
+band:GM,flows,schedules,0.72,0.9,1.1538
+band:GM,"2-sat, fft",schedules,0.72,0.9,1.1538
+band:GM,"flows, shortest paths",schedules,0.72,0.9,1.1538
+band:GM,flows,"matrices, schedules",0.72,0.9,1.1538
+band:GM,"2-sat, fft",chinese remainder theorem,0.72,0.9,1.1538
+band:GM,expression parsing,"2-sat, shortest paths",0.62,0.9688,1.1533
+band:GM,expression parsing,"fft, graph matchings",0.62,0.9688,1.1533
+band:GM,expression parsing,"fft, shortest paths",0.62,0.9688,1.1533
+band:GM,expression parsing,"graph matchings, matrices",0.62,0.9688,1.1533
+band:GM,expression parsing,"2-sat, ternary search",0.56,0.875,1.1513
+band:GM,expression parsing,"graph matchings, schedules",0.56,0.875,1.1513
+band:GM,expression parsing,"schedules, shortest paths",0.56,0.875,1.1513
+band:GM,flows,"2-sat, schedules",0.7,0.875,1.1513
+band:GM,flows,"graph matchings, schedules",0.7,0.875,1.1513
+band:GM,"2-sat, schedules",flows,0.7,0.9211,1.1513
+band:GM,"graph matchings, schedules",flows,0.7,0.9211,1.1513
+band:GM,"2-sat, flows",schedules,0.7,0.8974,1.1506
+band:GM,schedules,"2-sat, flows",0.7,0.8974,1.1506
+band:GM,"communication, hashing",flows,0.46,0.92,1.15
+band:GM,"communication, graph matchings",flows,0.46,0.92,1.15
+band:GM,"communication, ternary search",flows,0.46,0.92,1.15
+band:GM,"fft, schedules",flows,0.68,0.9189,1.1486
+band:GM,flows,"fft, schedules",0.68,0.85,1.1486
+band:GM,"schedules, shortest paths",chinese remainder theorem,0.68,0.8947,1.1471
+band:GM,"2-sat, chinese remainder theorem",schedules,0.68,0.8947,1.1471
+band:GM,"2-sat, schedules",chinese remainder theorem,0.68,0.8947,1.1471
+band:GM,"graph matchings, schedules",chinese remainder theorem,0.68,0.8947,1.1471
+band:GM,"chinese remainder theorem, matrices",schedules,0.68,0.8947,1.1471
+band:GM,"flows, ternary search",schedules,0.68,0.8947,1.1471
+band:GM,chinese remainder theorem,"schedules, shortest paths",0.68,0.8718,1.1471
+band:GM,chinese remainder theorem,"2-sat, schedules",0.68,0.8718,1.1471
+band:GM,schedules,"2-sat, chinese remainder theorem",0.68,0.8718,1.1471
+band:GM,chinese remainder theorem,"graph matchings, schedules",0.68,0.8718,1.1471
+band:GM,schedules,"chinese remainder theorem, matrices",0.68,0.8718,1.1471
+band:GM,schedules,"flows, ternary search",0.68,0.8718,1.1471
+band:GM,"hashing, schedules",flows,0.66,0.9167,1.1458
+band:GM,string suffix structures,flows,0.66,0.9167,1.1458
+band:GM,string suffix structures,"flows, shortest paths",0.66,0.9167,1.1458
+band:GM,string suffix structures,"matrices, ternary search",0.66,0.9167,1.1458
+band:GM,string suffix structures,"fft, ternary search",0.66,0.9167,1.1458
+band:GM,"communication, fft",flows,0.44,0.9167,1.1458
+band:GM,flows,"hashing, schedules",0.66,0.825,1.1458
+band:GM,flows,string suffix structures,0.66,0.825,1.1458
+band:GM,"flows, shortest paths",string suffix structures,0.66,0.825,1.1458
+band:GM,"matrices, ternary search",string suffix structures,0.66,0.825,1.1458
+band:GM,"fft, ternary search",string suffix structures,0.66,0.825,1.1458
+band:GM,communication,"2-sat, shortest paths",0.5,0.9615,1.1447
+band:GM,communication,"shortest paths, ternary search",0.5,0.9615,1.1447
+band:GM,communication,"hashing, ternary search",0.5,0.9615,1.1447
+band:GM,"expression parsing, string suffix structures",schedules,0.5,0.8929,1.1447
+band:GM,meet-in-the-middle,"chinese remainder theorem, hashing",0.4,0.8696,1.1442
+band:GM,"chinese remainder theorem, schedules",string suffix structures,0.56,0.8235,1.1438
+band:GM,"flows, hashing",schedules,0.66,0.8919,1.1435
+band:GM,"chinese remainder theorem, flows",schedules,0.66,0.8919,1.1435
+band:GM,"fft, schedules",chinese remainder theorem,0.66,0.8919,1.1435
+band:GM,schedules,"flows, hashing",0.66,0.8462,1.1435
+band:GM,schedules,"chinese remainder theorem, flows",0.66,0.8462,1.1435
+band:GM,chinese remainder theorem,"fft, schedules",0.66,0.8462,1.1435
+band:GM,communication,"fft, flows",0.44,0.8462,1.1435
+band:GM,expression parsing,"2-sat, graph matchings",0.6,0.9375,1.1433
+band:GM,flows,"fft, string suffix structures",0.64,0.8,1.1429
+band:GM,flows,"hashing, string suffix structures",0.64,0.8,1.1429
+band:GM,"fft, string suffix structures",flows,0.64,0.9143,1.1429
+band:GM,"hashing, string suffix structures",flows,0.64,0.9143,1.1429
+band:GM,meet-in-the-middle,"fft, ternary search",0.42,0.913,1.1413
+band:GM,meet-in-the-middle,"2-sat, hashing",0.42,0.913,1.1413
+band:GM,*special,"2-sat, fft",0.62,0.9118,1.1397
+band:GM,schedules,"chinese remainder theorem, ternary search",0.64,0.8205,1.1396
+band:GM,"2-sat, flows",string suffix structures,0.64,0.8205,1.1396
+band:GM,"chinese remainder theorem, ternary search",schedules,0.64,0.8889,1.1396
+band:GM,string suffix structures,"2-sat, flows",0.64,0.8889,1.1396
+band:GM,meet-in-the-middle,"fft, shortest paths",0.44,0.9565,1.1387
+band:GM,meet-in-the-middle,"fft, graph matchings",0.44,0.9565,1.1387
+band:GM,meet-in-the-middle,"shortest paths, ternary search",0.44,0.9565,1.1387
+band:GM,"flows, hashing",ternary search,0.74,1.0,1.1364
+band:GM,"chinese remainder theorem, string suffix structures",ternary search,0.62,1.0,1.1364
+band:GM,"communication, hashing",ternary search,0.5,1.0,1.1364
+band:GM,"communication, string suffix structures",ternary search,0.42,1.0,1.1364
+band:GM,meet-in-the-middle,"matrices, shortest paths",0.46,1.0,1.1364
+band:GM,"hashing, meet-in-the-middle",ternary search,0.42,1.0,1.1364
+band:GM,ternary search,"flows, hashing",0.74,0.8409,1.1364
+band:GM,"matrices, string suffix structures",schedules,0.62,0.8857,1.1355
+band:GM,"matrices, string suffix structures",chinese remainder theorem,0.62,0.8857,1.1355
+band:GM,"hashing, string suffix structures",chinese remainder theorem,0.62,0.8857,1.1355
+band:GM,2-sat,"graph matchings, matrices",0.82,0.9535,1.1351
+band:GM,"graph matchings, matrices",2-sat,0.82,0.9762,1.1351
+band:GM,communication,"flows, matrices",0.46,0.8846,1.1341
+band:GM,flows,2-sat,0.78,0.975,1.1337
+band:GM,"flows, shortest paths",2-sat,0.78,0.975,1.1337
+band:GM,2-sat,flows,0.78,0.907,1.1337
+band:GM,2-sat,"flows, shortest paths",0.78,0.907,1.1337
+band:GM,string suffix structures,"2-sat, ternary search",0.62,0.8611,1.133
+band:GM,string suffix structures,"schedules, shortest paths",0.62,0.8611,1.133
+band:GM,string suffix structures,"2-sat, chinese remainder theorem",0.62,0.8611,1.133
+band:GM,string suffix structures,"chinese remainder theorem, matrices",0.62,0.8611,1.133
+band:GM,string suffix structures,"chinese remainder theorem, hashing",0.62,0.8611,1.133
+band:GM,"2-sat, ternary search",string suffix structures,0.62,0.8158,1.133
+band:GM,"schedules, shortest paths",string suffix structures,0.62,0.8158,1.133
+band:GM,"2-sat, chinese remainder theorem",string suffix structures,0.62,0.8158,1.133
+band:GM,"chinese remainder theorem, matrices",string suffix structures,0.62,0.8158,1.133
+band:GM,"chinese remainder theorem, hashing",string suffix structures,0.62,0.8158,1.133
+band:GM,"flows, matrices",2-sat,0.76,0.9744,1.133
+band:GM,schedules,2-sat,0.76,0.9744,1.133
+band:GM,"matrices, schedules",2-sat,0.76,0.9744,1.133
+band:GM,chinese remainder theorem,2-sat,0.76,0.9744,1.133
+band:GM,"chinese remainder theorem, shortest paths",2-sat,0.76,0.9744,1.133
+band:GM,chinese remainder theorem,"hashing, shortest paths",0.76,0.9744,1.133
+band:GM,2-sat,"flows, matrices",0.76,0.8837,1.133
+band:GM,2-sat,schedules,0.76,0.8837,1.133
+band:GM,2-sat,"matrices, schedules",0.76,0.8837,1.133
+band:GM,2-sat,chinese remainder theorem,0.76,0.8837,1.133
+band:GM,2-sat,"chinese remainder theorem, shortest paths",0.76,0.8837,1.133
+band:GM,"hashing, shortest paths",chinese remainder theorem,0.76,0.8837,1.133
+band:GM,"flows, ternary search",2-sat,0.74,0.9737,1.1322
+band:GM,"flows, graph matchings",2-sat,0.74,0.9737,1.1322
+band:GM,"graph matchings, schedules",2-sat,0.74,0.9737,1.1322
+band:GM,"schedules, shortest paths",2-sat,0.74,0.9737,1.1322
+band:GM,"chinese remainder theorem, hashing",2-sat,0.74,0.9737,1.1322
+band:GM,"chinese remainder theorem, matrices",2-sat,0.74,0.9737,1.1322
+band:GM,2-sat,"flows, ternary search",0.74,0.8605,1.1322
+band:GM,2-sat,"flows, graph matchings",0.74,0.8605,1.1322
+band:GM,2-sat,"graph matchings, schedules",0.74,0.8605,1.1322
+band:GM,2-sat,"schedules, shortest paths",0.74,0.8605,1.1322
+band:GM,2-sat,"chinese remainder theorem, hashing",0.74,0.8605,1.1322
+band:GM,2-sat,"chinese remainder theorem, matrices",0.74,0.8605,1.1322
+band:GM,"fft, flows",2-sat,0.72,0.973,1.1314
+band:GM,"flows, hashing",2-sat,0.72,0.973,1.1314
+band:GM,"fft, schedules",2-sat,0.72,0.973,1.1314
+band:GM,2-sat,"fft, flows",0.72,0.8372,1.1314
+band:GM,2-sat,"flows, hashing",0.72,0.8372,1.1314
+band:GM,2-sat,"fft, schedules",0.72,0.8372,1.1314
+band:GM,"graph matchings, string suffix structures",schedules,0.6,0.8824,1.1312
+band:GM,*special,chinese remainder theorem,0.6,0.8824,1.1312
+band:GM,*special,"chinese remainder theorem, shortest paths",0.6,0.8824,1.1312
+band:GM,flows,"2-sat, matrices",0.76,0.95,1.131
+band:GM,flows,"shortest paths, ternary search",0.76,0.95,1.131
+band:GM,flows,"graph matchings, matrices",0.76,0.95,1.131
+band:GM,"2-sat, matrices",flows,0.76,0.9048,1.131
+band:GM,"shortest paths, ternary search",flows,0.76,0.9048,1.131
+band:GM,"graph matchings, matrices",flows,0.76,0.9048,1.131
+band:GM,"flows, schedules",2-sat,0.7,0.9722,1.1305
+band:GM,"hashing, schedules",2-sat,0.7,0.9722,1.1305
+band:GM,2-sat,"flows, schedules",0.7,0.814,1.1305
+band:GM,2-sat,"hashing, schedules",0.7,0.814,1.1305
+band:GM,schedules,"2-sat, shortest paths",0.74,0.9487,1.1294
+band:GM,chinese remainder theorem,"2-sat, matrices",0.74,0.9487,1.1294
+band:GM,chinese remainder theorem,"graph matchings, matrices",0.74,0.9487,1.1294
+band:GM,"2-sat, shortest paths",schedules,0.74,0.881,1.1294
+band:GM,"2-sat, matrices",chinese remainder theorem,0.74,0.881,1.1294
+band:GM,"graph matchings, matrices",chinese remainder theorem,0.74,0.881,1.1294
+band:GM,"schedules, ternary search",2-sat,0.66,0.9706,1.1286
+band:GM,"shortest paths, string suffix structures",2-sat,0.66,0.9706,1.1286
+band:GM,expression parsing,"flows, schedules",0.52,0.8125,1.1285
+band:GM,"communication, graph matchings",schedules,0.44,0.88,1.1282
+band:GM,"2-sat, communication",schedules,0.44,0.88,1.1282
+band:GM,flows,"graph matchings, ternary search",0.74,0.925,1.128
+band:GM,flows,"2-sat, graph matchings",0.74,0.925,1.128
+band:GM,"graph matchings, ternary search",flows,0.74,0.9024,1.128
+band:GM,"2-sat, graph matchings",flows,0.74,0.9024,1.128
+band:GM,"flows, string suffix structures",2-sat,0.64,0.9697,1.1276
+band:GM,"*special, shortest paths",2-sat,0.64,0.9697,1.1276
+band:GM,"*special, matrices",2-sat,0.64,0.9697,1.1276
+band:GM,"*special, fft",chinese remainder theorem,0.58,0.8788,1.1267
+band:GM,"*special, flows",2-sat,0.62,0.9688,1.1265
+band:GM,expression parsing,2-sat,0.62,0.9688,1.1265
+band:GM,"expression parsing, shortest paths",2-sat,0.62,0.9688,1.1265
+band:GM,expression parsing,"graph matchings, shortest paths",0.62,0.9688,1.1265
+band:GM,expression parsing,"hashing, shortest paths",0.62,0.9688,1.1265
+band:GM,expression parsing,"fft, matrices",0.62,0.9688,1.1265
+band:GM,string suffix structures,"fft, schedules",0.6,0.8333,1.1261
+band:GM,"fft, schedules",string suffix structures,0.6,0.8108,1.1261
+band:GM,communication,"graph matchings, ternary search",0.48,0.9231,1.1257
+band:GM,communication,"2-sat, graph matchings",0.48,0.9231,1.1257
+band:GM,"schedules, string suffix structures",2-sat,0.6,0.9677,1.1253
+band:GM,"*special, schedules",2-sat,0.6,0.9677,1.1253
+band:GM,"expression parsing, graph matchings",2-sat,0.6,0.9677,1.1253
+band:GM,"expression parsing, fft",2-sat,0.6,0.9677,1.1253
+band:GM,"expression parsing, hashing",2-sat,0.6,0.9677,1.1253
+band:GM,"expression parsing, matrices",2-sat,0.6,0.9677,1.1253
+band:GM,"2-sat, fft",flows,0.72,0.9,1.125
+band:GM,flows,"2-sat, fft",0.72,0.9,1.125
+band:GM,"2-sat, hashing",flows,0.72,0.9,1.125
+band:GM,flows,"2-sat, hashing",0.72,0.9,1.125
+band:GM,string suffix structures,"hashing, ternary search",0.68,0.9444,1.1243
+band:GM,string suffix structures,"graph matchings, hashing",0.68,0.9444,1.1243
+band:GM,"hashing, ternary search",string suffix structures,0.68,0.8095,1.1243
+band:GM,"graph matchings, hashing",string suffix structures,0.68,0.8095,1.1243
+band:GM,"expression parsing, flows",2-sat,0.58,0.9667,1.124
+band:GM,"expression parsing, ternary search",2-sat,0.56,0.9655,1.1227
+band:GM,*special,"2-sat, ternary search",0.58,0.8529,1.1223
+band:GM,*special,"chinese remainder theorem, hashing",0.58,0.8529,1.1223
+band:GM,schedules,"2-sat, hashing",0.7,0.8974,1.1218
+band:GM,chinese remainder theorem,"matrices, ternary search",0.7,0.8974,1.1218
+band:GM,expression parsing,schedules,0.56,0.875,1.1218
+band:GM,expression parsing,"matrices, schedules",0.56,0.875,1.1218
+band:GM,"expression parsing, shortest paths",schedules,0.56,0.875,1.1218
+band:GM,"2-sat, hashing",schedules,0.7,0.875,1.1218
+band:GM,"matrices, ternary search",chinese remainder theorem,0.7,0.875,1.1218
+band:GM,"communication, fft",schedules,0.42,0.875,1.1218
+band:GM,communication,string suffix structures,0.42,0.8077,1.1218
+band:GM,communication,"hashing, schedules",0.42,0.8077,1.1218
+band:GM,"communication, shortest paths",string suffix structures,0.42,0.8077,1.1218
+band:GM,"expression parsing, string suffix structures",2-sat,0.54,0.9643,1.1213
+band:GM,"expression parsing, schedules",2-sat,0.54,0.9643,1.1213
+band:GM,*special,"fft, graph matchings",0.64,0.9412,1.1204
+band:GM,*special,"graph matchings, matrices",0.64,0.9412,1.1204
+band:GM,*special,"fft, shortest paths",0.64,0.9412,1.1204
+band:GM,*special,"2-sat, shortest paths",0.64,0.9412,1.1204
+band:GM,*special,"2-sat, matrices",0.64,0.9412,1.1204
+band:GM,*special,"graph matchings, hashing",0.64,0.9412,1.1204
+band:GM,"*special, expression parsing",2-sat,0.52,0.963,1.1197
+band:GM,communication,2-sat,0.5,0.9615,1.1181
+band:GM,"communication, shortest paths",2-sat,0.5,0.9615,1.1181
+band:GM,communication,"graph matchings, shortest paths",0.5,0.9615,1.1181
+band:GM,communication,"hashing, shortest paths",0.5,0.9615,1.1181
+band:GM,string suffix structures,"graph matchings, ternary search",0.66,0.9167,1.1179
+band:GM,"graph matchings, ternary search",string suffix structures,0.66,0.8049,1.1179
+band:GM,chinese remainder theorem,schedules,0.68,0.8718,1.1177
+band:GM,schedules,chinese remainder theorem,0.68,0.8718,1.1177
+band:GM,"chinese remainder theorem, shortest paths",schedules,0.68,0.8718,1.1177
+band:GM,schedules,"chinese remainder theorem, shortest paths",0.68,0.8718,1.1177
+band:GM,"matrices, schedules",chinese remainder theorem,0.68,0.8718,1.1177
+band:GM,chinese remainder theorem,"matrices, schedules",0.68,0.8718,1.1177
+band:GM,"*special, string suffix structures",chinese remainder theorem,0.54,0.871,1.1166
+band:GM,"expression parsing, hashing",schedules,0.54,0.871,1.1166
+band:GM,"2-sat, expression parsing",schedules,0.54,0.871,1.1166
+band:GM,"communication, ternary search",2-sat,0.48,0.96,1.1163
+band:GM,"communication, graph matchings",2-sat,0.48,0.96,1.1163
+band:GM,"communication, hashing",2-sat,0.48,0.96,1.1163
+band:GM,expression parsing,"graph matchings, hashing",0.6,0.9375,1.1161
+band:GM,expression parsing,"2-sat, matrices",0.6,0.9375,1.1161
+band:GM,"communication, fft",2-sat,0.46,0.9583,1.1143
+band:GM,"chinese remainder theorem, hashing",schedules,0.66,0.8684,1.1134
+band:GM,"2-sat, ternary search",schedules,0.66,0.8684,1.1134
+band:GM,schedules,"chinese remainder theorem, hashing",0.66,0.8462,1.1134
+band:GM,schedules,"2-sat, ternary search",0.66,0.8462,1.1134
+band:GM,communication,"graph matchings, schedules",0.44,0.8462,1.1134
+band:GM,communication,"2-sat, schedules",0.44,0.8462,1.1134
+band:GM,communication,"schedules, shortest paths",0.44,0.8462,1.1134
+band:GM,meet-in-the-middle,"fft, matrices",0.44,0.9565,1.1122
+band:GM,*special,"2-sat, graph matchings",0.62,0.9118,1.1119
+band:GM,*special,"graph matchings, ternary search",0.62,0.9118,1.1119
+band:GM,"hashing, schedules",graph matchings,0.72,1.0,1.1111
+band:GM,"chinese remainder theorem, schedules",graph matchings,0.68,1.0,1.1111
+band:GM,"schedules, ternary search",graph matchings,0.68,1.0,1.1111
+band:GM,"chinese remainder theorem, string suffix structures",graph matchings,0.62,1.0,1.1111
+band:GM,"*special, hashing",graph matchings,0.64,1.0,1.1111
+band:GM,"*special, ternary search",graph matchings,0.62,1.0,1.1111
+band:GM,"*special, chinese remainder theorem",graph matchings,0.6,1.0,1.1111
+band:GM,"chinese remainder theorem, fft",graph matchings,0.72,1.0,1.1111
+band:GM,"expression parsing, graph matchings",fft,0.62,1.0,1.1111
+band:GM,"expression parsing, fft",graph matchings,0.62,1.0,1.1111
+band:GM,"expression parsing, matrices",fft,0.62,1.0,1.1111
+band:GM,"expression parsing, matrices",graph matchings,0.62,1.0,1.1111
+band:GM,"expression parsing, string suffix structures",fft,0.56,1.0,1.1111
+band:GM,"expression parsing, string suffix structures",graph matchings,0.56,1.0,1.1111
+band:GM,"expression parsing, schedules",fft,0.56,1.0,1.1111
+band:GM,"expression parsing, schedules",graph matchings,0.56,1.0,1.1111
+band:GM,"*special, expression parsing",fft,0.54,1.0,1.1111
+band:GM,"*special, expression parsing",graph matchings,0.54,1.0,1.1111
+band:GM,"communication, fft",graph matchings,0.48,1.0,1.1111
+band:GM,"communication, matrices",graph matchings,0.48,1.0,1.1111
+band:GM,"communication, schedules",graph matchings,0.44,1.0,1.1111
+band:GM,"communication, string suffix structures",graph matchings,0.42,1.0,1.1111
+band:GM,meet-in-the-middle,graph matchings,0.46,1.0,1.1111
+band:GM,"2-sat, meet-in-the-middle",graph matchings,0.46,1.0,1.1111
+band:GM,"matrices, meet-in-the-middle",graph matchings,0.46,1.0,1.1111
+band:GM,"meet-in-the-middle, shortest paths",graph matchings,0.46,1.0,1.1111
+band:GM,"meet-in-the-middle, schedules",graph matchings,0.44,1.0,1.1111
+band:GM,"flows, meet-in-the-middle",graph matchings,0.44,1.0,1.1111
+band:GM,"fft, meet-in-the-middle",graph matchings,0.44,1.0,1.1111
+band:GM,"chinese remainder theorem, meet-in-the-middle",fft,0.42,1.0,1.1111
+band:GM,"chinese remainder theorem, meet-in-the-middle",graph matchings,0.42,1.0,1.1111
+band:GM,"meet-in-the-middle, ternary search",graph matchings,0.44,1.0,1.1111
+band:GM,"hashing, meet-in-the-middle",fft,0.42,1.0,1.1111
+band:GM,"hashing, meet-in-the-middle",graph matchings,0.42,1.0,1.1111
+band:GM,"expression parsing, flows",schedules,0.52,0.8667,1.1111
+band:GM,"chinese remainder theorem, expression parsing",schedules,0.52,0.8667,1.1111
+band:GM,graph matchings,"hashing, schedules",0.72,0.8,1.1111
+band:GM,"2-sat, fft",string suffix structures,0.64,0.8,1.1111
+band:GM,"2-sat, hashing",string suffix structures,0.64,0.8,1.1111
+band:GM,graph matchings,"chinese remainder theorem, fft",0.72,0.8,1.1111
+band:GM,string suffix structures,"2-sat, fft",0.64,0.8889,1.1111
+band:GM,string suffix structures,"2-sat, hashing",0.64,0.8889,1.1111
+band:GM,expression parsing,"2-sat, schedules",0.54,0.8438,1.1102
+band:GM,flows,"matrices, shortest paths",0.78,0.975,1.108
+band:GM,"matrices, shortest paths",flows,0.78,0.8864,1.108
+band:GM,schedules,"matrices, shortest paths",0.76,0.9744,1.1072
+band:GM,chinese remainder theorem,"matrices, shortest paths",0.76,0.9744,1.1072
+band:GM,"matrices, shortest paths",schedules,0.76,0.8636,1.1072
+band:GM,"matrices, shortest paths",chinese remainder theorem,0.76,0.8636,1.1072
+band:GM,"flows, graph matchings",ternary search,0.74,0.9737,1.1065
+band:GM,ternary search,"flows, graph matchings",0.74,0.8409,1.1065
+band:GM,communication,"fft, ternary search",0.46,0.8846,1.1058
+band:GM,communication,"2-sat, fft",0.46,0.8846,1.1058
+band:GM,communication,"matrices, ternary search",0.46,0.8846,1.1058
+band:GM,"chinese remainder theorem, flows",ternary search,0.72,0.973,1.1057
+band:GM,ternary search,"chinese remainder theorem, flows",0.72,0.8182,1.1057
+band:GM,"expression parsing, ternary search",schedules,0.5,0.8621,1.1052
+band:GM,flows,"graph matchings, shortest paths",0.76,0.95,1.1047
+band:GM,"graph matchings, shortest paths",flows,0.76,0.8837,1.1047
+band:GM,string suffix structures,schedules,0.62,0.8611,1.104
+band:GM,string suffix structures,chinese remainder theorem,0.62,0.8611,1.104
+band:GM,string suffix structures,"matrices, schedules",0.62,0.8611,1.104
+band:GM,string suffix structures,"chinese remainder theorem, shortest paths",0.62,0.8611,1.104
+band:GM,"hashing, string suffix structures",ternary search,0.68,0.9714,1.1039
+band:GM,schedules,"graph matchings, shortest paths",0.74,0.9487,1.1032
+band:GM,schedules,"fft, matrices",0.74,0.9487,1.1032
+band:GM,chinese remainder theorem,"hashing, matrices",0.74,0.9487,1.1032
+band:GM,chinese remainder theorem,"graph matchings, shortest paths",0.74,0.9487,1.1032
+band:GM,"graph matchings, shortest paths",schedules,0.74,0.8605,1.1032
+band:GM,"fft, matrices",schedules,0.74,0.8605,1.1032
+band:GM,"hashing, matrices",chinese remainder theorem,0.74,0.8605,1.1032
+band:GM,"graph matchings, shortest paths",chinese remainder theorem,0.74,0.8605,1.1032
+band:GM,"graph matchings, string suffix structures",ternary search,0.66,0.9706,1.1029
+band:GM,*special,"matrices, shortest paths",0.66,0.9706,1.1029
+band:GM,*special,"2-sat, hashing",0.6,0.8824,1.1029
+band:GM,*special,"matrices, ternary search",0.6,0.8824,1.1029
+band:GM,*special,"fft, ternary search",0.6,0.8824,1.1029
+band:GM,"flows, string suffix structures",ternary search,0.64,0.9697,1.1019
+band:GM,flows,"fft, shortest paths",0.74,0.925,1.1012
+band:GM,flows,"hashing, ternary search",0.74,0.925,1.1012
+band:GM,"fft, shortest paths",flows,0.74,0.881,1.1012
+band:GM,"hashing, ternary search",flows,0.74,0.881,1.1012
+band:GM,"*special, hashing",ternary search,0.62,0.9688,1.1009
+band:GM,expression parsing,"matrices, shortest paths",0.62,0.9688,1.1009

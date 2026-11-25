@@ -1,0 +1,101 @@
+anomaly_type,rank,handle,contest_id,contest_name,value,score,detail
+rating_jump,1,IzhitskiyTimofey,2238,Codeforces Round 1106 (Div. 2),515,4.678,1219 -> 1734 (contest #107 for the user)
+rating_jump,2,Tlatoani,1774,"Polynomial Round 2022 (Div. 1 + Div. 2, Rated, Prizes!)",-382,-4.674,2646 -> 2264 (contest #78 for the user)
+rating_jump,3,QwertyPi,2271,"DeepInfra Round 1 (Codeforces Round 1126, Div. 1 + Div. 2)",378,4.408,2503 -> 2881 (contest #183 for the user)
+rating_jump,4,ksun48,1810,"CodeTON Round 4 (Div. 1 + Div. 2, Rated, Prizes!)",-412,-4.36,3413 -> 3001 (contest #247 for the user)
+rating_jump,5,AlRntn,2146,Codeforces Round 1052 (Div. 2),275,4.191,2076 -> 2351 (contest #65 for the user)
+rating_jump,6,Arterm,1055,Mail.Ru Cup 2018 Round 2,-319,-4.17,2656 -> 2337 (contest #161 for the user)
+rating_jump,7,Wawi,2222,"Spectral::Cup 2026 Round 1 (Codeforces Round 1094, Div. 1 + Div. 2)",-272,-4.154,2189 -> 1917 (contest #90 for the user)
+rating_jump,8,ApraCadabra,1805,Codeforces Round 862 (Div. 2),-236,-3.934,2028 -> 1792 (contest #71 for the user)
+rating_jump,9,tourist,947,"Codeforces Round 470 (rated, Div. 1, based on VK Cup 2018 Round 1)",-290,-3.749,3496 -> 3206 (contest #135 for the user)
+rating_jump,10,shriganesh83,1525,Educational Codeforces Round 109 (Rated for Div. 2),225,3.663,925 -> 1150 (contest #50 for the user)
+rating_jump,11,p0tato,1397,Codeforces Round 666 (Div. 2),247,3.644,1595 -> 1842 (contest #40 for the user)
+rating_jump,12,amirhoseinfar1385,2196,Codeforces Round 1079 (Div. 1),251,3.595,2319 -> 2570 (contest #177 for the user)
+rating_jump,13,Shivam_J_Mishra,2264,Codeforces Round 1121 (Div. 2),199,3.57,746 -> 945 (contest #28 for the user)
+rating_jump,14,amirhoseinfar1385,1694,Codeforces Round 800 (Div. 2),248,3.551,1755 -> 2003 (contest #63 for the user)
+rating_jump,15,seeplusplus,1919,Hello 2024,182,3.549,997 -> 1179 (contest #7 for the user)
+rating_jump,16,tourist,1043,Codeforces Round 519 by Botan Investments,-269,-3.481,3581 -> 3312 (contest #141 for the user)
+rating_jump,17,baluteshih,1204,Codeforces Round 581 (Div. 2),221,3.426,2086 -> 2307 (contest #37 for the user)
+rating_jump,18,m1mirr,2130,Codeforces Round 1040 (Div. 2),255,3.416,1392 -> 1647 (contest #41 for the user)
+rating_jump,19,sansen,2237,"Order Capital Round 2 (Codeforces Round 1104, Div. 1 + Div. 2)",-295,-3.405,2451 -> 2156 (contest #187 for the user)
+rating_jump,20,solar_tree,1720,Codeforces Round 815 (Div. 2),1038,3.385,-12 -> 1026 (contest #18 for the user)
+rating_jump,21,DAleksa,1629,Codeforces Round 767 (Div. 2),219,3.301,1687 -> 1906 (contest #64 for the user)
+rating_jump,22,sandeep_kumar_e,1373,Educational Codeforces Round 90 (Rated for Div. 2),-191,-3.293,1984 -> 1793 (contest #47 for the user)
+rating_jump,23,lucassala,1898,Codeforces Round 910 (Div. 2),-155,-3.274,1767 -> 1612 (contest #28 for the user)
+rating_jump,24,togetherfrist,2134,Codeforces Round 1045 (Div. 2),275,3.239,1345 -> 1620 (contest #7 for the user)
+rating_jump,25,Senku,2111,Educational Codeforces Round 179 (Rated for Div. 2),199,3.227,1658 -> 1857 (contest #72 for the user)
+rating_jump,26,Lyamzin_alexandr,1733,Codeforces Round 821 (Div. 2),217,3.211,1805 -> 2022 (contest #143 for the user)
+rating_jump,27,QwertyPi,1251,Educational Codeforces Round 75 (Rated for Div. 2),276,3.203,1916 -> 2192 (contest #34 for the user)
+rating_jump,28,Lyamzin_alexandr,1820,Codeforces Round 866 (Div. 2),213,3.151,1881 -> 2094 (contest #191 for the user)
+rating_jump,29,cwl769,2236,Codeforces Round 1103 (Div. 3),218,3.149,1550 -> 1768 (contest #50 for the user)
+rating_jump,30,PinkieRabbit,1965,Codeforces Round 941 (Div. 1),-220,-3.147,2890 -> 2670 (contest #78 for the user)
+rating_jump,31,ApraCadabra,1473,Educational Codeforces Round 102 (Rated for Div. 2),199,3.138,1262 -> 1461 (contest #19 for the user)
+rating_jump,32,CDuongg,1713,Codeforces Round 812 (Div. 2),230,3.096,1294 -> 1524 (contest #38 for the user)
+rating_jump,33,luobijihangqingshi,2125,Educational Codeforces Round 181 (Rated for Div. 2),187,3.075,972 -> 1159 (contest #9 for the user)
+rating_jump,34,arnavladdha,2272,Codeforces Round 1130 (Div. 2),-151,-3.064,1694 -> 1543 (contest #44 for the user)
+rating_jump,35,Ved,2071,Codeforces Round 1007 (Div. 2),-175,-3.041,1652 -> 1477 (contest #64 for the user)
+rating_jump,36,IzhitskiyTimofey,2180,Codeforces Global Round 31 (Div. 1 + Div. 2),-321,-3.031,2317 -> 1996 (contest #97 for the user)
+rating_jump,37,orenji,2117,Codeforces Round 1029 (Div. 3),196,3.03,1595 -> 1791 (contest #72 for the user)
+rating_jump,38,Senku,2001,Codeforces Round 967 (Div. 2),187,3.028,1153 -> 1340 (contest #14 for the user)
+rating_jump,39,Alexanderter10,2155,Codeforces Round 1056 (Div. 2),211,3.026,1614 -> 1825 (contest #50 for the user)
+rating_jump,40,CuteJerry,1993,Codeforces Round 963 (Div. 2),200,3.014,1490 -> 1690 (contest #62 for the user)
+rating_jump,41,Marckess,907,"Codeforces Round 454 (Div. 2, based on Technocup 2018 Elimination Round 4)",170,3.012,1873 -> 2043 (contest #16 for the user)
+rating_jump,42,Senku,2244,Codeforces Round 1109 (Div. 3),186,3.011,1549 -> 1735 (contest #146 for the user)
+rating_jump,43,Wawi,2122,"Order Capital Round 1 (Codeforces Round 1038, Div. 1 + Div. 2)",-192,-2.988,2135 -> 1943 (contest #78 for the user)
+rating_jump,44,Timosh,2013,Codeforces Round 973 (Div. 2),254,2.987,1816 -> 2070 (contest #37 for the user)
+rating_jump,45,MisterGir,2119,Codeforces Round 1035 (Div. 2),219,2.971,1925 -> 2144 (contest #41 for the user)
+rating_jump,46,-nameless-,2197,Codeforces Round 1079 (Div. 2),249,2.965,1708 -> 1957 (contest #8 for the user)
+rating_jump,47,gnostik,1704,"CodeTON Round 2 (Div. 1 + Div. 2, Rated, Prizes!)",206,2.958,1726 -> 1932 (contest #10 for the user)
+rating_jump,48,XiangXunyi,2108,Codeforces Round 1022 (Div. 2),219,2.947,1867 -> 2086 (contest #11 for the user)
+rating_jump,49,Codesystem,2092,Codeforces Round 1014 (Div. 2),188,2.945,1334 -> 1522 (contest #31 for the user)
+rating_jump,50,ksun48,1827,Codeforces Round 873 (Div. 1),284,2.936,2962 -> 3246 (contest #250 for the user)
+submission_burst,1,tourist,1639,Pinely Treasure Hunt Contest,49,59.63,"49 submissions in one 60s window, 520 in the contest"
+submission_burst,2,p0tato,1639,Pinely Treasure Hunt Contest,47,57.136,"47 submissions in one 60s window, 762 in the contest"
+submission_burst,3,KostasKostil,1639,Pinely Treasure Hunt Contest,41,49.652,"41 submissions in one 60s window, 297 in the contest"
+submission_burst,4,baluteshih,1639,Pinely Treasure Hunt Contest,29,34.685,"29 submissions in one 60s window, 404 in the contest"
+submission_burst,5,Golovanov399,1639,Pinely Treasure Hunt Contest,25,29.696,"25 submissions in one 60s window, 104 in the contest"
+submission_burst,6,Holpens,1639,Pinely Treasure Hunt Contest,19,22.213,"19 submissions in one 60s window, 275 in the contest"
+submission_burst,7,maxplus,642,VK Cup 2016 - Wild Card Round 2,15,17.224,"15 submissions in one 60s window, 759 in the contest"
+submission_burst,8,Golovanov399,921,AIM Tech Mini Marathon 1,14,15.977,"14 submissions in one 60s window, 56 in the contest"
+submission_burst,9,maxplus,537,VK Cup 2015 - Wild Card Round 2,12,13.482,"12 submissions in one 60s window, 2280 in the contest"
+submission_burst,10,amirhoseinfar1385,1639,Pinely Treasure Hunt Contest,12,13.482,"12 submissions in one 60s window, 23 in the contest"
+submission_burst,11,maxplus,1639,Pinely Treasure Hunt Contest,11,12.235,"11 submissions in one 60s window, 118 in the contest"
+submission_burst,12,tourist,45,School Team Contest 3 (Winter Computer School 2010/11),10,10.988,"10 submissions in one 60s window, 30 in the contest"
+submission_burst,13,Horka,2214,April Fools Day Contest 2026,10,10.988,"10 submissions in one 60s window, 129 in the contest"
+submission_burst,14,maxplus,684,Codeforces Marathon Round 1,9,9.74,"9 submissions in one 60s window, 395 in the contest"
+submission_burst,15,RainRecall,2214,April Fools Day Contest 2026,9,9.74,"9 submissions in one 60s window, 38 in the contest"
+submission_burst,16,tourist,1524,ICPC Challenge 2021: Marathon (powered by Huawei),9,9.74,"9 submissions in one 60s window, 302 in the contest"
+submission_burst,17,Timosh,2214,April Fools Day Contest 2026,8,8.493,"8 submissions in one 60s window, 47 in the contest"
+submission_burst,18,ksun48,784,April Fools Contest 2017,8,8.493,"8 submissions in one 60s window, 125 in the contest"
+submission_burst,19,DigitalVest,2214,April Fools Day Contest 2026,8,8.493,"8 submissions in one 60s window, 56 in the contest"
+submission_burst,20,Golovanov399,1331,April Fools Day Contest 2020,8,8.493,"8 submissions in one 60s window, 50 in the contest"
+submission_burst,21,KostasKostil,1952,April Fools Day Contest 2024,8,8.493,"8 submissions in one 60s window, 43 in the contest"
+submission_burst,22,permutation,2214,April Fools Day Contest 2026,7,7.246,"7 submissions in one 60s window, 34 in the contest"
+submission_burst,23,Timosh,1952,April Fools Day Contest 2024,6,5.999,"6 submissions in one 60s window, 27 in the contest"
+submission_burst,24,milk81,2214,April Fools Day Contest 2026,6,5.999,"6 submissions in one 60s window, 31 in the contest"
+submission_burst,25,IzhitskiyTimofey,1610,Codeforces Global Round 17,6,5.999,"6 submissions in one 60s window, 17 in the contest"
+submission_burst,26,CDuongg,2214,April Fools Day Contest 2026,6,5.999,"6 submissions in one 60s window, 36 in the contest"
+submission_burst,27,Golovanov399,1663,April Fools Day Contest 2022,6,5.999,"6 submissions in one 60s window, 71 in the contest"
+submission_burst,28,KostasKostil,1014,Codeforces Marathon Round 2,5,4.751,"5 submissions in one 60s window, 161 in the contest"
+submission_burst,29,rui_er,1952,April Fools Day Contest 2024,5,4.751,"5 submissions in one 60s window, 85 in the contest"
+submission_burst,30,Ormlis,1750,"CodeTON Round 3 (Div. 1 + Div. 2, Rated, Prizes!)",5,4.751,"5 submissions in one 60s window, 13 in the contest"
+submission_burst,31,KostasKostil,1468,"2020-2021 ICPC, NERC, Southern and Volga Russian Regional Contest (Online Mirror, ICPC Rules)",5,4.751,"5 submissions in one 60s window, 40 in the contest"
+submission_burst,32,tourist,409,April Fools Day Contest 2014,5,4.751,"5 submissions in one 60s window, 18 in the contest"
+submission_burst,33,maxplus,1812,April Fools Day Contest 2023,5,4.751,"5 submissions in one 60s window, 74 in the contest"
+submission_burst,34,PinkieRabbit,1842,"CodeTON Round 5 (Div. 1 + Div. 2, Rated, Prizes!)",5,4.751,"5 submissions in one 60s window, 43 in the contest"
+submission_burst,35,k1sara,1764,Codeforces Global Round 24,5,4.751,"5 submissions in one 60s window, 9 in the contest"
+submission_burst,36,Ormlis,1776,"SWERC 2022-2023 - Online Mirror (Unrated, ICPC Rules, Teams Preferred)",5,4.751,"5 submissions in one 60s window, 37 in the contest"
+submission_burst,37,Golovanov399,1275,VK Cup 2019 - Квалификация (Engine),5,4.751,"5 submissions in one 60s window, 10 in the contest"
+submission_burst,38,lucassala,2095,April Fools Day Contest 2025,5,4.751,"5 submissions in one 60s window, 36 in the contest"
+submission_burst,39,Ormlis,1813,ICPC 2023 Online Spring Challenge powered by Huawei,5,4.751,"5 submissions in one 60s window, 135 in the contest"
+submission_burst,40,maxplus,2177,ICPC 2025 Online Winter Challenge powered by Huawei,5,4.751,"5 submissions in one 60s window, 883 in the contest"
+submission_burst,41,Senku,2095,April Fools Day Contest 2025,5,4.751,"5 submissions in one 60s window, 24 in the contest"
+submission_burst,42,ksun48,1952,April Fools Day Contest 2024,5,4.751,"5 submissions in one 60s window, 50 in the contest"
+submission_burst,43,kolorVXL,2214,April Fools Day Contest 2026,5,4.751,"5 submissions in one 60s window, 21 in the contest"
+submission_burst,44,cwl769,2214,April Fools Day Contest 2026,5,4.751,"5 submissions in one 60s window, 22 in the contest"
+submission_burst,45,Ormlis,2214,April Fools Day Contest 2026,5,4.751,"5 submissions in one 60s window, 31 in the contest"
+submission_burst,46,KostasKostil,1813,ICPC 2023 Online Spring Challenge powered by Huawei,4,3.504,"4 submissions in one 60s window, 97 in the contest"
+submission_burst,47,IzhitskiyTimofey,1952,April Fools Day Contest 2024,4,3.504,"4 submissions in one 60s window, 19 in the contest"
+submission_burst,48,k1sara,2287,Codeforces Round 1136 (Div. 1),4,3.504,"4 submissions in one 60s window, 6 in the contest"
+submission_burst,49,tourist,2077,Codeforces Round 1008 (Div. 1),4,3.504,"4 submissions in one 60s window, 15 in the contest"
+submission_burst,50,QwertyPi,1812,April Fools Day Contest 2023,4,3.504,"4 submissions in one 60s window, 49 in the contest"

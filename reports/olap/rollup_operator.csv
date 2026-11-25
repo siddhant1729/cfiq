@@ -1,0 +1,48 @@
+category,tag,submissions,acceptance_pct
+algorithms,binary search,18517,41.8
+algorithms,bitmasks,11682,44.28
+algorithms,constructive algorithms,39822,48.27
+algorithms,divide and conquer,4050,35.63
+algorithms,dp,27443,46.69
+algorithms,greedy,67028,52.24
+algorithms,meet-in-the-middle,239,35.15
+algorithms,sortings,18146,53.17
+algorithms,ternary search,1030,37.48
+algorithms,two pointers,10266,49.15
+algorithms,** subtotal **,109924,50.35
+data structures,data structures,21055,44.24
+data structures,dsu,4735,44.98
+data structures,** subtotal **,23443,44.51
+graph theory,2-sat,419,47.97
+graph theory,dfs and similar,11228,41.45
+graph theory,flows,893,34.71
+graph theory,graph matchings,1236,37.78
+graph theory,graphs,14825,33.25
+graph theory,shortest paths,2474,38.08
+graph theory,trees,9408,40.45
+graph theory,** subtotal **,24767,36.43
+implementation,brute force,29305,47.94
+implementation,communication,447,29.75
+implementation,implementation,33298,51.83
+implementation,interactive,11805,16.49
+implementation,schedules,529,50.09
+implementation,** subtotal **,63996,44.79
+math,chinese remainder theorem,591,33.5
+math,combinatorics,8705,53.18
+math,fft,797,47.55
+math,games,6679,55.35
+math,geometry,3751,45.05
+math,math,53999,53.07
+math,matrices,1031,44.42
+math,number theory,13262,48.18
+math,probabilities,2658,31.87
+math,** subtotal **,66730,51.77
+other,*broken,34,17.65
+other,*special,15733,12.98
+other,** subtotal **,15767,12.99
+strings,expression parsing,418,35.41
+strings,hashing,2135,40.52
+strings,strings,10247,53.23
+strings,string suffix structures,684,33.33
+strings,** subtotal **,12014,51.49
+** ALL **,** subtotal **,148024,46.89
